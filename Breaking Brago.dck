@@ -4,8 +4,8 @@ Name=Breaking Brago
 1 Brago, King Eternal|EMA
 [Main]
 1 Adarkar Wastes|10E
+1 Agent of Treachery|M20
 1 Altar of the Brood|KTK
-1 Angel of Finality|C13
 1 Arcane Lighthouse|C14
 1 Archaeomancer|M14
 1 Armageddon|A25
@@ -55,7 +55,6 @@ Name=Breaking Brago
 1 Pact of Negation|A25
 1 Panharmonicon|KLD
 1 Parallax Tide|NMS
-1 Parallax Wave|NMS
 1 Peregrine Drake|EMA
 1 Pithing Needle|RTR
 1 Plains|ZEN|1
@@ -90,15 +89,7 @@ Name=Breaking Brago
 1 Traveler's Cloak|CNS
 1 Venser, Shaper Savant|MM3
 1 Venser, the Sojourner|SOM
+1 Watcher for Tomorrow|MH1
 1 Winter Orb|EMA
 [Sideboard]
-1 Act of Authority|C13
-1 Angel of Serenity|C15
-1 Azor, the Lawbringer|RIX
-1 Catastrophe|USG
-1 Cursed Totem|6ED
-1 Drowner of Hope|BFZ
-1 Orim's Chant|PLS
-1 Relic of Progenitus|EMA
-1 Reveillark|MOR
-1 Unquestioned Authority|JUD
+

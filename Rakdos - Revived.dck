@@ -24,6 +24,7 @@ Name=Rakdos - Revived!
 1 Deadly Tempest|C15
 1 Doom Blade|IMA
 1 Dragon Mage|C16
+1 Dragonmaster Outcast|BFZ
 1 Dragonskull Summit|XLN
 1 Dread Cacodemon|COM
 1 Dreadhorde Butcher|WAR
@@ -35,15 +36,13 @@ Name=Rakdos - Revived!
 1 Goblin Fireslinger|MM2
 1 Hammer of Purphoros|THS
 1 Harsh Mentor|AKH
-1 Havoc Festival|RTR
-1 Heartless Hidetsugu|CNS
 1 Inferno Titan|C15
 1 Insult // Injury|AKH
 1 Leechridden Swamp|DDR
 1 Lightning Greaves|C17
 1 Lobber Crew|RTR
 1 Loreseeker's Stone|CM2
-1 Mayhem Devil|WAR
+1 Master of Cruelties|GK2
 1 Mine Layer|ODY
 2 Mountain|BFZ|1
 12 Mountain|BFZ|4
@@ -80,6 +79,8 @@ Name=Rakdos - Revived!
 1 Void Winnower|BFZ
 1 War's Toll|BBD
 1 Warstorm Surge|CM2
+1 Wayfarer's Bauble|CM2
 1 Whip of Erebos|THS
 [Sideboard]
 1 Graveborn Muse|10E
+1 Heartless Hidetsugu|CNS

@@ -17,7 +17,6 @@ Name=Forever Feathery Friends
 1 Boros Charm|GK1
 1 Boros Cluestone|CM2
 1 Boros Garrison|GK1
-1 Boros Keyrune|GK1
 1 Boros Signet|GK1
 1 Bruna, the Fading Light|EMN
 1 Burnished Hart|C15
@@ -33,6 +32,7 @@ Name=Forever Feathery Friends
 1 Eerie Interlude|SOI
 1 Expedite|BBD
 1 Fell the Mighty|C17
+1 Fists of Flame|MH1
 1 Gird for Battle|GRN
 1 Gisela, Blade of Goldnight|CM2
 1 Gisela, the Broken Blade|EMN
@@ -78,6 +78,7 @@ Name=Forever Feathery Friends
 1 Young Pyromancer|UMA
 1 Zada, Hedron Grinder|A25
 [Sideboard]
+1 Boros Keyrune|GK1
 1 Gilded Lotus|DOM
 1 Lightning Greaves|CM2
 1 Pyromancer's Goggles|ORI
