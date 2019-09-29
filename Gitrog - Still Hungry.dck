@@ -21,7 +21,7 @@ Name=Gitrog - Still Hungry
 1 Dread Return|DDQ
 1 Drownyard Temple|SOI
 1 Ebon Stronghold|PD3
-1 Elvish Mystic|DDU
+1 Elvish Reclaimer|M20
 1 Entomb|UMA
 1 Eternal Witness|CM2
 1 Evolving Wilds|C18
@@ -30,7 +30,6 @@ Name=Gitrog - Still Hungry
 1 Farseek|C17
 9 Forest|BFZ|2
 1 Gaea's Blessing|DOM
-1 Genesis|MH1
 1 Ghost Quarter|CM2
 1 Golgari Grave-Troll|UMA
 1 Golgari Thug|DDJ
@@ -82,8 +81,12 @@ Name=Gitrog - Still Hungry
 1 Tranquil Thicket|C18
 1 Ulamog, the Infinite Gyre|MM2
 1 Underrealm Lich|GRN
+1 Veil of Summer|M20
 1 Victimize|CMA
 1 Wayward Swordtooth|RIX
 1 Wild Mongrel|VMA
 1 World Shaper|RIX
 1 Worm Harvest|C18
+[Sideboard]
+1 Elvish Mystic|DDU
+1 Genesis|MH1
