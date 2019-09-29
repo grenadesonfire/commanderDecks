@@ -10,13 +10,12 @@ Name=Emmara, Tap Me Daddy
 1 Ashnod's Altar|EMA
 1 Aura Shards|COM
 1 Blighted Woodland|BFZ
-1 Blossoming Sands|EMA
+1 Bramble Sovereign|BBD
 1 Canopy Vista|EXP
 1 Cathars' Crusade|C16
 1 Champion of Lambholt|AVR
 1 Chord of Calling|M15
 1 Command Tower|C18
-1 Craterhoof Behemoth|MM3
 1 Cryptolith Rite|SOI
 1 Dawn of Hope|GRN
 1 Devout Invocation|M14
@@ -31,6 +30,7 @@ Name=Emmara, Tap Me Daddy
 1 Finale of Glory|WAR
 8 Forest|ZEN|1
 1 Fortified Village|SOI
+1 Gargoyle Castle|C14
 1 Geist-Honored Monk|ISD
 1 Giant Adephage|GTC
 1 Glare of Subdual|EMA
@@ -42,15 +42,17 @@ Name=Emmara, Tap Me Daddy
 1 Harvest Season|AKH
 1 Holdout Settlement|OGW
 1 Hornet Queen|M15
+1 Idol of Oblivion|C19
 1 Impervious Greatwurm|GRN
 1 Intangible Virtue|MM3
 1 Krosan Grip|MMA
 1 March of the Multitudes|GRN
 1 Mentor of the Meek|M19
-1 Mobile Garrison|AER
+1 Mimic Vat|C18
 1 Mosswort Bridge|LRW
 1 Nature's Claim|IMA
 1 Nature's Lore|VMA
+1 Nullmage Shepherd|RAV
 1 Paradise Mantle|MMA
 1 Parallel Lives|ISD
 1 Parhelion II|WAR
@@ -70,17 +72,15 @@ Name=Emmara, Tap Me Daddy
 1 Sol Ring|C18
 1 Soul's Attendant|ROE
 1 Springleaf Drum|BNG
-1 Stirring Wildwood|WWK
 1 Sundering Growth|MM3
+1 Sungrass Prairie|CM2
 1 Sunpetal Grove|XLN
 1 Survivors' Encampment|HOU
 1 Sword of the Paruns|C13
 1 Swords to Plowshares|A25
 1 Temple Garden|GRN
 1 Temple of Plenty|BNG
-1 Throne of the God-Pharaoh|AKH
 1 Tolsimir Wolfblood|RAV
-1 Tranquil Expanse|M19
 1 Trostani Discordant|GRN
 1 Trostani, Selesnya's Voice|RTR
 1 Vitu-Ghazi Guildmage|RTR
@@ -89,8 +89,10 @@ Name=Emmara, Tap Me Daddy
 1 Wilt-Leaf Liege|MM2
 1 Windbrisk Heights|LRW
 [Sideboard]
+1 Blossoming Sands|EMA
 1 Conclave Phalanx|MM2
 1 Feral Incarnation|M15
 1 Huatli, Radiant Champion|RIX
 1 Naturalize|M19
 1 Thornbite Staff|MOR
+1 Throne of the God-Pharaoh|AKH
