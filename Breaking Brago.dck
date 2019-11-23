@@ -44,7 +44,6 @@ Name=Breaking Brago
 1 Lightform|FRF
 1 Lightning Greaves|C17
 1 Mana Vault|VMA
-1 Mnemonic Wall|IMA
 1 Muddle the Mixture|RAV
 1 Mulldrifter|MM2
 1 Mystic Remora|ICE
@@ -69,6 +68,7 @@ Name=Breaking Brago
 1 Rest in Peace|A25
 1 Rishadan Brigand|MMQ
 1 Rogue's Passage|UMA
+1 Scroll of Fate|C19
 1 Skycloud Expanse|ODY
 1 Smothering Tithe|RNA
 1 Sol Ring|C18
@@ -92,4 +92,4 @@ Name=Breaking Brago
 1 Watcher for Tomorrow|MH1
 1 Winter Orb|EMA
 [Sideboard]
-
+1 Mnemonic Wall|IMA

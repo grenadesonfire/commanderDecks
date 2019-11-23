@@ -4,7 +4,6 @@ Name=Atraxa - Monster Focused
 1 Atraxa, Praetors' Voice|CM2
 [Main]
 1 Abzan Battle Priest|KTK
-1 Abzan Falconer|KTK
 1 Anguished Unmaking|SOI
 1 As Foretold|AKH
 1 Astral Cornucopia|BNG
@@ -23,9 +22,8 @@ Name=Atraxa - Monster Focused
 1 Crystalline Crawler|C16
 1 Cyclonic Rift|RTR
 1 Darkwater Catacombs|ODY
-1 Deepglow Skate|C16
 1 Despark|WAR
-1 Doubling Season|RAV
+1 Doubling Season|BBD
 1 Dreadship Reef|TSP
 1 Everflowing Chalice|WWK
 1 Evolution Sage|WAR
@@ -36,7 +34,6 @@ Name=Atraxa - Monster Focused
 5 Forest|ZEN|1
 1 Forgotten Ancient|C16
 1 Fuel for the Cause|MBS
-1 Ghave, Guru of Spores|COM
 1 Golgari Rot Farm|RAV
 1 Good-Fortune Unicorn|MH1
 1 Growing Rites of Itlimoc|XLN
@@ -54,6 +51,7 @@ Name=Atraxa - Monster Focused
 1 Managorger Hydra|ORI
 1 Master Biomancer|GTC
 1 Merciless Eviction|GTC
+1 Meren of Clan Nel Toth|CMA
 1 Morphic Pool|BBD
 1 Mortify|GPT
 1 Murmuring Bosk|MOR
@@ -66,7 +64,6 @@ Name=Atraxa - Monster Focused
 1 Pir, Imaginative Rascal|BBD
 2 Plains|ZEN|3
 1 Putrefy|RAV
-1 Pyramid of the Pantheon|AKH
 1 Reyhan, Last of the Abzan|C16
 1 Rishkar, Peema Renegade|AER
 1 Scavenging Ooze|COM
@@ -76,9 +73,11 @@ Name=Atraxa - Monster Focused
 1 Simic Manipulator|GTC
 1 Skyshroud Claim|BBD
 1 Sol Ring|C18
+1 Sorin, Vengeful Bloodlord|WAR
 1 Spark Double|WAR
 1 Spike Feeder|TPR
 1 Spike Weaver|EXO
+1 Stonecoil Serpent|ELD
 1 Sunbond|BNG
 1 Sungrass Prairie|CM2
 3 Swamp|ZEN|2
@@ -90,8 +89,14 @@ Name=Atraxa - Monster Focused
 1 Toothy, Imaginary Friend|BBD
 1 Underground River|ICE
 1 Vivid Grove|C17
+1 Volrath, the Shapestealer|C19
 1 Vorel of the Hull Clade|DGM
 1 Watery Grave|GRN
 1 Winding Constrictor|AER
 [Sideboard]
+1 Abzan Falconer|KTK
 1 Darksteel Ingot|DST
+1 Deepglow Skate|C16
+1 Empowered Autogenerator|C19
+1 Ghave, Guru of Spores|COM
+1 Pyramid of the Pantheon|AKH

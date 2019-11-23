@@ -4,17 +4,22 @@ Name=ChristmasDinosBudget
 1 Zacama, Primal Calamity|RIX
 [Main]
 1 Arch of Orazca|RIX
+1 Atla Palani, Nest Tender|C19
+1 Aura Shards|COM
 1 Beast Whisperer|GRN
 1 Boros Charm|GTC
+1 Canopy Vista|EXP
 1 Carnage Tyrant|XLN
 1 Chaos Warp|COM
 1 Chord of Calling|RAV
 1 Chromatic Lantern|RTR
 1 Cinder Glade|BFZ
+1 Clifftop Retreat|DOM
 1 Colossal Majesty|M19
 1 Command Tower|COM
 1 Domri, Anarch of Bolas|WAR
 1 Drover of the Mighty|XLN
+1 Eldritch Evolution|EMN
 1 Etali, Primal Storm|RIX
 1 Farseek|RAV
 1 Fireshrieker|MRD
@@ -28,20 +33,25 @@ Name=ChristmasDinosBudget
 1 Growing Rites of Itlimoc|XLN
 1 Gruul Turf|GPT
 1 Heartstone|STH
+1 Illusionist's Bracers|GTC
 1 Jungle Shrine|C17
+1 Keeper of Progenitus|ALA
 1 Kinjalli's Caller|XLN
 1 Knight of the Stampede|RIX
 1 Kodama's Reach|UMA
 1 Krosan Grip|TSP
 1 Krosan Verge|JUD
 1 Lightning Greaves|MRD
-5 Mountain|ZEN|2
+1 Marauding Raptor|M20
+4 Mountain|ZEN|2
 1 Naya Charm|ALA
 1 Naya Panorama|ALA
 1 Nikya of the Old Ways|RNA
 1 Odric, Lunarch Marshal|SOI
 1 Otepec Huntmaster|XLN
-5 Plains|ZEN|2
+1 Pir's Whim|BBD
+4 Plains|ZEN|2
+1 Polyraptor|RIX
 1 Rampant Growth|C16
 1 Regal Behemoth|CN2
 1 Regisaur Alpha|XLN
@@ -52,6 +62,7 @@ Name=ChristmasDinosBudget
 1 Runic Armasaur|M19
 1 Sacred Foundry|GRN
 1 Sakura-Tribe Elder|CHK
+1 Sanctum of Eternity|C19
 1 Sarkhan's Unsealing|M19
 1 Scattered Groves|AKH
 1 Scavenging Ooze|COM
@@ -59,7 +70,6 @@ Name=ChristmasDinosBudget
 1 Shalai, Voice of Plenty|DOM
 1 Sheltered Thicket|AKH
 1 Skyshroud Claim|BBD
-1 Slayers' Stronghold|AVR
 1 Sol Ring|C18
 1 Solemn Simulacrum|MRD
 1 Stomping Ground|EXP
@@ -80,5 +90,3 @@ Name=ChristmasDinosBudget
 1 Wayward Swordtooth|RIX
 1 Zendikar Resurgent|OGW
 1 Zetalpa, Primal Dawn|RIX
-[Sideboard]
-1 Dire Fleet Daredevil|RIX

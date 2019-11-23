@@ -13,6 +13,8 @@ Name=Rakdos - Revived!
 1 Breaker of Armies|BFZ
 1 Burnished Hart|C15
 1 Canyon Slough|AKH
+1 Castle Locthwain|ELD
+1 Chainer, Nightmare Adept|C19
 1 Combat Celebrant|AKH
 1 Command Tower|C18
 1 Conduit of Ruin|BFZ
@@ -26,34 +28,32 @@ Name=Rakdos - Revived!
 1 Dragon Mage|C16
 1 Dragonmaster Outcast|BFZ
 1 Dragonskull Summit|XLN
+1 Drakuseth, Maw of Flames|M20
 1 Dread Cacodemon|COM
 1 Dreadhorde Butcher|WAR
 1 Endless One|BFZ
-1 Fervor|M13
 1 Flame Rift|NMS
 1 Foreboding Ruins|SOI
 1 Go for the Throat|C17
 1 Goblin Fireslinger|MM2
-1 Hammer of Purphoros|THS
-1 Harsh Mentor|AKH
 1 Inferno Titan|C15
 1 Insult // Injury|AKH
 1 Leechridden Swamp|DDR
 1 Lightning Greaves|C17
 1 Lobber Crew|RTR
-1 Loreseeker's Stone|CM2
 1 Master of Cruelties|GK2
 1 Mine Layer|ODY
 2 Mountain|BFZ|1
 12 Mountain|BFZ|4
+1 Necropotence|IMA
 1 Neheb, Dreadhorde Champion|WAR
 1 Neheb, the Eternal|HOU
 1 Nettle Drone|BFZ
 1 Ob Nixilis, the Fallen|IMA
 1 Overseer of the Damned|C14
 1 Palace Siege|C17
-1 Pandemonium|TPR
 1 Pathrazer of Ulamog|ROE
+1 Phyrexian Arena|CN2
 1 Rakdos Carnarium|C18
 1 Rakdos Charm|GK2
 1 Rakdos Signet|C17
@@ -65,10 +65,11 @@ Name=Rakdos - Revived!
 1 Solemn Simulacrum|CM2|1
 1 Stalking Vengeance|C16
 1 Swamp|BFZ|2
-10 Swamp|BFZ|3
+8 Swamp|BFZ|3
 1 Swiftfoot Boots|C18
 1 Talisman of Indulgence|MRD
 1 Temple of Malice|BNG
+1 Terminate|C17
 1 Thermo-Alchemist|UMA
 1 Torrent of Souls|MM3
 1 Ulamog's Crusher|UMA
@@ -81,6 +82,8 @@ Name=Rakdos - Revived!
 1 Warstorm Surge|CM2
 1 Wayfarer's Bauble|CM2
 1 Whip of Erebos|THS
+1 Witch's Cottage|ELD
 [Sideboard]
 1 Graveborn Muse|10E
+1 Harsh Mentor|AKH
 1 Heartless Hidetsugu|CNS

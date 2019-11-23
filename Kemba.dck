@@ -15,7 +15,6 @@ Name=Kemba
 1 Brass Squire|MBS
 1 Brave the Sands|KTK
 1 Buried Ruin|M12
-1 Caged Sun|NPH
 1 Captain's Claws|OGW
 1 Cathars' Crusade|AVR
 1 Cleansing Nova|M19
@@ -26,7 +25,6 @@ Name=Kemba
 1 Divine Visitation|GRN
 1 Dowsing Dagger|XLN
 1 Elesh Norn, Grand Cenobite|NPH
-1 Elspeth, Knight-Errant|ALA
 1 Elspeth, Sun's Champion|THS
 1 Emeria, the Sky Ruin|ZEN
 1 Ethersworn Canonist|ALA
@@ -34,13 +32,13 @@ Name=Kemba
 1 Extraplanar Lens|MRD
 1 Forebear's Blade|DOM
 1 Fumigate|KLD
-1 Gauntlet of Power|TSP
 1 Godsend|JOU
+1 Hammer of Nazahn|C17
 1 Harsh Mercy|ONS
 1 Helm of the Host|DOM
 1 Hero's Blade|FRF
+1 King of the Pride|MH1
 1 Konda's Banner|CHK
-1 Land Tax|LEG
 1 Leonin Abunas|MRD
 1 Leonin Shikari|DST
 1 Leonin Warleader|M19
@@ -60,8 +58,8 @@ Name=Kemba
 1 Return to Dust|TSP
 1 Rogue's Passage|RTR
 1 Sigarda's Aid|EMN
-25 Snow-Covered Plains|ICE
-1 Sol Ring|LEA
+26 Snow-Covered Plains|MH1
+1 Sol Ring|C18
 1 Sram, Senior Edificer|AER
 1 Steelshaper's Gift|5DN
 1 Stoneforge Masterwork|OGW
@@ -73,10 +71,13 @@ Name=Kemba
 1 Sword of Feast and Famine|MBS
 1 Sword of Fire and Ice|DST
 1 Sword of Light and Shadow|DST
+1 Sword of Sinew and Steel|MH1
 1 Sword of the Animist|ORI
-1 Swords to Plowshares|LEA
-1 Temple of the False God|SCG
+1 Swords to Plowshares|BBD
+1 Temple of the False God|C18
 1 Thought Vessel|C15
 1 Windbrisk Heights|LRW
 [Sideboard]
-
+1 Caged Sun|NPH
+1 Elspeth, Knight-Errant|ALA
+1 Gauntlet of Power|TSP

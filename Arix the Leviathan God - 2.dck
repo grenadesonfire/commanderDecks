@@ -39,6 +39,7 @@ Name=Arix the Leviathan God - 2
 1 Hinterland Harbor|ISD
 1 Inundate|EVE
 12 Island|ZEN|2
+1 Isleback Spawn|SHM
 1 Kederekt Leviathan|ALA
 1 Kiora's Follower|DDO
 1 Kiora, Master of the Depths|BFZ
@@ -46,7 +47,6 @@ Name=Arix the Leviathan God - 2
 1 Kodama's Reach|CHK
 1 Krosan Grip|TSP
 1 Lightning Greaves|MRD
-1 Lorthos, the Tidemaker|C14
 1 Mosswort Bridge|LRW
 1 Murkfiend Liege|EVE
 1 Myriad Landscape|C14
@@ -81,5 +81,3 @@ Name=Arix the Leviathan God - 2
 1 Whelming Wave|BNG
 1 Wonder|EMA
 1 Yavimaya Coast|APC
-[Sideboard]
-
