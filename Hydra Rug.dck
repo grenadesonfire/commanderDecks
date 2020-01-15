@@ -8,7 +8,6 @@ Name=Hydra Rug
 1 Ancestral Statue|DTK
 1 Apocalypse Hydra|MM2
 1 Arcane Signet|ELD
-1 Artisan of Kozilek|UMA
 1 Bane of Progress|CMA
 1 Beast Whisperer|GRN
 1 Blasphemous Act|C18
@@ -19,8 +18,8 @@ Name=Hydra Rug
 1 Cavern of Souls|UMA
 1 Chromatic Lantern|GRN
 1 Cinder Glade|BFZ
-1 Cloudstone Curio|RAV
 1 Command Tower|ELD
+1 Deadeye Navigator|AVR
 1 Deathgorge Scavenger|XLN
 1 Eternal Witness|UMA
 1 Evolution Sage|WAR
@@ -47,6 +46,7 @@ Name=Hydra Rug
 1 Kalonian Hydra|CM2
 1 Leyline of Lifeforce|GPT
 1 Managorger Hydra|C16
+1 Merfolk Skydiver|WAR
 1 Mistcutter Hydra|THS
 3 Mountain|ZEN|3
 1 Nature's Lore|GVL
@@ -67,16 +67,18 @@ Name=Hydra Rug
 1 Sheltered Thicket|AKH
 1 Simic Ascendancy|RNA
 1 Simic Growth Chamber|C19
-1 Skyshroud Claim|BBD
 1 Sol Ring|C19
 1 Solemn Simulacrum|C19
 1 Soul of the Harvest|E02
+1 Spike Feeder|TPR
+1 Spike Weaver|BRB
 1 Steam Vents|GRN
 1 Steelbane Hydra|ELD
 1 Stomping Ground|RNA
 1 Stonecoil Serpent|ELD
 1 Sulfur Falls|DOM
 1 The Great Henge|ELD
+1 Thrummingbird|MM2
 1 Tishana, Voice of Thunder|XLN
 1 Toothy, Imaginary Friend|BBD
 1 Trygon Predator|GK2
@@ -86,10 +88,13 @@ Name=Hydra Rug
 1 Vigor|BBD
 1 Vizier of the Menagerie|AKH
 1 Voracious Hydra|M20
-1 Warstorm Surge|C19
 1 Whiptongue Hydra|C18
-1 Wickerbough Elder|EVE
 1 Wurmcoil Engine|CM2
 1 Zoetic Cavern|A25
 [Sideboard]
+1 Artisan of Kozilek|UMA
+1 Cloudstone Curio|RAV
+1 Skyshroud Claim|BBD
 1 Temur Sabertooth|C17
+1 Warstorm Surge|C19
+1 Wickerbough Elder|EVE
