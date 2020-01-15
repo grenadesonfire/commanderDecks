@@ -29,7 +29,7 @@ Name=Atraxa infect
 1 Finale of Devastation|WAR
 1 Flooded Grove|A25
 1 Flux Channeler|WAR
-5 Forest|ZEN|1
+4 Forest|ZEN|1
 1 Gemstone Mine|WTH
 1 Generous Gift|MH1
 1 Glistener Elf|NPH
@@ -75,6 +75,7 @@ Name=Atraxa infect
 1 Stonecoil Serpent|ELD
 1 Stonewood Invocation|TSP
 1 Sunken Ruins|SHM
+1 Swamp|ZEN|3
 4 Swamp|ZEN|4
 1 Swiftfoot Boots|C18
 1 Sword of Truth and Justice|MH1
@@ -93,5 +94,3 @@ Name=Atraxa infect
 1 Vorinclex, Voice of Hunger|IMA
 1 Watery Grave|GRN
 1 Winds of Abandon|MH1
-[Sideboard]
-
