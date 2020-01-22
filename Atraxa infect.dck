@@ -4,13 +4,16 @@ Name=Atraxa infect
 1 Atraxa, Praetors' Voice|CM2
 [Main]
 1 Anguished Unmaking|SOI
+1 Animate Dead|EMA
 1 As Foretold|AKH
 1 Astral Cornucopia|BNG
 1 Blast Zone|WAR
 1 Blight Mamba|SOM
 1 Blighted Agent|NPH
+1 Bojuka Bog|C19
+1 Bountiful Promenade|BBD
 1 Breeding Pool|RNA
-1 Calciform Pools|TSP
+1 Canopy Vista|BFZ
 1 Chromatic Lantern|GRN
 1 Command Tower|ELD
 1 Contagion Clasp|SOM
@@ -20,17 +23,17 @@ Name=Atraxa infect
 1 Crystalline Crawler|CM2
 1 Cyclonic Rift|MM3
 1 Darkwater Catacombs|ODY
+1 Despark|WAR
 1 Dreadship Reef|TSP
 1 Drowned Catacomb|XLN
 1 Empowered Autogenerator|C19
 1 Everflowing Chalice|MM2
 1 Evolution Sage|WAR
+1 Exotic Orchard|C19
 1 Fellwar Stone|9ED
 1 Finale of Devastation|WAR
-1 Flooded Grove|A25
 1 Flux Channeler|WAR
 4 Forest|ZEN|1
-1 Gemstone Mine|WTH
 1 Generous Gift|MH1
 1 Glistener Elf|NPH
 1 Godless Shrine|RNA
@@ -49,7 +52,9 @@ Name=Atraxa infect
 1 Llanowar Reborn|FUT
 1 Loyal Guardian|C18
 1 Lux Cannon|SOM
-1 Meren of Clan Nel Toth|CMA
+1 Morphic Pool|BBD
+1 Mortify|C18
+1 Murmuring Bosk|CM2
 1 Negate|M20
 1 Overgrown Tomb|GRN
 1 Parallax Tide|NMS
@@ -62,19 +67,17 @@ Name=Atraxa infect
 1 Plague Stinger|SOM
 2 Plains|ZEN|3
 1 Priests of Norn|MBS
-1 Reanimate|UMA
-1 Reflecting Pool|SHM
 1 Rhystic Study|PCY
 1 Saltcrusted Steppe|TSP
+1 Scavenging Ooze|CM2
 1 Sheoldred, Whispering One|IMA
+1 Simic Manipulator|GTC
 1 Skithiryx, the Blight Dragon|SOM
 1 Skyshroud Claim|NMS
 1 Sol Ring|C19
 1 Sorin, Vengeful Bloodlord|WAR
 1 Spike Weaver|EXO
 1 Stonecoil Serpent|ELD
-1 Stonewood Invocation|TSP
-1 Sunken Ruins|SHM
 1 Swamp|ZEN|3
 4 Swamp|ZEN|4
 1 Swiftfoot Boots|C18
@@ -85,12 +88,9 @@ Name=Atraxa infect
 1 Temple Garden|GRN
 1 Tezzeret's Gambit|MM2
 1 Thrummingbird|MM2
-1 Twilight Mire|A25
 1 Urborg, Tomb of Yawgmoth|UMA
-1 Utter End|C18
 1 Vines of Vastwood|MM2
 1 Viral Drake|NPH
 1 Viridian Corrupter|MBS
-1 Vorinclex, Voice of Hunger|IMA
 1 Watery Grave|GRN
 1 Winds of Abandon|MH1
