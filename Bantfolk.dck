@@ -4,12 +4,13 @@ Name=Bantfolk
 1 Tuvasa the Sunlit|C18
 [Main]
 1 Aquatic Incursion|RIX
+1 Arcane Denial|A25
 1 Arcane Signet|ELD
-1 Archetype of Imagination|C18
 1 Aura of Silence|C15
 1 Authority of the Consuls|KLD
 1 Azorius Signet|GK2
 1 Bant Panorama|CMA
+1 Bear Umbra|C18
 1 Breeding Pool|RNA
 1 Call to the Kindred|DKA
 1 Canopy Vista|BFZ
@@ -18,16 +19,18 @@ Name=Bantfolk
 1 Cold-Eyed Selkie|C18
 1 Command Tower|ELD
 1 Counterspell|SS1
-1 Cryptolith Rite|SOI
 1 Cyclonic Rift|MM3
 1 Deeproot Champion|XLN
 1 Deeproot Elite|RIX
 1 Deeproot Waters|XLN
+1 Destiny Spinner|THB
 1 Doubling Season|BBD
 1 Dovin's Veto|WAR
+1 Dryad of the Ilysian Grove|THB
 1 Enchantress's Presence|C18
 1 Estrid's Invocation|C18
 1 Farseek|C19
+1 Fertile Ground|C18
 2 Forest|ZEN|3
 1 Fumigate|KLD
 1 Gavony Township|ISD
@@ -41,12 +44,10 @@ Name=Bantfolk
 1 Herald of the Pantheon|C18
 1 Hinterland Harbor|DOM
 1 Idyllic Grange|ELD
-1 Idyllic Tutor|THB|1
+1 Idyllic Tutor|THB
 1 Intruder Alarm|8ED
 11 Island|ZEN|3
-1 Jadelight Ranger|RIX
 1 Judge of Currents|LRW
-1 Kiora's Dismissal|JOU
 1 Kiora's Follower|DDO
 1 Kumena, Tyrant of Orazca|RIX
 1 Lightning Greaves|C19
@@ -55,14 +56,12 @@ Name=Bantfolk
 1 Master of the Pearl Trident|DDT
 1 Merfolk Mistbinder|RIX
 1 Merfolk Skydiver|WAR
-1 Merfolk Sovereign|E02
 1 Merrow Commerce|LRW
-1 Merrow Reejerey|LRW
 1 Mirari's Wake|C17
+1 Mirrormade|ELD
 1 Negate|M20
 1 Nimbus Maze|IMA
 1 Nykthos, Shrine to Nyx|THS
-1 Nyxborn Triton|BNG
 2 Plains|ZEN|3
 1 Prairie Stream|C19
 1 Propaganda|C16
@@ -73,15 +72,15 @@ Name=Bantfolk
 1 Satyr Enchanter|M19
 1 Seahunter|NMS
 1 Seaside Citadel|C18
-1 Setessan Champion|THB|1
+1 Setessan Champion|THB
 1 Simic Ascendancy|RNA
 1 Smothering Tithe|RNA
 1 Sol Ring|C19
-1 Stonybrook Banneret|MOR
 1 Stonybrook Schoolmaster|MOR
 1 Summon the School|LRW
 1 Sunpetal Grove|XLN
 1 Surgespanner|LRW
+1 Swan Song|C16
 1 Swords to Plowshares|BBD
 1 Sygg, River Guide|LRW
 1 Temple Garden|GRN
@@ -93,6 +92,7 @@ Name=Bantfolk
 1 Zegana, Utopian Speaker|GK2
 [Sideboard]
 1 Eidolon of Blossoms|C18
+1 Kiora's Dismissal|JOU
 1 Merrow Harbinger|LRW
 1 Seafloor Oracle|RIX
 1 Silvergill Adept|RIX
