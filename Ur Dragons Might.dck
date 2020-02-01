@@ -5,6 +5,7 @@ Name=Ur Dragons Might
 [Main]
 1 Anguished Unmaking|SOI
 1 Animate Dead|EMA
+1 Arcane Signet|ELD
 1 Atarka, World Render|FRF
 1 Bladewing the Risen|IMA
 1 Breeding Pool|EXP
@@ -13,13 +14,13 @@ Name=Ur Dragons Might
 1 Canopy Vista|BFZ
 1 Chromatic Lantern|RTR
 1 Cinder Glade|BFZ
+1 Colossal Majesty|C19
 1 Command Tower|COM
 1 Commander's Sphere|C14
-1 Composite Golem|5DN
 1 Crucible of the Spirit Dragon|FRF
 1 Crux of Fate|FRF
-1 Cultivate|M11
 1 Cyclonic Rift|RTR
+1 Darigaaz Reincarnated|DOM
 1 Darksteel Ingot|DST
 1 Dragon Arch|APC
 1 Dragon Tempest|IMA
@@ -30,8 +31,9 @@ Name=Ur Dragons Might
 1 Dragonskull Summit|M10
 1 Dragonspeaker Shaman|C17
 1 Drowned Catacomb|M10
-1 Elemental Bond|ORI
+1 Dryad of the Ilysian Grove|THB
 1 Exotic Orchard|CFX
+1 Faeburrow Elder|ELD
 1 Farseek|RAV
 3 Forest|ZEN|1
 1 Frontier Siege|FRF
@@ -52,7 +54,6 @@ Name=Ur Dragons Might
 1 Merciless Eviction|GTC
 1 Mortify|GPT
 3 Mountain|ZEN|2
-1 Nim Deathmantle|SOM
 1 Overgrown Tomb|GRN
 1 Path of Ancestry|C17
 1 Patriarch's Bidding|ONS
@@ -62,12 +63,11 @@ Name=Ur Dragons Might
 1 Putrefy|RAV
 1 Quicksilver Amulet|M12
 1 Ramos, Dragon Engine|C17
-1 Rampant Growth|C16
 1 Sacred Foundry|GRN
 1 Sarkhan Unbroken|DTK
-1 Sarkhan's Triumph|DTK
 1 Savage Ventmaw|DTK
 1 Sheoldred, Whispering One|NPH
+1 Silumgar, the Drifting Death|C17
 1 Skyline Despot|CN2
 1 Skyshroud Claim|BBD
 1 Smoldering Marsh|BFZ
@@ -84,8 +84,8 @@ Name=Ur Dragons Might
 1 Temple Garden|GRN
 1 Temur Ascendancy|KTK
 1 Teneb, the Harvester|C17
+1 The Great Henge|ELD
 1 Thought Vessel|C15
-1 Ulamog, the Infinite Gyre|MM2
 1 Unburial Rites|ISD
 1 Unclaimed Territory|XLN
 1 Utvara Hellkite|RTR

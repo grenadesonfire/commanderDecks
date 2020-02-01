@@ -6,6 +6,7 @@ Name=Yuriko - Trickery - Cheapo
 1 Abjure|WTH
 1 Arcane Adaptation|XLN
 1 Artificer's Assistant|DOM
+1 Baleful Strix|E01
 1 Brainstorm|A25
 1 Changeling Outcast|MH1
 1 Command Tower|C18
@@ -19,16 +20,17 @@ Name=Yuriko - Trickery - Cheapo
 1 Darkslick Shores|SOM
 1 Demonic Tutor|UMA
 1 Devastation Tide|AVR
+1 Dimir Infiltrator|PCA
 1 Dimir Signet|GK1
 1 Faerie Seer|MH1
 1 Fallen Shinobi|MH1
 1 Force of Will|EMA
 1 Ghost Quarter|CM2
 1 Gudul Lurker|DTK
-1 Higure, the Still Wind|BOK
 1 Hope of Ghirapur|AER
 1 Hypnotic Siren|JOU
 1 Ingenious Infiltrator|MH1
+1 Ink-Eyes, Servant of Oni|PCA
 1 Insidious Dreams|TOR
 8 Island|ZEN|2
 9 Island|ZEN|4
@@ -49,7 +51,6 @@ Name=Yuriko - Trickery - Cheapo
 1 Nexus of Fate|M19
 1 Ornithopter|AER
 1 Ponder|M12
-1 Prickly Boggart|MOR
 1 Reliquary Tower|M19
 1 Sakashima the Impostor|SOK
 1 Sakashima's Student|PC2
@@ -68,6 +69,7 @@ Name=Yuriko - Trickery - Cheapo
 1 Temporal Mastery|MM3
 1 Temporal Trespass|FRF
 1 Tetsuko Umezawa, Fugitive|DOM
+1 Thassa's Oracle|THB
 1 Throat Slitter|BOK
 1 Time Warp|M10
 1 Tormented Soul|M13
@@ -78,11 +80,13 @@ Name=Yuriko - Trickery - Cheapo
 1 Urborg, Tomb of Yawgmoth|UMA
 1 Venser, Shaper Savant|MM3
 1 Walk the Aeons|TSP
-1 Walker of Secret Ways|BOK
 1 Watery Grave|GRN
-1 Wingcrafter|MM3
 1 Witch's Cottage|ELD
 1 Xenograft|NPH
 [Sideboard]
 1 Dimir Cluestone|DGM
+1 Higure, the Still Wind|BOK
 1 Ninja of the Deep Hours|BOK
+1 Prickly Boggart|MOR
+1 Walker of Secret Ways|BOK
+1 Wingcrafter|MM3

@@ -8,71 +8,69 @@ Name=Shirai - Modern Horizons
 1 Arcane Lighthouse|C14
 1 Ashnod's Altar|EMA
 1 Attrition|UDS
+1 Ayara, First of Locthwain|ELD
 1 Beseech the Queen|SHM
 1 Big Game Hunter|PLC
-1 Black Cat|M15
 1 Black Market|C17
+1 Blasting Station|5DN
+1 Blightbeetle|M20
 1 Blood Artist|EMA
 1 Blood Pet|7ED
 1 Bloodthrone Vampire|MM2
 1 Bojuka Bog|WWK
 1 Bolas's Citadel|WAR
-1 Bone Shredder|ULG
 1 Buried Ruin|M12
-1 Butcher of Malakir|WWK
 1 Cabal Stronghold|DOM
 1 Cabal Therapist|MH1
 1 Cadaver Imp|ROE
+1 Castle Locthwain|ELD
+1 Cauldron Familiar|ELD
 1 Crypt Ghast|GTC
 1 Crypt of Agadeem|ZEN
 1 Crypt Rats|7ED
 1 Dark Privilege|VIS
-1 Deathgreeter|ALA
 1 Defile|MH1
 1 Dictate of Erebos|JOU
+1 Doomed Dissenter|M19
 1 Expedition Map|MM2
 1 Extraplanar Lens|MRD
-1 Falkenrath Noble|MM3
 1 Fume Spitter|UMA
 1 Ghost Quarter|C15
-1 God-Eternal Bontu|WAR
+1 Gleaming Barrier|RIX
 1 Grave Pact|COM
 1 Grim Haruspex|KTK
-1 Harvester of Souls|AVR
+1 Heap Doll|UMA
 1 Hell's Caretaker|A25
+1 Hex Parasite|NPH
 1 High Market|MMQ
 1 Killing Wave|AVR
+1 Krav, the Unredeemed|BBD
 1 Lightning Greaves|MRD
 1 Living Death|A25
-1 Mask of Avacyn|ISD
 1 Meekstone|7ED
 1 Mindless Automaton|EMA
 1 Mortuary Mire|BFZ
-1 Myr Retriever|MMA
 1 Nykthos, Shrine to Nyx|THS
-1 Ogre Slumlord|GTC
+1 Open the Graves|M19
 1 Pawn of Ulamog|ROE
-1 Perilous Myr|A25
 1 Phyrexian Arena|9ED
 1 Phyrexian Tower|UMA
 1 Pilgrim's Eye|EMA
-1 Pitiless Plunderer|RIX
 1 Plague Myr|MBS
 1 Plagued Rusalka|MM2
 1 Priest of Forgotten Gods|RNA
 1 Reliquary Tower|M19
-1 Sidisi, Undead Vizier|DTK
 1 Sifter of Skulls|OGW
 1 Skirsdag High Priest|C14
-1 Skullclamp|C17
 1 Sling-Gang Lieutenant|MH1
 1 Smothering Abomination|BFZ
-20 Snow-Covered Swamp|CSP
+21 Snow-Covered Swamp|MH1
 1 Sol Ring|C18
-1 Soldevi Adnate|ALL|1
 1 Spark Harvest|WAR
 1 Spawning Pit|DST
+1 Swamp|THB|1
 1 Swiftfoot Boots|C18
+1 Sword of Sinew and Steel|MH1
 1 Thoughtpicker Witch|RAV
 1 Tragic Slip|EMA
 1 Urborg, Tomb of Yawgmoth|UMA
@@ -82,6 +80,7 @@ Name=Shirai - Modern Horizons
 1 Weaponcraft Enthusiast|KLD
 1 Westvale Abbey|SOI
 1 Yarok's Fenlurker|M20
+1 Yawgmoth, Thran Physician|MH1
 1 Zulaport Cutthroat|A25
 [Sideboard]
 1 Dutiful Attendant|DTK
@@ -91,4 +90,5 @@ Name=Shirai - Modern Horizons
 1 Marsh Flitter|MMA
 1 Mesmeric Fiend|A25
 1 Necropede|SOM
+1 Pitiless Plunderer|RIX
 1 Skyscanner|M19

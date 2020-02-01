@@ -9,8 +9,8 @@ Name=One Dragon To The Next
 1 Arcane Signet|ELD
 1 Assassin's Trophy|GRN
 1 Azra Oddsmaker|BBD
-1 Badlands|3ED
-1 Bayou|3ED
+1 Badlands|VMA
+1 Bayou|VMA
 1 Birds of Paradise|GK2
 1 Blood Crypt|EXP
 1 Bloodstained Mire|KTK
@@ -76,12 +76,12 @@ Name=One Dragon To The Next
 1 Springbloom Druid|MH1
 1 Squee, the Immortal|DOM
 1 Stomping Ground|EXP
-1 Strip Mine|4ED
+1 Strip Mine|EXP
 1 Swamp|ZEN|2
 4 Swamp|ZEN|3
 1 Swiftfoot Boots|A25
 1 Sylvan Safekeeper|CMA
-1 Taiga|3ED
+1 Taiga|VMA
 1 Temur Sabertooth|C17
 1 Vampiric Tutor|EMA
 1 Veil of Summer|M20
@@ -92,5 +92,3 @@ Name=One Dragon To The Next
 1 Woodland Cemetery|DOM
 1 Wrenn and Six|MH1
 1 Yavimaya Elder|C18
-[Sideboard]
-

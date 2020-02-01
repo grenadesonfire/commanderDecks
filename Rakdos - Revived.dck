@@ -10,7 +10,6 @@ Name=Rakdos - Revived!
 1 Bogardan Hellkite|IMA
 1 Bojuka Bog|C18
 1 Bontu's Last Reckoning|HOU
-1 Breaker of Armies|BFZ
 1 Burnished Hart|C15
 1 Canyon Slough|AKH
 1 Castle Locthwain|ELD
@@ -20,8 +19,6 @@ Name=Rakdos - Revived!
 1 Conduit of Ruin|BFZ
 1 Crypt Ghast|C14
 1 Cryptolith Fragment|EMN
-1 Cunning Sparkmage|WWK
-1 Dark Temper|CFX
 1 Darksteel Ingot|C17
 1 Deadly Tempest|C15
 1 Doom Blade|IMA
@@ -31,20 +28,19 @@ Name=Rakdos - Revived!
 1 Drakuseth, Maw of Flames|M20
 1 Dread Cacodemon|COM
 1 Dreadhorde Butcher|WAR
-1 Endless One|BFZ
 1 Flame Rift|NMS
 1 Foreboding Ruins|SOI
 1 Go for the Throat|C17
 1 Goblin Fireslinger|MM2
 1 Inferno Titan|C15
 1 Insult // Injury|AKH
+1 Kroxa, Titan of Death's Hunger|THB
 1 Leechridden Swamp|DDR
 1 Lightning Greaves|C17
 1 Lobber Crew|RTR
 1 Master of Cruelties|GK2
 1 Mine Layer|ODY
-2 Mountain|BFZ|1
-12 Mountain|BFZ|4
+15 Mountain|THB|1
 1 Necropotence|IMA
 1 Neheb, Dreadhorde Champion|WAR
 1 Neheb, the Eternal|HOU
@@ -62,12 +58,15 @@ Name=Rakdos - Revived!
 1 Reforge the Soul|C16
 1 Shepherd of Rot|HOP
 1 Smoldering Marsh|EXP
+1 Sol Ring|C19
 1 Solemn Simulacrum|CM2|1
 1 Stalking Vengeance|C16
-1 Swamp|BFZ|2
-8 Swamp|BFZ|3
+1 Stonecoil Serpent|ELD
+1 Stormfist Crusader|ELD
+7 Swamp|THB|1
 1 Swiftfoot Boots|C18
 1 Talisman of Indulgence|MRD
+1 Tectonic Giant|THB
 1 Temple of Malice|BNG
 1 Terminate|C17
 1 Thermo-Alchemist|UMA
@@ -84,6 +83,7 @@ Name=Rakdos - Revived!
 1 Whip of Erebos|THS
 1 Witch's Cottage|ELD
 [Sideboard]
+1 Breaker of Armies|BFZ
 1 Graveborn Muse|10E
 1 Harsh Mentor|AKH
 1 Heartless Hidetsugu|CNS

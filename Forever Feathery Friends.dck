@@ -3,7 +3,6 @@ Name=Forever Feathery Friends
 [Commander]
 1 Feather, the Redeemed|WAR
 [Main]
-1 Aegis Angel|W16
 1 Akroan Crusader|UMA
 1 Archangel Avacyn|SOI
 1 Assault Strobe|SOM
@@ -37,12 +36,12 @@ Name=Forever Feathery Friends
 1 Gisela, Blade of Goldnight|CM2
 1 Gisela, the Broken Blade|EMN
 1 Gods Willing|UMA
+1 Guttersnipe|C19
+1 Hero of the Nyxborn|THB
 1 Invigorated Rampage|AER
 1 Karmic Guide|EMA
 1 Knight of the White Orchid|ORI
 1 Launch the Fleet|JOU
-1 Library of Leng|5ED
-1 Light of the Legion|GRN
 1 Luminarch Ascension|A25
 1 Magnetic Theft|5DN
 1 Mentor of the Meek|M19
@@ -56,6 +55,7 @@ Name=Forever Feathery Friends
 1 Parhelion II|WAR
 1 Path to Exile|MM3
 1 Phalanx Leader|UMA
+1 Phalanx Tactics|THB
 19 Plains|ZEN|4
 1 Psychotic Fury|DIS
 1 Reliquary Tower|M19
@@ -78,8 +78,10 @@ Name=Forever Feathery Friends
 1 Young Pyromancer|UMA
 1 Zada, Hedron Grinder|A25
 [Sideboard]
+1 Aegis Angel|W16
 1 Boros Keyrune|GK1
 1 Gilded Lotus|DOM
+1 Library of Leng|5ED
 1 Lightning Greaves|CM2
 1 Pyromancer's Goggles|ORI
 1 Urza's Incubator|CM2

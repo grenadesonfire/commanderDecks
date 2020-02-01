@@ -4,9 +4,7 @@ Name=Karlov - Taxation
 1 Karlov of the Ghost Council|C15
 [Main]
 1 Ajani, Strength of the Pride|M20
-1 Ashen Rider|THS
 1 Authority of the Consuls|KLD
-1 Ayli, Eternal Pilgrim|OGW
 1 Basilica Guards|GTC
 1 Basilica Screecher|GTC
 1 Blind Obedience|GTC
@@ -21,13 +19,13 @@ Name=Karlov - Taxation
 1 Command Tower|C19
 1 Crypt Ghast|GTC
 1 Darksteel Plate|MBS
+1 Daxos, Blessed by the Sun|THB
 1 Deafening Silence|ELD
 1 Debt to the Deathless|DGM
 1 Despark|WAR
 1 Diabolic Tutor|KLD
 1 Divinity of Pride|MMA
 1 Erebos, God of the Dead|THS
-1 Esper Panorama|C13
 1 Exsanguinate|SOM
 1 Flickering Ward|TMP
 1 Fumigate|KLD
@@ -35,10 +33,13 @@ Name=Karlov - Taxation
 1 Godless Shrine|GTC
 1 Gray Merchant of Asphodel|THS
 1 Healer's Hawk|GRN
+1 Heliod's Intervention|THB
+1 Heliod, Sun-Crowned|THB
 1 Isolated Chapel|DOM
 1 Kambal, Consul of Allocation|KLD
 1 Kaya's Guile|MH1
 1 Kingpin's Pet|GTC
+1 Kunoros, Hound of Athreos|THB
 1 Leechridden Swamp|SHM
 1 Lightning Greaves|C19
 1 Martial Coup|CFX
@@ -51,13 +52,14 @@ Name=Karlov - Taxation
 1 Palace Siege|FRF
 1 Phyrexian Arena|9ED
 1 Phyrexian Reclamation|C15
-12 Plains|ZEN|2
+11 Plains|ZEN|2
 1 Pontiff of Blight|DGM
 1 Reassembling Skeleton|M19
-1 Retreat to Hagra|BFZ
+1 Revenge of Ravens|ELD
 1 Revival // Revenge|RNA
 1 Rogue's Passage|UMA
 1 Serra Ascendant|IMA
+1 Shadowspear|THB
 1 Shambling Vent|BFZ
 1 Smothering Tithe|RNA
 1 Sol Ring|C18
@@ -78,15 +80,17 @@ Name=Karlov - Taxation
 1 Unmake|EVE
 1 Urborg, Tomb of Yawgmoth|UMA
 1 Utter End|KTK
-1 Vizkopa Confessor|GTC
 1 Vizkopa Guildmage|IMA
 1 Wall of Reverence|UMA
 1 Zulaport Cutthroat|A25
 [Sideboard]
-1 Ashnod's Altar|EMA
+1 Ashen Rider|THS
+1 Ayli, Eternal Pilgrim|OGW
 1 Debtors' Knell|GPT
 1 High Priest of Penance|GTC
 1 Knight of Obligation|GTC
+1 Retreat to Hagra|BFZ
 1 Sphere of Safety|RTR
 1 Syndicate Enforcer|GTC
 1 Underworld Coinsmith|JOU
+1 Vizkopa Confessor|GTC

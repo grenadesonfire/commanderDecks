@@ -25,7 +25,7 @@ Name=Hydra Rug
 1 Evolving Wilds|DTK
 1 Flooded Grove|A25
 1 Force of Vigor|MH1
-8 Forest|ZEN|3
+7 Forest|ZEN|3
 1 Forgotten Ancient|CM2
 1 Frontier Bivouac|C17
 1 Game Trail|SOI
@@ -42,7 +42,9 @@ Name=Hydra Rug
 3 Island|ZEN|2
 1 Izzet Boilerworks|C19
 1 Kalonian Hydra|CM2
+1 Karn's Bastion|WAR
 1 Leyline of Lifeforce|GPT
+1 Loyal Guardian|C18
 1 Managorger Hydra|C16
 1 Merfolk Skydiver|WAR
 1 Mistcutter Hydra|THS
@@ -51,7 +53,6 @@ Name=Hydra Rug
 1 Nature's Lore|GVL
 1 Nullmage Shepherd|RAV
 1 Opal Palace|CM2
-1 Phyrexian Hydra|MBS
 1 Pir's Whim|BBD
 1 Pir, Imaginative Rascal|BBD
 1 Primordial Hydra|M13
@@ -73,6 +74,7 @@ Name=Hydra Rug
 1 Spike Feeder|TPR
 1 Spike Weaver|BRB
 1 Steam Vents|GRN
+1 Steel Hellkite|C18
 1 Steelbane Hydra|ELD
 1 Stomping Ground|RNA
 1 Stonecoil Serpent|ELD
@@ -81,7 +83,6 @@ Name=Hydra Rug
 1 Thrummingbird|MM2
 1 Tishana, Voice of Thunder|XLN
 1 Toothy, Imaginary Friend|BBD
-1 Trygon Predator|GK2
 1 Ulamog, the Infinite Gyre|UMA
 1 Ulasht, the Hate Seed|GK2
 1 Unbound Flourishing|MH1
@@ -93,7 +94,6 @@ Name=Hydra Rug
 1 Zoetic Cavern|A25
 [Sideboard]
 1 Artisan of Kozilek|UMA
-1 Cloudstone Curio|RAV
 1 Skyshroud Claim|BBD
 1 Temur Sabertooth|C17
 1 Warstorm Surge|C19

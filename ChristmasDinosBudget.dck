@@ -6,12 +6,13 @@ Name=ChristmasDinosBudget
 1 Arch of Orazca|RIX
 1 Atla Palani, Nest Tender|C19
 1 Aura Shards|COM
+1 Beanstalk Giant|ELD
 1 Beast Whisperer|GRN
 1 Boros Charm|GTC
 1 Canopy Vista|EXP
 1 Carnage Tyrant|XLN
+1 Castle Garenbrig|ELD
 1 Chaos Warp|COM
-1 Chord of Calling|RAV
 1 Chromatic Lantern|RTR
 1 Cinder Glade|BFZ
 1 Clifftop Retreat|DOM
@@ -19,12 +20,13 @@ Name=ChristmasDinosBudget
 1 Command Tower|COM
 1 Domri, Anarch of Bolas|WAR
 1 Drover of the Mighty|XLN
-1 Eldritch Evolution|EMN
+1 Dryad of the Ilysian Grove|THB
 1 Etali, Primal Storm|RIX
 1 Farseek|RAV
 1 Fireshrieker|MRD
 1 Forerunner of the Empire|RIX
-7 Forest|ZEN|1
+1 Forest|THB|1
+4 Forest|ZEN|1
 1 Fortified Village|SOI
 1 Game Trail|SOI
 1 Ghalta, Primal Hunger|RIX
@@ -37,20 +39,22 @@ Name=ChristmasDinosBudget
 1 Jungle Shrine|C17
 1 Keeper of Progenitus|ALA
 1 Kinjalli's Caller|XLN
+1 Kinjalli's Sunwing|XLN
 1 Knight of the Stampede|RIX
-1 Kodama's Reach|UMA
 1 Krosan Grip|TSP
 1 Krosan Verge|JUD
 1 Lightning Greaves|MRD
 1 Marauding Raptor|M20
-4 Mountain|ZEN|2
+1 Mountain|THB|1
+3 Mountain|ZEN|2
 1 Naya Charm|ALA
 1 Naya Panorama|ALA
 1 Nikya of the Old Ways|RNA
 1 Odric, Lunarch Marshal|SOI
 1 Otepec Huntmaster|XLN
 1 Pir's Whim|BBD
-4 Plains|ZEN|2
+1 Plains|THB|1
+3 Plains|ZEN|2
 1 Polyraptor|RIX
 1 Rampant Growth|C16
 1 Regal Behemoth|CN2
@@ -71,7 +75,7 @@ Name=ChristmasDinosBudget
 1 Sheltered Thicket|AKH
 1 Skyshroud Claim|BBD
 1 Sol Ring|C18
-1 Solemn Simulacrum|MRD
+1 Solemn Simulacrum|C19
 1 Stomping Ground|EXP
 1 Sun Titan|M11
 1 Sungrass Prairie|ODY
@@ -82,6 +86,7 @@ Name=ChristmasDinosBudget
 1 Swords to Plowshares|BBD
 1 Temple Garden|GRN
 1 Temur Sabertooth|FRF
+1 The Great Henge|ELD
 1 Thornscape Familiar|PLS
 1 Thunderherd Migration|RIX
 1 Thundering Spineback|XLN
