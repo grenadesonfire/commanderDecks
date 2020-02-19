@@ -20,6 +20,7 @@ Name=Hydra Rug
 1 Cinder Glade|BFZ
 1 Command Tower|ELD
 1 Den Protector|C19
+1 Destiny Spinner|THB
 1 Eternal Witness|UMA
 1 Evolution Sage|WAR
 1 Evolving Wilds|DTK
@@ -49,7 +50,6 @@ Name=Hydra Rug
 1 Merfolk Skydiver|WAR
 1 Mistcutter Hydra|THS
 3 Mountain|ZEN|3
-1 Mycoloth|CMA
 1 Nature's Lore|GVL
 1 Nullmage Shepherd|RAV
 1 Opal Palace|CM2
@@ -94,6 +94,7 @@ Name=Hydra Rug
 1 Zoetic Cavern|A25
 [Sideboard]
 1 Artisan of Kozilek|UMA
+1 Mycoloth|CMA
 1 Skyshroud Claim|BBD
 1 Temur Sabertooth|C17
 1 Warstorm Surge|C19

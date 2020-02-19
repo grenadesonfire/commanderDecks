@@ -52,11 +52,11 @@ Name=Ur Dragons Might
 1 Kodama's Reach|CHK
 1 Lightning Greaves|MRD
 1 Merciless Eviction|GTC
+1 Morophon, the Boundless|MH1
 1 Mortify|GPT
 3 Mountain|ZEN|2
 1 Overgrown Tomb|GRN
 1 Path of Ancestry|C17
-1 Patriarch's Bidding|ONS
 3 Plains|ZEN|3
 1 Prairie Stream|BFZ
 1 Primevals' Glorious Rebirth|DOM
@@ -92,3 +92,5 @@ Name=Ur Dragons Might
 1 Victimize|EMA
 1 Vorinclex, Voice of Hunger|NPH
 1 World Shaper|RIX
+[Sideboard]
+1 Patriarch's Bidding|ONS

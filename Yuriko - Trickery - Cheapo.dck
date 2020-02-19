@@ -10,7 +10,6 @@ Name=Yuriko - Trickery - Cheapo
 1 Brainstorm|A25
 1 Changeling Outcast|MH1
 1 Command Tower|C18
-1 Commander's Sphere|C18
 1 Commit // Memory|AKH
 1 Consign // Oblivion|HOU
 1 Conspiracy|MMQ
@@ -22,7 +21,6 @@ Name=Yuriko - Trickery - Cheapo
 1 Devastation Tide|AVR
 1 Dimir Infiltrator|PCA
 1 Dimir Signet|GK1
-1 Faerie Seer|MH1
 1 Fallen Shinobi|MH1
 1 Force of Will|EMA
 1 Ghost Quarter|CM2
@@ -33,8 +31,9 @@ Name=Yuriko - Trickery - Cheapo
 1 Ink-Eyes, Servant of Oni|PCA
 1 Insidious Dreams|TOR
 8 Island|ZEN|2
-9 Island|ZEN|4
+8 Island|ZEN|4
 1 Jace's Phantasm|IMA
+1 Jace, the Mind Sculptor|A25
 1 Karn's Temporal Sundering|DOM
 1 Lim-Dul's Vault|C13
 1 Mausoleum Wanderer|EMN
@@ -46,9 +45,11 @@ Name=Yuriko - Trickery - Cheapo
 1 Morphic Pool|BBD
 1 Mothdust Changeling|MMA
 1 Mox Amber|DOM
+1 Mystic Sanctuary|ELD
 1 Mystical Tutor|EMA
 1 Negate|BBD
 1 Nexus of Fate|M19
+1 Oboro Breezecaller|SOK
 1 Ornithopter|AER
 1 Ponder|M12
 1 Reliquary Tower|M19
