@@ -3,11 +3,11 @@ Name=Gitrog - Still Hungry
 [Commander]
 1 The Gitrog Monster|SOI
 [Main]
-1 Animate Dead|EMA
 1 Arbor Elf|A25
 1 Assassin's Trophy|GRN
 1 Azusa, Lost but Seeking|A25
 1 Barren Moor|C18
+1 Bayou|VMA
 1 Blasted Landscape|CM2
 1 Blighted Woodland|C18
 1 Buried Alive|UMA
@@ -30,7 +30,7 @@ Name=Gitrog - Still Hungry
 1 Exsanguinate|SOM
 1 Faith of the Devoted|AKH
 1 Farseek|C17
-9 Forest|BFZ|2
+8 Forest|BFZ|2
 1 Ghost Quarter|CM2
 1 Golgari Grave-Troll|UMA
 1 Golgari Thug|DDJ
@@ -47,6 +47,7 @@ Name=Gitrog - Still Hungry
 1 Life from the Loam|MMA
 1 Lotus Field|M20
 1 Maelstrom Pulse|UMA
+1 Necromancy|VIS
 1 Nyx Weaver|JOU
 1 Oakhame Adversary|ELD
 1 Oblivion Crown|FUT

@@ -4,6 +4,7 @@ Name=Omnath - Budget
 1 Omnath, Locus of Rage|BFZ
 [Main]
 1 Anger|DDI
+1 Arch of Orazca|RIX
 1 Avenger of Zendikar|WWK
 1 Bane of Progress|C13
 1 Basilisk Collar|MM3
@@ -30,7 +31,6 @@ Name=Omnath - Budget
 1 Goblin Bombardment|TPR
 1 Goreclaw, Terror of Qal Sisma|M19
 1 Greater Good|BBD
-1 Grow from the Ashes|DOM
 1 Growing Rites of Itlimoc|XLN
 1 Gruul Turf|GPT
 1 Harrow|C18
@@ -47,14 +47,13 @@ Name=Omnath - Budget
 3 Mountain|ZEN|2
 1 Multani, Yavimaya's Avatar|DOM
 1 Myriad Landscape|C14
-1 Naya Panorama|ALA
 1 Nesting Dragon|C18
-1 Nissa's Pilgrimage|ORI
+1 Nylea, God of the Hunt|THS
 1 Ogre Battledriver|M14
 1 Parallel Lives|ISD
 1 Perilous Forays|RAV
 1 Pir's Whim|BBD
-1 Praetor's Counsel|MBS
+1 Purphoros, God of the Forge|THS
 1 Rampaging Baloths|ZEN
 1 Ramunap Excavator|HOU
 1 Rishkar's Expertise|AER
@@ -85,6 +84,7 @@ Name=Omnath - Budget
 1 Wayward Swordtooth|RIX
 1 Where Ancients Tread|ALA
 1 Wrenn and Six|MH1
+1 Xenagos, God of Revels|BNG
 1 Zendikar's Roil|ORI
 [Sideboard]
 1 Far Wanderings|TOR
