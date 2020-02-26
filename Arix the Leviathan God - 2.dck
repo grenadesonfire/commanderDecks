@@ -10,7 +10,7 @@ Name=Arix the Leviathan God - 2
 1 Brainstorm|C18
 1 Breeding Pool|EXP
 1 Capsize|TPR
-1 Clockspinning|TSP
+1 Chasm Skulker|C16
 1 Coastal Breach|C16
 1 Coiling Oracle|DIS
 1 Colossal Majesty|M19
@@ -28,7 +28,7 @@ Name=Arix the Leviathan God - 2
 1 Finale of Revelation|WAR
 1 Fireshrieker|MRD
 1 Flood of Tears|M20
-11 Forest|ZEN|2
+5 Forest|ZEN|2
 1 Goreclaw, Terror of Qal Sisma|M19
 1 Green Sun's Zenith|MBS
 1 Growth Spiral|RNA
@@ -36,7 +36,7 @@ Name=Arix the Leviathan God - 2
 1 Hinterland Harbor|ISD
 1 Incubation Druid|RNA
 1 Inundate|EVE
-11 Island|ZEN|2
+17 Island|ZEN|2
 1 Isleback Spawn|SHM
 1 Kederekt Leviathan|ALA
 1 Kiora's Follower|DDO
@@ -58,7 +58,6 @@ Name=Arix the Leviathan God - 2
 1 Rampant Growth|MIR
 1 Reliquary Tower|CFX
 1 Rogue's Passage|RTR
-1 Scourge of Fleets|DDO
 1 Serpent of Yawning Depths
 1 Simic Growth Chamber|DIS
 1 Simic Sky Swallower|DIS
@@ -79,8 +78,10 @@ Name=Arix the Leviathan God - 2
 1 Unwind|DOM
 1 Vorinclex, Voice of Hunger|NPH
 1 Whelming Wave|BNG
+1 Whisperer of the Wilds|FRF
 1 Whispers of the Muse|TPR
 1 Wonder|EMA
 1 Yavimaya Coast|APC
 [Sideboard]
 1 Progenitor Mimic|GK2
+1 Scourge of Fleets|DDO
