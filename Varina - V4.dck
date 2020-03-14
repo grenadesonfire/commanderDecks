@@ -8,7 +8,6 @@ Name=Varina - V4
 1 Anointed Procession|AKH
 1 Archfiend of Ifnir|AKH
 1 Ash Barrens|A25
-1 Ashnod's Altar|EMA
 1 Azorius Signet|C18
 1 Bojuka Bog|WWK
 1 Bone Miser|C19
@@ -38,7 +37,6 @@ Name=Varina - V4
 1 Field of the Dead|M20
 1 Ghoulcaller Gisa|C14
 1 Ghoulcaller's Chant|ISD
-1 Glacial Fortress|XLN
 1 Gleaming Overseer|WAR
 1 God-Eternal Oketra|WAR
 1 Godless Shrine|GTC
@@ -47,7 +45,7 @@ Name=Varina - V4
 1 Gray Merchant of Asphodel|THS
 1 Hallowed Fountain|RTR
 1 Havengul Lich|DKA
-4 Island|ZEN|3
+1 Island|ZEN|3
 1 Isolated Chapel|DOM
 1 Library of Leng|5ED
 1 Lich Lord of Unx|ARB
@@ -55,6 +53,7 @@ Name=Varina - V4
 1 Lord of the Undead|10E
 1 Mausoleum Secrets|GRN
 1 Morphic Pool|BBD
+1 Murderous Rider|ELD
 1 Necromancer's Covenant|ARB
 1 No Escape|WAR
 1 Noxious Ghoul|LGN
@@ -65,9 +64,8 @@ Name=Varina - V4
 1 Path to Exile|CFX
 1 Phyrexian Tower|UMA
 1 Plague Belcher|AKH
-1 Plains|HOU|1
+2 Plains|HOU|1
 1 Port Town|SOI
-1 Prairie Stream|BFZ
 1 Reconnaissance|EXO
 1 Relentless Dead|SOI
 1 Reliquary Tower|M19
@@ -79,9 +77,10 @@ Name=Varina - V4
 1 Skullclamp|DST
 1 Smothering Tithe|RNA
 1 Sol Ring|C18
+1 Sorin, Vengeful Bloodlord|WAR
 1 Sunken Hollow|BFZ
 1 Supreme Verdict|IMA
-4 Swamp|ZEN|4
+8 Swamp|ZEN|4
 1 Swords to Plowshares|A25
 1 The Scarab God|HOU
 1 Unclaimed Territory|XLN
@@ -95,7 +94,6 @@ Name=Varina - V4
 1 Wonder|EMA
 1 Wrath of God|BRB
 1 Zombie Apocalypse|DKA
-1 Zombie Trailblazer|TOR
 [Sideboard]
 1 Army of the Damned|ISD
 1 Blood Artist|C17

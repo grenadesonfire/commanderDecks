@@ -3,7 +3,9 @@ Name=Forever Feathery Friends
 [Commander]
 1 Feather, the Redeemed|WAR
 [Main]
+1 Ajani's Presence|JOU
 1 Akroan Crusader|UMA
+1 Apostle's Blessing|MM2
 1 Archangel Avacyn|SOI
 1 Aria of Flame|MH1
 1 Assault Strobe|SOM
@@ -11,14 +13,12 @@ Name=Forever Feathery Friends
 1 Aurelia's Fury|GTC
 1 Aurelia, Exemplar of Justice|GRN
 1 Aurelia, the Warleader|GK1
-1 Avacyn, Angel of Hope|IMA
 1 Bathe in Light|COM
 1 Battlefield Forge|ORI
 1 Boros Charm|GK1
 1 Boros Cluestone|CM2
 1 Boros Garrison|GK1
 1 Boros Signet|GK1
-1 Bruna, the Fading Light|EMN
 1 Chain Reaction|C18
 1 Clifftop Retreat|DOM
 1 Cloudshift|A25
@@ -33,7 +33,6 @@ Name=Forever Feathery Friends
 1 Fists of Flame|MH1
 1 Gird for Battle|GRN
 1 Gisela, Blade of Goldnight|CM2
-1 Gisela, the Broken Blade|EMN
 1 Gods Willing|UMA
 1 Guttersnipe|C19
 1 Hero of the Nyxborn|THB
@@ -43,7 +42,6 @@ Name=Forever Feathery Friends
 1 Karmic Guide|EMA
 1 Knight of the White Orchid|ORI
 1 Launch the Fleet|JOU
-1 Luminarch Ascension|A25
 1 Magnetic Theft|5DN
 1 Mentor of the Meek|M19
 1 Mirrorwing Dragon|EMN
@@ -63,6 +61,7 @@ Name=Forever Feathery Friends
 1 Runaway Steam-Kin|GRN
 1 Sacred Foundry|GRN
 1 Seize the Day|UMA
+1 Shadowspear|THB
 1 Shelter|MH1
 1 Sheltering Light|XLN
 1 Skullclamp|C17
@@ -72,6 +71,7 @@ Name=Forever Feathery Friends
 1 Sun Titan|CM2
 1 Sunforger|C16
 1 Swords to Plowshares|BBD
+1 Teferi's Protection|C17
 1 Tethmos High Priest|UMA
 1 Vanguard of Brimaz|BNG
 1 Wear // Tear|DGM
