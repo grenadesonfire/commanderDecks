@@ -7,14 +7,13 @@ Name=Hydra Rug
 1 Ainok Survivalist|C19
 1 Ancestral Statue|DTK
 1 Apocalypse Hydra|MM2
-1 Arcane Signet|ELD
+1 Arbor Elf|MB1
 1 Bane of Progress|CMA
 1 Beast Whisperer|GRN
 1 Blasphemous Act|C18
 1 Breeding Pool|RNA
 1 Burnished Hart|C19
-1 Cascade Bluffs|A25
-1 Castle Garenbrig|ELD
+1 Castle Garenbrig|ELD|2
 1 Cavern of Souls|UMA
 1 Cinder Glade|BFZ
 1 Command Tower|ELD
@@ -26,7 +25,7 @@ Name=Hydra Rug
 1 Farseek|C19
 1 Flooded Grove|A25
 1 Force of Vigor|MH1
-7 Forest|ZEN|3
+9 Forest|ZEN|3
 1 Forgotten Ancient|CM2
 1 Frontier Bivouac|C17
 1 Game Trail|SOI
@@ -34,31 +33,29 @@ Name=Hydra Rug
 1 Growing Rites of Itlimoc|XLN
 1 Gruul Turf|C19
 1 Hardened Scales|CM2
-1 Herald of Secret Streams|XLN
 1 Hinterland Harbor|DOM
 1 Hooded Hydra|C19
 1 Hungering Hydra|M19
 1 Hydra Broodmaster|JOU
 1 Hydra Omnivore|C18
 1 Hydroid Krasis|RNA
-3 Island|ZEN|2
-1 Izzet Boilerworks|C19
+2 Island|ZEN|2
 1 Kalonian Hydra|CM2
 1 Karn's Bastion|WAR
-1 Leyline of Lifeforce|GPT
+1 Lifecrafter's Bestiary|AER
 1 Loyal Guardian|C18
 1 Managorger Hydra|C16
 1 Merfolk Skydiver|WAR
 1 Mistcutter Hydra|THS
-3 Mountain|ZEN|3
+1 Mountain|ZEN|3
 1 Nature's Lore|GVL
 1 Nullmage Shepherd|RAV
 1 Opal Palace|CM2
-1 Pir's Whim|BBD
 1 Pir, Imaginative Rascal|BBD
 1 Primordial Hydra|M13
 1 Progenitor Mimic|GK2
 1 Protean Hydra|M11
+1 Rattleclaw Mystic|KTK
 1 Reclamation Sage|C18
 1 Reliquary Tower|C19
 1 Return to Nature|WAR
@@ -73,13 +70,15 @@ Name=Hydra Rug
 1 Solemn Simulacrum|C19
 1 Soul of the Harvest|E02
 1 Spike Weaver|BRB
+1 Spire Garden|BBD
 1 Steam Vents|GRN
 1 Steel Hellkite|C18
 1 Steelbane Hydra|ELD
 1 Stomping Ground|RNA
-1 Stonecoil Serpent|ELD
-1 Sulfur Falls|DOM
-1 The Great Henge|ELD
+1 Stonecoil Serpent|ELD|2
+1 Temple of Mystery|M20
+1 Temur Ascendancy|KTK
+1 The Great Henge|ELD|2
 1 Thrummingbird|MM2
 1 Tishana, Voice of Thunder|XLN
 1 Toothy, Imaginary Friend|BBD
@@ -89,11 +88,14 @@ Name=Hydra Rug
 1 Utvara Hellkite|GK2
 1 Vigor|BBD
 1 Voracious Hydra|M20
+1 Vorel of the Hull Clade|CM2
 1 Whiptongue Hydra|C18
 1 Wurmcoil Engine|CM2
+1 Yavimaya Coast|C19
 1 Zoetic Cavern|A25
 [Sideboard]
 1 Artisan of Kozilek|UMA
+1 Herald of Secret Streams|XLN
 1 Mycoloth|CMA
 1 Skyshroud Claim|BBD
 1 Temur Sabertooth|C17

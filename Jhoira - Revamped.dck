@@ -20,9 +20,10 @@ Name=Jhoira - Revamped
 1 Daretti, Scrap Savant|C16
 1 Darksteel Citadel|C18
 1 Dramatic Reversal|GN2
-1 Emry, Lurker of the Loch|ELD
+1 Emry, Lurker of the Loch|ELD|2
 1 Etherium Sculptor|C18
 1 Fabricate|HOP
+1 Forbid|MPS_AKH
 1 Foundry Inspector|KLD
 1 Goblin Welder|C14
 1 Great Furnace|C18
@@ -45,7 +46,7 @@ Name=Jhoira - Revamped
 1 Muddle the Mixture|RAV
 1 Myr Retriever|CM2
 1 Mystic Forge|M20
-1 Narset, Parter of Veils|WAR
+1 Narset, Parter of Veils|WAR|1
 1 Negate|BBD
 1 Padeem, Consul of Innovation|KLD
 1 Palladium Myr|IMA
@@ -57,7 +58,7 @@ Name=Jhoira - Revamped
 1 Rings of Brighthearth|LRW
 1 Saheeli Rai|KLD
 1 Saheeli's Directive|C18
-1 Saheeli, Sublime Artificer|WAR
+1 Saheeli, Sublime Artificer|WAR|1
 1 Saheeli, the Gifted|C18
 1 Sai, Master Thopterist|M19
 1 Seat of the Synod|C18
@@ -66,17 +67,16 @@ Name=Jhoira - Revamped
 1 Sol Ring|C18
 1 Solemn Simulacrum|C16
 1 Spellbook|M10
-1 Springjack Pasture|C13
 1 Steam Vents|GRN
 1 Storm the Vault|RIX
 1 Sulfur Falls|DOM
 1 Swiftfoot Boots|C18
 1 Talisman of Creativity|MH1
+1 Temple of Epiphany|DDU
 1 Tezzeret the Seeker|MM2
 1 Thought Vessel|CM2
 1 Tormod's Crypt|C14
 1 Torpor Orb|NPH
-1 Trading Post|C16
 1 Urza, Lord High Artificer|MH1
 1 Vandalblast|C15
 1 Volcanic Island|VMA

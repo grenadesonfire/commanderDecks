@@ -19,7 +19,6 @@ Name=Arix the Leviathan God - 2
 1 Counterspell|A25
 1 Crush of Tentacles|OGW
 1 Cyclonic Rift|RTR
-1 Deadeye Navigator|MM3
 1 Devastation Tide|AVR
 1 Displacement Wave|ORI
 1 Dissipate|M15
@@ -28,6 +27,7 @@ Name=Arix the Leviathan God - 2
 1 Finale of Revelation|WAR
 1 Fireshrieker|MRD
 1 Flood of Tears|M20
+1 Forbid|MPS_AKH
 5 Forest|ZEN|2
 1 Goreclaw, Terror of Qal Sisma|M19
 1 Green Sun's Zenith|MBS
@@ -49,16 +49,16 @@ Name=Arix the Leviathan God - 2
 1 Murkfiend Liege|EVE
 1 Myriad Landscape|C14
 1 Mystic Snake|A25
-1 Nadir Kraken|THB
+1 Nadir Kraken|THB|1
 1 Negate|DPA
 1 Nezahal, Primal Tide|RIX
-1 Palinchron|VMA
 1 Pemmin's Aura|SCG
 1 Prime Speaker Zegana|C15
 1 Rampant Growth|MIR
 1 Reliquary Tower|CFX
 1 Rogue's Passage|RTR
-1 Serpent of Yawning Depths
+1 Seasons Past|SOI
+1 Serpent of Yawning Depths|THB
 1 Simic Growth Chamber|DIS
 1 Simic Sky Swallower|DIS
 1 Slinn Voda, the Rising Deep|DOM
@@ -68,20 +68,22 @@ Name=Arix the Leviathan God - 2
 1 Swan Song|C16
 1 Swiftfoot Boots|C18
 1 Temple of Mystery|THS
-1 The Great Henge|ELD
+1 The Great Henge|ELD|1
 1 Thing in the Ice|SOI
 1 Thornwood Falls|KTK
-1 Thryx, the Sudden Storm|THB
+1 Thryx, the Sudden Storm|THB|1
 1 Triumph of the Hordes|NPH
 1 Tropical Island|VMA
 1 Trygon Predator|DIS
 1 Unwind|DOM
-1 Uro, Titan of Nature's Wrath|THB
+1 Uro, Titan of Nature's Wrath|THB|2
 1 Vorinclex, Voice of Hunger|NPH
 1 Whelming Wave|BNG
 1 Whisperer of the Wilds|FRF
 1 Wonder|EMA
 1 Yavimaya Coast|APC
 [Sideboard]
+1 Deadeye Navigator|MM3
+1 Palinchron|VMA
 1 Progenitor Mimic|GK2
 1 Scourge of Fleets|DDO

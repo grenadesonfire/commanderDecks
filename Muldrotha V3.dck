@@ -7,7 +7,7 @@ Name=Muldrotha V3
 1 Altar of Dementia|MH1
 1 Animate Dead|EMA
 1 Arcane Signet|ELD
-1 Ashiok, Dream Render|WAR
+1 Ashiok, Dream Render|WAR|1
 1 Birds of Paradise|CN2
 1 Birthing Pod|NPH
 1 Bojuka Bog|C18
@@ -19,10 +19,11 @@ Name=Muldrotha V3
 1 Cyclonic Rift|RTR
 1 Deathrite Shaman|GK1
 1 Dimir Aqueduct|C18
-1 Dryad of the Ilysian Grove|THB
+1 Dryad of the Ilysian Grove|THB|2
 1 Eternal Witness|CM2
 1 Evolving Wilds|ROE
 1 Farseek|C17
+1 Forbid|MPS_AKH
 7 Forest|ZEN|2
 1 Forest|ZEN|3
 1 Geth, Lord of the Vault|SOM
@@ -31,13 +32,13 @@ Name=Muldrotha V3
 1 Golgari Rot Farm|C18
 1 Golgari Signet|CM2|1
 1 Grave Titan|C14
-1 Gravebreaker Lamia|THB
+1 Gravebreaker Lamia|THB|1
 1 Greater Good|BBD
 1 Growing Rites of Itlimoc|XLN
 1 Hinterland Harbor|DOM
 1 Hostage Taker|XLN
 6 Island|ZEN|3
-1 Jace, Wielder of Mysteries|WAR
+1 Jace, Wielder of Mysteries|WAR|2
 1 Journey to Eternity|RIX
 1 Kaya's Ghostform|WAR
 1 Lightning Greaves|CM2
@@ -65,7 +66,6 @@ Name=Muldrotha V3
 1 Simic Growth Chamber|C18
 1 Simic Signet|CM2|1
 1 Siren Stormtamer|XLN
-1 Skyshroud Claim|BBD
 1 Sol Ring|C18
 1 Solemn Simulacrum|C19
 1 Spore Frog|MH1

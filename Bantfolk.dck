@@ -4,7 +4,6 @@ Name=Bantfolk
 1 Tuvasa the Sunlit|C18
 [Main]
 1 Aquatic Incursion|RIX
-1 Arcane Denial|A25
 1 Arcane Signet|ELD
 1 Aura of Silence|C15
 1 Authority of the Consuls|KLD
@@ -25,11 +24,12 @@ Name=Bantfolk
 1 Deeproot Waters|XLN
 1 Destiny Spinner|THB
 1 Dovin's Veto|WAR
-1 Dryad of the Ilysian Grove|THB
+1 Dryad of the Ilysian Grove|THB|2
 1 Enchantress's Presence|C18
 1 Estrid's Invocation|C18
 1 Farseek|C19
 1 Fertile Ground|C18
+1 Forbid|MPS_AKH
 2 Forest|ZEN|3
 1 Fumigate|KLD
 1 Gavony Township|ISD
@@ -40,12 +40,11 @@ Name=Bantfolk
 1 Gryff's Boon|SOI
 1 Hall of Heliod's Generosity|MH1
 1 Hallowed Fountain|RNA
-1 Harbinger of the Tides|DDT
 1 Heliod, God of the Sun|THS
 1 Herald of the Pantheon|C18
 1 Hinterland Harbor|DOM
 1 Idyllic Grange|ELD
-1 Idyllic Tutor|THB
+1 Idyllic Tutor|THB|2
 1 Imprisoned in the Moon|EMN
 1 Intruder Alarm|8ED
 11 Island|ZEN|3
@@ -53,13 +52,13 @@ Name=Bantfolk
 1 Kumena, Tyrant of Orazca|RIX
 1 Lord of Atlantis|6ED
 1 Lullmage Mentor|ZEN
+1 Martyr's Bond|MB1
 1 Master of the Pearl Trident|DDT
 1 Merfolk Mistbinder|RIX
 1 Merfolk Skydiver|WAR
 1 Merrow Commerce|LRW
 1 Mirari's Wake|C17
-1 Mirrormade|ELD
-1 Negate|M20
+1 Mirrormade|ELD|2
 1 Nimbus Maze|IMA
 1 Opal Palace|CM2
 2 Plains|ZEN|3
@@ -72,10 +71,11 @@ Name=Bantfolk
 1 Satyr Enchanter|M19
 1 Seahunter|NMS
 1 Seaside Citadel|C18
-1 Setessan Champion|THB
+1 Setessan Champion|THB|1
 1 Simic Ascendancy|RNA
 1 Smothering Tithe|RNA
 1 Sol Ring|C19
+1 Sphere of Safety|C16
 1 Starfield of Nyx|ORI
 1 Stonybrook Schoolmaster|MOR
 1 Summon the School|LRW
@@ -96,4 +96,3 @@ Name=Bantfolk
 1 Merrow Harbinger|LRW
 1 Seafloor Oracle|RIX
 1 Silvergill Adept|RIX
-1 Sphere of Safety|C16

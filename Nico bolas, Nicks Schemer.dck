@@ -13,7 +13,7 @@ Name=Nico bolas, Nick's Schemer
 1 Blood Crypt|RNA
 1 Bojuka Bog|WWK
 1 Cascade Bluffs|A25
-1 Castle Locthwain|ELD
+1 Castle Locthwain|ELD|2
 1 Chromatic Lantern|GRN
 1 Command Tower|ELD
 1 Counterspell|A25
@@ -24,15 +24,15 @@ Name=Nico bolas, Nick's Schemer
 1 Crux of Fate|FRF
 1 Cyclonic Rift|MM3
 1 Dark Intimations|AER
-1 Davriel, Rogue Shadowmage|WAR
+1 Davriel, Rogue Shadowmage|WAR|1
 1 Deliver Unto Evil|WAR
 1 Dimir Aqueduct|IMA
 1 Dimir Signet|MM3
 1 Disallow|AER
 1 Dragonskull Summit|XLN
 1 Drowned Catacomb|XLN
-1 Faithless Looting|UMA
 1 Fell Specter|M19
+1 Forbid|MPS_AKH
 1 Gem of Becoming|M13
 1 Geth's Grimoire|DST
 1 Graven Cairns|IMA
@@ -40,16 +40,17 @@ Name=Nico bolas, Nick's Schemer
 1 Hour of Devastation|HOU
 3 Island|THB|1
 1 Kess, Dissident Mage|MH1
-1 Kroxa, Titan of Death's Hunger|THB
+1 Kroxa, Titan of Death's Hunger|THB|2
 1 Lavaborn Muse|10E
 1 Library of Leng|5ED
 1 Liliana's Caress|M11
 1 Liliana's Specter|M11
 1 Megrim|M10
 1 Mind Rake|MH1
-2 Mountain|THB|1
+1 Morphic Pool|BBD
+1 Mountain|THB|1
 1 Myriad Landscape|A25
-1 Nicol Bolas, Dragon-God|WAR
+1 Nicol Bolas, Dragon-God|WAR|1
 1 Nicol Bolas, God-Pharaoh|HOU
 1 Nicol Bolas, Planeswalker|M13
 1 Nightscape Familiar|PLS
