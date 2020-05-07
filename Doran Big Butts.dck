@@ -5,7 +5,7 @@ Name=Doran Big Butts
 [Main]
 1 Abzan Beastmaster|FRF
 1 Abzan Charm|C16
-1 Arasta of the Endless Web|THB
+1 Arasta of the Endless Web|THB|2
 1 Assault Formation|IMA
 1 Athreos, God of Passage|JOU
 1 Austere Command|IMA
@@ -16,14 +16,15 @@ Name=Doran Big Butts
 1 Chromatic Lantern|RTR
 1 Command Tower|C18
 1 Courser of Kruphix|A25
-1 Daxos, Blessed by the Sun|THB
+1 Daxos, Blessed by the Sun|THB|1
 1 Deathsprout|WAR
 1 Despark|WAR
 1 Destiny Spinner|THB
 1 Disowned Ancestor|KTK
-1 Dryad of the Ilysian Grove|THB
+1 Dryad of the Ilysian Grove|THB|1
 1 Dusk // Dawn|AKH
 1 Ensouled Scimitar|5DN
+1 Faeburrow Elder|ELD|2
 1 Farseek|C17
 1 Fell the Mighty|C17
 1 Forbidding Watchtower|TD2
@@ -40,7 +41,6 @@ Name=Doran Big Butts
 1 Ironroot Warlord|M20
 1 Journey to Eternity|RIX
 1 Karametra, God of Harvests|BNG
-1 Leyline of Lifeforce|GPT
 1 Meekstone|MPS_KLD
 1 Merciless Eviction|CM2
 1 Mortify|C18
@@ -68,7 +68,7 @@ Name=Doran Big Butts
 1 Slaughter the Strong|RIX
 1 Smothering Tithe|RNA
 1 Sol Ring|C18
-1 Sorin, Vengeful Bloodlord|WAR
+1 Sorin, Vengeful Bloodlord|WAR|1
 1 Spidersilk Armor|DDG
 1 Sun Titan|M11
 1 Sunpetal Grove|XLN
@@ -91,7 +91,7 @@ Name=Doran Big Butts
 1 Builder's Blessing|AVR
 1 Crenellated Wall|MMQ
 1 Grizzled Leotau|ARB
-1 Huatli, the Sun's Heart|WAR
+1 Huatli, the Sun's Heart|WAR|1
 1 Nyx-Fleece Ram|A25
 1 Reach of Branches|MMA
 1 Sight of the Scalelords|DTK

@@ -3,6 +3,7 @@ Name=Rakdos - Revived!
 [Commander]
 1 Rakdos, Lord of Riots|RTR
 [Main]
+1 Animate Dead|EMA
 1 Artisan of Kozilek|UMA
 1 Avatar of Woe|CM2
 1 Badlands|VMA
@@ -10,10 +11,9 @@ Name=Rakdos - Revived!
 1 Blood Crypt|EXP
 1 Bogardan Hellkite|IMA
 1 Bojuka Bog|C18
-1 Bontu's Last Reckoning|HOU
 1 Burnished Hart|C15
 1 Canyon Slough|AKH
-1 Castle Locthwain|ELD
+1 Castle Locthwain|ELD|2
 1 Chainer, Nightmare Adept|C19
 1 Command Tower|C18
 1 Conduit of Ruin|BFZ
@@ -30,16 +30,14 @@ Name=Rakdos - Revived!
 1 Dreadhorde Butcher|WAR
 1 Flame Rift|NMS
 1 Foreboding Ruins|SOI
-1 Go for the Throat|C17
 1 Goblin Fireslinger|MM2
 1 Inferno Titan|C15
 1 Insult // Injury|AKH
-1 Kroxa, Titan of Death's Hunger|THB
+1 Kroxa, Titan of Death's Hunger|THB|1
 1 Leechridden Swamp|DDR
 1 Lightning Greaves|C17
 1 Lobber Crew|RTR
 1 Master of Cruelties|GK2
-1 Mine Layer|ODY
 1 Mogis, God of Slaughter|BNG
 14 Mountain|THB|1
 1 Necropotence|IMA
@@ -57,17 +55,19 @@ Name=Rakdos - Revived!
 1 Rakdos's Return|GK2
 1 Read the Bones|C17
 1 Reforge the Soul|C16
+1 Shenanigans|MH1
 1 Shepherd of Rot|HOP
 1 Smoldering Marsh|EXP
 1 Sol Ring|C19
 1 Solemn Simulacrum|CM2|1
 1 Stalking Vengeance|C16
-1 Stonecoil Serpent|ELD
-1 Stormfist Crusader|ELD
+1 Stonecoil Serpent|ELD|1
+1 Stormfist Crusader|ELD|1
 7 Swamp|THB|1
 1 Swiftfoot Boots|C18
 1 Talisman of Indulgence|MRD
-1 Tectonic Giant|THB
+1 Tectonic Giant|THB|1
+1 Tectonic Hellion|C19
 1 Temple of Malice|BNG
 1 Terminate|C17
 1 Thermo-Alchemist|UMA

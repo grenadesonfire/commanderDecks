@@ -70,11 +70,11 @@ Name=Muldrotha V3
 1 Solemn Simulacrum|C19
 1 Spore Frog|MH1
 1 Sultai Ascendancy|KTK
-1 Sultai Charm|KTK
 1 Sunken Hollow|EXP
 8 Swamp|ZEN|4
 1 Taigam, Sidisi's Hand|C17
 1 Terramorphic Expanse|C18
+1 Triskelion|DDF
 1 Underrealm Lich|GRN
 1 Victimize|CMA
 1 Villainous Wealth|KTK
@@ -85,13 +85,4 @@ Name=Muldrotha V3
 1 World Breaker|OGW
 1 World Shaper|RIX
 [Sideboard]
-1 Careful Study|ODY
-1 Fact or Fiction|CM2
-1 Frantic Search|VMA
-1 Kodama's Reach|C17
-1 Necrotic Ooze|SOM
-1 Phyrexian Devourer|ME2
-1 Strategic Planning|HOU
-1 The Mimeoplasm|CM2
-1 Thirst for Knowledge|C18
-1 Triskelion|DDF
+1 Sultai Charm|KTK

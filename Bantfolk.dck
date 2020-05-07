@@ -3,18 +3,17 @@ Name=Bantfolk
 [Commander]
 1 Tuvasa the Sunlit|C18
 [Main]
+1 Abundant Growth|MB1
 1 Aquatic Incursion|RIX
 1 Arcane Signet|ELD
 1 Aura of Silence|C15
 1 Authority of the Consuls|KLD
 1 Bant Panorama|CMA
 1 Bear Umbra|C18
+1 Botanical Sanctum|KLD
 1 Breeding Pool|RNA
-1 Call to the Kindred|DKA
 1 Canopy Vista|BFZ
 1 Cathars' Crusade|CM2
-1 Chromatic Lantern|GRN
-1 Cold-Eyed Selkie|C18
 1 Command Tower|ELD
 1 Counterspell|SS1
 1 Cryptolith Rite|SOI
@@ -26,6 +25,7 @@ Name=Bantfolk
 1 Dovin's Veto|WAR
 1 Dryad of the Ilysian Grove|THB|2
 1 Enchantress's Presence|C18
+1 Ephara, God of the Polis|SLD
 1 Estrid's Invocation|C18
 1 Farseek|C19
 1 Fertile Ground|C18
@@ -40,10 +40,10 @@ Name=Bantfolk
 1 Gryff's Boon|SOI
 1 Hall of Heliod's Generosity|MH1
 1 Hallowed Fountain|RNA
+1 Hanna, Ship's Navigator|A25
 1 Heliod, God of the Sun|THS
 1 Herald of the Pantheon|C18
 1 Hinterland Harbor|DOM
-1 Idyllic Grange|ELD
 1 Idyllic Tutor|THB|2
 1 Imprisoned in the Moon|EMN
 1 Intruder Alarm|8ED
@@ -79,13 +79,13 @@ Name=Bantfolk
 1 Starfield of Nyx|ORI
 1 Stonybrook Schoolmaster|MOR
 1 Summon the School|LRW
+1 Sun Titan|C19
 1 Sunpetal Grove|XLN
-1 Surgespanner|LRW
 1 Swan Song|C16
 1 Swords to Plowshares|BBD
 1 Sygg, River Guide|LRW
 1 Temple Garden|GRN
-1 Thada Adel, Acquisitor|WWK
+1 Thassa, God of the Sea|SLD
 1 True-Name Nemesis|BBD
 1 Unclaimed Territory|XLN
 1 Wanderwine Hub|LRW

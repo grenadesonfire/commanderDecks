@@ -4,8 +4,9 @@ Name=Arix the Leviathan God - 2
 1 Arixmethes, Slumbering Isle|C18
 [Main]
 1 Arch of Orazca|RIX
-1 Berserk|CN2
+1 Archetype of Imagination|MB1
 1 Birds of Paradise|CN2
+1 Botanical Sanctum|KLD
 1 Bounty of the Luxa|AKH
 1 Brainstorm|C18
 1 Breeding Pool|EXP
@@ -16,29 +17,28 @@ Name=Arix the Leviathan God - 2
 1 Colossal Majesty|M19
 1 Colossal Whale|M14
 1 Command Tower|COM
-1 Counterspell|A25
 1 Crush of Tentacles|OGW
 1 Cyclonic Rift|RTR
 1 Devastation Tide|AVR
 1 Displacement Wave|ORI
-1 Dissipate|M15
+1 Eternal Witness|MB1
+1 Evacuation|C16
+1 Explore|DDO
 1 Farseek|RAV
 1 Finale of Devastation|WAR
 1 Finale of Revelation|WAR
-1 Fireshrieker|MRD
 1 Flood of Tears|M20
 1 Forbid|MPS_AKH
 5 Forest|ZEN|2
+1 Garruk Wildspeaker|GVL
 1 Goreclaw, Terror of Qal Sisma|M19
-1 Green Sun's Zenith|MBS
 1 Growth Spiral|RNA
 1 Gyre Engineer|RNA
 1 Hinterland Harbor|ISD
+1 Ilysian Caryatid|THB
 1 Incubation Druid|RNA
 1 Inundate|EVE
-17 Island|ZEN|2
-1 Isleback Spawn|SHM
-1 Kederekt Leviathan|ALA
+15 Island|ZEN|2
 1 Kiora's Follower|DDO
 1 Kiora, Master of the Depths|BFZ
 1 Kiora, the Crashing Wave|BNG
@@ -48,11 +48,13 @@ Name=Arix the Leviathan God - 2
 1 Mosswort Bridge|LRW
 1 Murkfiend Liege|EVE
 1 Myriad Landscape|C14
-1 Mystic Snake|A25
+1 Mystic Sanctuary|ELD
 1 Nadir Kraken|THB|1
-1 Negate|DPA
 1 Nezahal, Primal Tide|RIX
+1 Oboro Breezecaller|SOK
+1 Overwhelming Stampede|C19
 1 Pemmin's Aura|SCG
+1 Ponder|C18
 1 Prime Speaker Zegana|C15
 1 Rampant Growth|MIR
 1 Reliquary Tower|CFX
@@ -65,25 +67,31 @@ Name=Arix the Leviathan God - 2
 1 Sol Ring|C18
 1 Stormsurge Kraken|C14
 1 Stormtide Leviathan|M11
-1 Swan Song|C16
 1 Swiftfoot Boots|C18
 1 Temple of Mystery|THS
+1 Thassa, God of the Sea|SLD
 1 The Great Henge|ELD|1
-1 Thing in the Ice|SOI
 1 Thornwood Falls|KTK
 1 Thryx, the Sudden Storm|THB|1
+1 Time Warp|M10
 1 Triumph of the Hordes|NPH
 1 Tropical Island|VMA
 1 Trygon Predator|DIS
-1 Unwind|DOM
 1 Uro, Titan of Nature's Wrath|THB|2
 1 Vorinclex, Voice of Hunger|NPH
+1 Vortex Elemental|BNG
 1 Whelming Wave|BNG
 1 Whisperer of the Wilds|FRF
 1 Wonder|EMA
 1 Yavimaya Coast|APC
 [Sideboard]
-1 Deadeye Navigator|MM3
+1 Counterspell|A25
+1 Fireshrieker|MRD
+1 Green Sun's Zenith|MBS
+1 Isleback Spawn|SHM
+1 Kederekt Leviathan|ALA
+1 Negate|DPA
 1 Palinchron|VMA
-1 Progenitor Mimic|GK2
 1 Scourge of Fleets|DDO
+1 Swan Song|C16
+1 Unwind|DOM

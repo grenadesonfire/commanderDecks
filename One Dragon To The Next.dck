@@ -34,7 +34,7 @@ Name=One Dragon To The Next
 1 Finale of Devastation|WAR
 1 Food Chain|MMQ
 1 Forest|ZEN|2
-5 Forest|ZEN|3
+4 Forest|ZEN|3
 1 Goblin Bombardment|TPR
 1 Golgari Rot Farm|IMA
 1 Grave Pact|CM2
@@ -42,19 +42,20 @@ Name=One Dragon To The Next
 1 Impact Tremors|DTK
 1 Journey to Eternity|RIX
 1 Jund Panorama|C18
-1 Kenrith's Transformation|ELD
+1 Kenrith's Transformation|ELD|2
 1 Kodama's Reach|MMA
 1 Krosan Grip|MMA
 1 Lightning Greaves|MRD
 1 Mayhem Devil|WAR
 1 Meren of Clan Nel Toth|CMA
-4 Mountain|ZEN|3
+3 Mountain|ZEN|3
 1 Nature's Claim|IMA
 1 Nature's Lore|VMA
 1 Necropotence|IMA
 1 Noxious Revival|NPH
 1 Oakhame Adversary|ELD
 1 Overgrown Tomb|GRN
+1 Plaguecrafter|MB1
 1 Praetor's Grasp|NPH
 1 Purphoros, God of the Forge|THS
 1 Putrefy|C18
@@ -82,6 +83,7 @@ Name=One Dragon To The Next
 1 Sylvan Safekeeper|CMA
 1 Taiga|VMA
 1 Temur Sabertooth|C17
+1 Tireless Tracker|MB1
 1 Vampiric Tutor|EMA
 1 Veil of Summer|M20
 1 Verdant Catacombs|MM3
