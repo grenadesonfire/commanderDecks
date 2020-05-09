@@ -13,13 +13,14 @@ Name=Mardu Meow Meow Massacre
 1 Blood Crypt|RNA
 1 Bojuka Bog|C20
 1 Boros Charm|GK1
-1 Buried Alive|UMA
 1 Call the Coppercoats|C20
 1 Captivating Crew|C20
+1 Cathars' Crusade|CM2
 1 Cavern of Souls|UMA
 1 Chainer, Nightmare Adept|C19
 1 Clifftop Retreat|DOM
 1 Command Tower|ELD
+1 Crackling Doom|C20
 1 Despark|C20
 1 Devout Chaplain|C20
 1 Dire Tactics|IKO
@@ -28,14 +29,13 @@ Name=Mardu Meow Meow Massacre
 1 Drannith Magistrate|IKO|2
 1 Dusk // Dawn|C19
 1 Elesh Norn, Grand Cenobite|MB1
-1 Entomb|UMA
 1 Exotic Orchard|C20
 1 Faithless Looting|MB1
-1 Gamble|UMA
 1 General Kudro of Drannith|IKO|2
 1 General's Enforcer|IKO
 1 Godless Shrine|GTC
 1 Grand Abolisher|C14
+1 Grave Pact|CM2
 1 Grim Haruspex|C19
 1 Hall of Heliod's Generosity|MH1
 1 Hanweir Battlements|EMN
@@ -48,29 +48,28 @@ Name=Mardu Meow Meow Massacre
 1 Kelsien, the Plague|C20
 1 Knight of the White Orchid|C20
 1 Lightning Greaves|C20
-1 Luxury Suite|BBD
 1 Massacre Girl|WAR
 1 Mentor of the Meek|M19
-1 Molten Echoes|C20
-3 Mountain|THB|1
-1 Necromancy|VIS
+2 Mountain|THB|1
+1 Mythos of Snapdax|IKO|1
 1 Nomad Outpost|C20
-1 Odric, Master Tactician|C20
 1 Orzhov Basilica|C20
 1 Outlaws' Merriment|ELD|2
+1 Oversold Cemetery|ONS
 1 Path of Ancestry|C20
-1 Phyrexian Arena|HA1
 1 Pitiless Plunderer|RIX
+1 Plaguecrafter|MB1
 5 Plains|THB|1
 1 Priest of Forgotten Gods|RNA
 1 Rakdos Carnarium|C20
-1 Rugged Prairie|A25
+1 Recruiter of the Guard|MB1
 1 Ruinous Ultimatum|IKO|2
 1 Sacred Foundry|GRN
 1 Savai Triome|IKO|2
 1 Shared Animosity|C20
 1 Sheoldred, Whispering One|IMA
 1 Silent Clearing|MH1
+1 Skirsdag High Priest|C14
 1 Skullclamp|C20
 1 Smoldering Marsh|C20
 1 Smothering Tithe|RNA
@@ -82,13 +81,17 @@ Name=Mardu Meow Meow Massacre
 1 Thalia's Lieutenant|C20
 1 Thalia, Guardian of Thraben|HA2
 1 Thalia, Heretic Cathar|EMN
-1 Titan Hunter|C20
 1 Unclaimed Territory|C20
 1 Unearth|MH1
 1 Utter End|C18
 1 Vandalblast|C15
 1 Verge Rangers|C20
 1 Victimize|CMA
+1 Wear // Tear|FMB1
+1 Westvale Abbey|SOI
+1 Whisper, Blood Liturgist|DOM
 1 Xathrid Necromancer|C20
 1 Yawgmoth, Thran Physician|MH1
 1 Zulaport Cutthroat|C20
+[Sideboard]
+1 Titan Hunter|C20

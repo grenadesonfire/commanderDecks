@@ -5,6 +5,7 @@ Name=Jhoira - Revamped
 [Main]
 1 Aether Spellbomb|MMA
 1 Aetherflux Reservoir|KLD
+1 Arcane Signet|C20
 1 Ashnod's Altar|EMA
 1 Basalt Monolith|C15
 1 Blasphemous Act|C18
@@ -16,6 +17,7 @@ Name=Jhoira - Revamped
 1 Command Tower|C18
 1 Commander's Sphere|C18
 1 Counterspell|A25
+1 Crystalline Giant|IKO|1
 1 Cyclonic Rift|MM3
 1 Daretti, Scrap Savant|C16
 1 Darksteel Citadel|C18
@@ -27,12 +29,11 @@ Name=Jhoira - Revamped
 1 Foundry Inspector|KLD
 1 Goblin Welder|C14
 1 Great Furnace|C18
-1 Hedron Archive|C18
 1 Helm of Awakening|VIS
 1 Herald of Kozilek|BFZ
 1 Inventors' Fair|KLD
 2 Island|THB|1
-9 Island|ZEN|3
+8 Island|ZEN|3
 1 Isochron Scepter|EMA
 1 Izzet Boilerworks|C18
 1 Izzet Signet|C18
@@ -41,7 +42,7 @@ Name=Jhoira - Revamped
 1 Mind Stone|C18
 1 Mirrodin Besieged|MH1
 2 Mountain|THB|1
-10 Mountain|ZEN|3
+8 Mountain|ZEN|3
 1 Mox Amber|DOM
 1 Muddle the Mixture|RAV
 1 Myr Retriever|CM2
@@ -67,6 +68,7 @@ Name=Jhoira - Revamped
 1 Sol Ring|C18
 1 Solemn Simulacrum|C16
 1 Spellbook|M10
+1 Sprite Dragon|IKO|1
 1 Steam Vents|GRN
 1 Storm the Vault|RIX
 1 Sulfur Falls|DOM
@@ -75,6 +77,7 @@ Name=Jhoira - Revamped
 1 Temple of Epiphany|DDU
 1 Tezzeret the Seeker|MM2
 1 Thought Vessel|CM2
+1 Tidal Barracuda|C20
 1 Tormod's Crypt|C14
 1 Torpor Orb|NPH
 1 Urza, Lord High Artificer|MH1
@@ -84,6 +87,7 @@ Name=Jhoira - Revamped
 1 Winter Orb|EMA
 1 Words of Wind|ONS
 [Sideboard]
+1 Hedron Archive|C18
 1 Myr Turbine|MBS
 1 Soul of New Phyrexia|C18
 1 Temple of the False God|C18

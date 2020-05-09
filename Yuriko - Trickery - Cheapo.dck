@@ -5,6 +5,7 @@ Name=Yuriko - Trickery - Cheapo
 [Main]
 1 Abjure|WTH
 1 Arcane Adaptation|XLN
+1 Arcane Signet|C20
 1 Artificer's Assistant|DOM
 1 Baleful Strix|E01
 1 Bojuka Bog|C19
@@ -18,11 +19,13 @@ Name=Yuriko - Trickery - Cheapo
 1 Cover of Darkness|ONS
 1 Curtains' Call|C16
 1 Darkslick Shores|SOM
+1 Deadly Rollick|C20
 1 Demonic Tutor|UMA
 1 Devastation Tide|AVR
 1 Dimir Infiltrator|PCA
 1 Dimir Signet|GK1
 1 Fallen Shinobi|MH1
+1 Fierce Guardianship|C20
 1 Forbid|MPS_AKH
 1 Force of Will|EMA
 1 Ghost Quarter|CM2
@@ -33,7 +36,7 @@ Name=Yuriko - Trickery - Cheapo
 1 Ink-Eyes, Servant of Oni|PCA
 1 Insidious Dreams|TOR
 8 Island|ZEN|2
-7 Island|ZEN|4
+5 Island|ZEN|4
 1 Jace's Phantasm|IMA
 1 Jace, the Mind Sculptor|A25
 1 Karn's Temporal Sundering|DOM
@@ -66,12 +69,12 @@ Name=Yuriko - Trickery - Cheapo
 1 Sunken Hollow|BFZ
 1 Sunken Ruins|SHM
 1 Swamp|ZEN|2
-4 Swamp|ZEN|3
+3 Swamp|ZEN|3
 1 Temporal Manipulation|UMA
 1 Temporal Mastery|MM3
 1 Temporal Trespass|FRF
 1 Tetsuko Umezawa, Fugitive|DOM
-1 Thassa's Oracle|THB
+1 Thassa's Oracle|THB|2
 1 Throat Slitter|BOK
 1 Time Warp|M10
 1 Tormented Soul|M13
