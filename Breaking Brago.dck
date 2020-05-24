@@ -41,6 +41,7 @@ Name=Breaking Brago
 1 Hallowed Fountain|RTR
 1 Inventors' Fair|KLD
 1 Irrigated Farmland|AKH
+1 Island|THB|1
 7 Island|ZEN|2
 1 Knight-Captain of Eos|ALA
 1 Lavinia of the Tenth|DGM
@@ -55,7 +56,6 @@ Name=Breaking Brago
 1 Oblivion Ring|MM2
 1 Omen of the Sea|THB
 1 Pact of Negation|A25
-1 Parallax Tide|NMS
 1 Peregrine Drake|EMA
 1 Plains|ZEN|1
 1 Plains|ZEN|2
@@ -96,4 +96,5 @@ Name=Breaking Brago
 1 Watcher for Tomorrow|MH1
 [Sideboard]
 1 Panharmonicon|KLD
+1 Parallax Tide|NMS
 1 Winter Orb|EMA

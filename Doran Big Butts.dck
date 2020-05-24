@@ -3,7 +3,6 @@ Name=Doran Big Butts
 [Commander]
 1 Doran, the Siege Tower|FVL
 [Main]
-1 Abzan Beastmaster|FRF
 1 Abzan Charm|C16
 1 Arasta of the Endless Web|THB|2
 1 Assault Formation|IMA
@@ -12,15 +11,16 @@ Name=Doran Big Butts
 1 Beast Whisperer|GRN
 1 Behind the Scenes|SOI
 1 Brave the Sands|CM2
+1 Call of the Death-Dweller|IKO
 1 Canopy Vista|EXP
 1 Chromatic Lantern|RTR
 1 Command Tower|C18
 1 Courser of Kruphix|A25
 1 Daxos, Blessed by the Sun|THB|1
+1 Death's Oasis|IKO|1
 1 Deathsprout|WAR
 1 Despark|WAR
 1 Destiny Spinner|THB
-1 Disowned Ancestor|KTK
 1 Dryad of the Ilysian Grove|THB|1
 1 Dusk // Dawn|AKH
 1 Ensouled Scimitar|5DN
@@ -29,24 +29,26 @@ Name=Doran Big Butts
 1 Fell the Mighty|C17
 1 Forbidding Watchtower|TD2
 1 Forest|ZEN|1
-11 Forest|ZEN|3
+10 Forest|ZEN|3
 1 Fortified Village|SOI
 1 God-Eternal Oketra|WAR
 1 Godless Shrine|EXP
 1 Golgari Rot Farm|C18
-1 Growing Rites of Itlimoc|XLN
-1 Idyllic Tutor|MOR
 1 Ikra Shidiqi, the Usurper|CM2
+1 Indatha Triome|IKO|1
 1 Indomitable Ancients|MOR
-1 Ironroot Warlord|M20
 1 Journey to Eternity|RIX
 1 Karametra, God of Harvests|BNG
+1 Kathril, Aspect Warper|C20
+1 Luminous Broodmoth|IKO|1
 1 Meekstone|MPS_KLD
 1 Merciless Eviction|CM2
 1 Mortify|C18
 1 Murmuring Bosk|C16
+1 Mythos of Nethroi|IKO|1
 1 Nature's Lore|VMA
 1 Necroskitter|MM2
+1 Netherborn Altar|C20
 1 Ohran Frostfang|C19
 1 Oketra the True|AKH
 1 Overgrown Tomb|GRN
@@ -82,18 +84,9 @@ Name=Doran Big Butts
 1 Utter End|C18
 1 Victimize|CMA
 1 Wall of Tanglecord|SOM
-1 Wave of Reckoning|C16
 1 Whip of Erebos|THS
 1 Woodland Cemetery|DOM
 1 Zetalpa, Primal Dawn|RIX
 [Sideboard]
-1 Archetype of Courage|BNG
-1 Builder's Blessing|AVR
-1 Crenellated Wall|MMQ
-1 Grizzled Leotau|ARB
-1 Huatli, the Sun's Heart|WAR|1
-1 Nyx-Fleece Ram|A25
-1 Reach of Branches|MMA
-1 Sight of the Scalelords|DTK
-1 Sporecap Spider|CNS
-1 Treefolk Harbinger|LRW
+1 Abzan Beastmaster|FRF
+1 Disowned Ancestor|KTK

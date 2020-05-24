@@ -7,13 +7,13 @@ Name=Emmara, Tap Me Daddy
 1 Anointed Procession|AKH
 1 Anointer Priest|AKH
 1 Armada Wurm|RTR
-1 Ashnod's Altar|EMA
 1 Aura Shards|COM
 1 Blighted Woodland|BFZ
+1 Bonders' Enclave|IKO|1
 1 Bountiful Promenade|BBD
 1 Bramble Sovereign|BBD
 1 Canopy Vista|EXP
-1 Castle Ardenvale|ELD
+1 Castle Ardenvale|ELD|1
 1 Cathars' Crusade|C16
 1 Champion of Lambholt|AVR
 1 Chord of Calling|M15
@@ -21,6 +21,7 @@ Name=Emmara, Tap Me Daddy
 1 Commander's Insignia|C19
 1 Cryptolith Rite|SOI
 1 Dawn of Hope|GRN
+1 Destiny Spinner|THB
 1 Diversionary Tactics|APC
 1 Divine Visitation|GRN
 1 Doubling Season|MMA
@@ -30,16 +31,16 @@ Name=Emmara, Tap Me Daddy
 1 Entreat the Angels|MM3
 1 Farseek|C17
 1 Finale of Glory|WAR
-8 Forest|ZEN|1
+7 Forest|ZEN|1
 1 Fortified Village|SOI
 1 Giant Adephage|GTC
 1 Glare of Subdual|EMA
 1 God-Eternal Oketra|WAR
 1 Good-Fortune Unicorn|MH1
 1 Grove of the Guardian|RTR
-1 Growing Ranks|RTR
 1 Growing Rites of Itlimoc|XLN
-1 Harmonious Archon|ELD
+1 Hall of Heliod's Generosity|MH1
+1 Harmonious Archon|ELD|2
 1 Harvest Season|AKH
 1 Holdout Settlement|OGW
 1 Hornet Queen|M15
@@ -51,16 +52,19 @@ Name=Emmara, Tap Me Daddy
 1 Mentor of the Meek|M19
 1 Mimic Vat|C18
 1 Mosswort Bridge|LRW
+1 Nature's Chosen|ALL
 1 Nature's Claim|IMA
 1 Nature's Lore|VMA
 1 Nullmage Shepherd|RAV
+1 Odric, Master Tactician|C20
 1 Ohran Frostfang|C19
 1 Paradise Mantle|MMA
 1 Parallel Lives|ISD
-6 Plains|ZEN|4
+4 Plains|ZEN|4
 1 Quest for Renewal|WWK
 1 Reliquary Tower|M19
 1 Return to Dust|TSP
+1 Reveillark|C20
 1 Savannah|VMA
 1 Scattered Groves|AKH
 1 Seedborn Muse|BBD
@@ -78,7 +82,6 @@ Name=Emmara, Tap Me Daddy
 1 Sungrass Prairie|CM2
 1 Sunpetal Grove|XLN
 1 Survivors' Encampment|HOU
-1 Sword of the Paruns|C13
 1 Swords to Plowshares|A25
 1 Temple Garden|GRN
 1 Temple of Plenty|BNG
@@ -90,14 +93,3 @@ Name=Emmara, Tap Me Daddy
 1 Wayfaring Temple|MM3
 1 Wilt-Leaf Liege|MM2
 1 Windbrisk Heights|LRW
-[Sideboard]
-1 Blossoming Sands|EMA
-1 Conclave Phalanx|MM2
-1 Devout Invocation|M14
-1 Feral Incarnation|M15
-1 Geist-Honored Monk|ISD
-1 Huatli, Radiant Champion|RIX
-1 Naturalize|M19
-1 Parhelion II|WAR
-1 Thornbite Staff|MOR
-1 Throne of the God-Pharaoh|AKH

@@ -10,7 +10,6 @@ Name=Karlov - Taxation
 1 Basilica Guards|GTC
 1 Basilica Screecher|GTC
 1 Blind Obedience|GTC
-1 Blood Artist|EMA
 1 Bloodchief Ascension|ZEN
 1 Bloodghast|IMA
 1 Bojuka Bog|C19
@@ -28,7 +27,6 @@ Name=Karlov - Taxation
 1 Diabolic Tutor|KLD
 1 Divinity of Pride|MMA
 1 Drannith Magistrate|IKO|1
-1 Erebos, God of the Dead|THS
 1 Exsanguinate|SOM
 1 Flickering Ward|TMP
 1 Fumigate|KLD
@@ -54,6 +52,7 @@ Name=Karlov - Taxation
 1 Palace Siege|FRF
 1 Phyrexian Arena|9ED
 1 Phyrexian Reclamation|C15
+1 Plains|THB|1
 9 Plains|ZEN|2
 1 Pontiff of Blight|DGM
 1 Reassembling Skeleton|M19
@@ -70,9 +69,9 @@ Name=Karlov - Taxation
 1 Sorin, Vengeful Bloodlord|WAR|1
 1 Soul Warden|MM3
 1 Soul's Attendant|ROE
-1 Splendor Mare|IKO
 1 Sun Titan|M12
 1 Suture Priest|NPH
+2 Swamp|THB|1
 8 Swamp|ZEN|3
 1 Swords to Plowshares|A25
 1 Syndic of Tithes|GTC
@@ -82,10 +81,12 @@ Name=Karlov - Taxation
 1 Thrull Parasite|GTC
 1 Tithe Drinker|DGM
 1 Tragic Slip|EMA
+1 Treasury Thrull|C15
 1 Urborg, Tomb of Yawgmoth|UMA
 1 Utter End|KTK
 1 Vizkopa Guildmage|IMA
 1 Wall of Reverence|UMA
-1 Zulaport Cutthroat|A25
 [Sideboard]
-
+1 Blood Artist|EMA
+1 Erebos, God of the Dead|THS
+1 Zulaport Cutthroat|A25

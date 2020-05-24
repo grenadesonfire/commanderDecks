@@ -4,6 +4,7 @@ Name=Bantfolk
 1 Tuvasa the Sunlit|C18
 [Main]
 1 Abundant Growth|MB1
+1 Alhammarret's Archive|MB1
 1 Aquatic Incursion|RIX
 1 Arcane Signet|ELD
 1 Aura of Silence|C15
@@ -24,6 +25,7 @@ Name=Bantfolk
 1 Destiny Spinner|THB
 1 Dovin's Veto|WAR
 1 Dryad of the Ilysian Grove|THB|2
+1 Eidolon of Blossoms|C18
 1 Enchantress's Presence|C18
 1 Ephara, God of the Polis|SLD
 1 Estrid's Invocation|C18
@@ -41,6 +43,7 @@ Name=Bantfolk
 1 Hall of Heliod's Generosity|MH1
 1 Hallowed Fountain|RNA
 1 Hanna, Ship's Navigator|A25
+1 Heliod's Intervention|THB|1
 1 Heliod, God of the Sun|THS
 1 Herald of the Pantheon|C18
 1 Hinterland Harbor|DOM
@@ -54,7 +57,6 @@ Name=Bantfolk
 1 Lullmage Mentor|ZEN
 1 Martyr's Bond|MB1
 1 Master of the Pearl Trident|DDT
-1 Merfolk Mistbinder|RIX
 1 Merfolk Skydiver|WAR
 1 Merrow Commerce|LRW
 1 Mirari's Wake|C17
@@ -74,25 +76,20 @@ Name=Bantfolk
 1 Setessan Champion|THB|1
 1 Simic Ascendancy|RNA
 1 Smothering Tithe|RNA
-1 Sol Ring|C19
 1 Sphere of Safety|C16
 1 Starfield of Nyx|ORI
 1 Stonybrook Schoolmaster|MOR
 1 Summon the School|LRW
 1 Sun Titan|C19
 1 Sunpetal Grove|XLN
-1 Swan Song|C16
 1 Swords to Plowshares|BBD
 1 Sygg, River Guide|LRW
 1 Temple Garden|GRN
+1 Terminus|C18
 1 Thassa, God of the Sea|SLD
 1 True-Name Nemesis|BBD
 1 Unclaimed Territory|XLN
 1 Wanderwine Hub|LRW
-1 Zegana, Utopian Speaker|GK2
 [Sideboard]
-1 Eidolon of Blossoms|C18
-1 Kiora's Dismissal|JOU
-1 Merrow Harbinger|LRW
-1 Seafloor Oracle|RIX
-1 Silvergill Adept|RIX
+1 Merfolk Mistbinder|RIX
+1 Zegana, Utopian Speaker|GK2

@@ -6,6 +6,7 @@ Name=Arix the Leviathan God - 2
 1 Arch of Orazca|RIX
 1 Archetype of Imagination|MB1
 1 Birds of Paradise|CN2
+1 Bonders' Enclave|IKO|1
 1 Botanical Sanctum|KLD
 1 Bounty of the Luxa|AKH
 1 Brainstorm|C18
@@ -14,6 +15,7 @@ Name=Arix the Leviathan God - 2
 1 Chasm Skulker|C16
 1 Coastal Breach|C16
 1 Coiling Oracle|DIS
+1 Cold-Eyed Selkie|C20
 1 Colossal Majesty|M19
 1 Colossal Whale|M14
 1 Command Tower|COM
@@ -25,8 +27,7 @@ Name=Arix the Leviathan God - 2
 1 Evacuation|C16
 1 Explore|DDO
 1 Farseek|RAV
-1 Finale of Devastation|WAR
-1 Finale of Revelation|WAR
+1 Fierce Guardianship|C20
 1 Flood of Tears|M20
 1 Forbid|MPS_AKH
 5 Forest|ZEN|2
@@ -38,23 +39,24 @@ Name=Arix the Leviathan God - 2
 1 Ilysian Caryatid|THB
 1 Incubation Druid|RNA
 1 Inundate|EVE
-15 Island|ZEN|2
+14 Island|ZEN|2
 1 Kiora's Follower|DDO
 1 Kiora, Master of the Depths|BFZ
 1 Kiora, the Crashing Wave|BNG
 1 Kodama's Reach|CHK
+1 Kogla, the Titan Ape|IKO|1
 1 Krosan Grip|TSP
 1 Lightning Greaves|MRD
 1 Mosswort Bridge|LRW
 1 Murkfiend Liege|EVE
 1 Myriad Landscape|C14
-1 Mystic Sanctuary|ELD
 1 Nadir Kraken|THB|1
 1 Nezahal, Primal Tide|RIX
-1 Oboro Breezecaller|SOK
+1 Nissa, Steward of Elements|C20
 1 Overwhelming Stampede|C19
 1 Pemmin's Aura|SCG
 1 Ponder|C18
+1 Primal Empathy|IKO
 1 Prime Speaker Zegana|C15
 1 Rampant Growth|MIR
 1 Reliquary Tower|CFX
@@ -69,11 +71,10 @@ Name=Arix the Leviathan God - 2
 1 Stormtide Leviathan|M11
 1 Swiftfoot Boots|C18
 1 Temple of Mystery|THS
-1 Thassa, God of the Sea|SLD
 1 The Great Henge|ELD|1
 1 Thornwood Falls|KTK
 1 Thryx, the Sudden Storm|THB|1
-1 Time Warp|M10
+1 Tidal Barracuda|C20
 1 Triumph of the Hordes|NPH
 1 Tropical Island|VMA
 1 Trygon Predator|DIS
@@ -85,13 +86,4 @@ Name=Arix the Leviathan God - 2
 1 Wonder|EMA
 1 Yavimaya Coast|APC
 [Sideboard]
-1 Counterspell|A25
-1 Fireshrieker|MRD
-1 Green Sun's Zenith|MBS
-1 Isleback Spawn|SHM
-1 Kederekt Leviathan|ALA
-1 Negate|DPA
-1 Palinchron|VMA
-1 Scourge of Fleets|DDO
-1 Swan Song|C16
-1 Unwind|DOM
+
