@@ -4,15 +4,15 @@ Name=Hazoret's Haze
 1 Hazoret the Fervent|MPS_AKH
 [Main]
 1 Abrade|HOU
-1 Active Volcano|CHR
 1 Aether Flash|7ED
 1 Alchemist's Greeting|MB1
 1 Bag of Holding|M20
+1 Basilisk Collar|MB1
 1 Blasphemous Act|ISD
 1 Blightsteel Colossus|MBS
 1 Blood Moon|A25
-1 Bolt Bend|WAR
 1 Bonders' Enclave|IKO|1
+1 Braid of Fire|FMB1
 1 Burning Sands|ODY
 1 By Force|AKH
 1 Chain Reaction|C18
@@ -23,28 +23,23 @@ Name=Hazoret's Haze
 1 Divergent Transformations|C16
 1 Drownyard Temple|SOI
 1 Endless Atlas|C18
-1 Experimental Frenzy|GRN
 1 Extraplanar Lens|MRD
 1 Faithless Looting|UMA
 1 Fiery Temper|SOI
 1 Firestorm|WTH
-1 Gauntlet of Might|ME4
+1 Ghirapur Orrery|KLD
 1 Glacial Crevasses|ICE
 1 Grafted Exoskeleton|SOM
 1 Gratuitous Violence|ONS
 1 Homeward Path|C16
-1 Hour of Devastation|HOU
 1 Illusionist's Bracers|GTC
 1 Jaya's Immolating Inferno|DOM
 1 Journeyer's Kite|CHK
 1 Kher Keep|TSP
 1 Kozilek, Butcher of Truth|UMA
 1 Leyline of Punishment|M11
-1 Library of Leng|ME4
-1 Lightning Axe|SOI
 1 Lightning Bolt|MB1
 1 Maze of Ith|EMA
-1 Mind Stone|IMA
 1 Mudslide|ICE
 1 Myriad Landscape|A25
 1 Null Brooch|EXO
@@ -56,35 +51,31 @@ Name=Hazoret's Haze
 1 Ramunap Ruins|HOU
 1 Reality Scramble|MB1
 1 Red Elemental Blast|A25
-1 Relic of Progenitus|EMA
 1 Ruby Medallion|CM2
 1 Ruination|STH
 1 Scavenger Grounds|HOU
-1 Scrap Mastery|CM2
-1 Shattering Spree|GPT
 1 Shenanigans|MB1
 1 Shifting Shadow|C17
 1 Silent Gravestone|RIX
 1 Skewer the Critics|RNA
 1 Smoke|5ED
 1 Smuggler's Copter|KLD
-20 Snow-Covered Mountain|SLD
+19 Snow-Covered Mountain|SLD
 1 Sol Ring|C20
 1 Springjack Pasture|C13
-1 Stolen Strategy|BBD
 1 Stranglehold|CMA
 1 Strip Mine|4ED
 1 Subterranean Tremors|PZ2
 1 Sunstone|ICE
 1 Terrain Generator|NMS
 1 Thaumatic Compass|XLN
-1 The Immortal Sun|RIX
 1 Thrill of Possibility|THB|1
 1 Torpor Orb|NPH
 1 Trading Post|MB1
 1 Ulamog, the Infinite Gyre|UMA
 1 Underworld Breach|THB|1
 1 Unstable Obelisk|C18
+1 Untethered Express|AER
 1 Valakut, the Molten Pinnacle|ZEN
 1 Vandalblast|RTR
 1 Violent Eruption|C19
@@ -94,5 +85,13 @@ Name=Hazoret's Haze
 1 Weatherlight|DOM
 1 Words of War|ONS
 [Sideboard]
-1 Gilded Lotus|DOM
-1 Not of This World|ROE
+1 Bolt Bend|WAR
+1 Experimental Frenzy|GRN
+1 Gauntlet of Might|ME4
+1 Hour of Devastation|HOU
+1 Mind Stone|IMA
+1 Relic of Progenitus|EMA
+1 Repercussion|UDS
+1 Scrap Mastery|CM2
+1 Stolen Strategy|BBD
+1 The Immortal Sun|RIX

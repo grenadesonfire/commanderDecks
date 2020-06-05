@@ -24,7 +24,6 @@ Name=Mardu Meow Meow Massacre
 1 Despark|C20
 1 Devout Chaplain|C20
 1 Dire Tactics|IKO
-1 Disciple of Bolas|C20
 1 Dragonskull Summit|XLN
 1 Drannith Magistrate|IKO|2
 1 Dusk // Dawn|C19
@@ -75,7 +74,7 @@ Name=Mardu Meow Meow Massacre
 1 Smothering Tithe|RNA
 1 Sol Ring|C20
 1 Species Specialist|C20
-5 Swamp|THB|1
+6 Swamp|THB|1
 1 Swiftfoot Boots|C20
 1 Terramorphic Expanse|C19
 1 Thalia's Lieutenant|C20
@@ -94,4 +93,5 @@ Name=Mardu Meow Meow Massacre
 1 Yawgmoth, Thran Physician|MH1
 1 Zulaport Cutthroat|C20
 [Sideboard]
+1 Disciple of Bolas|C20
 1 Titan Hunter|C20
