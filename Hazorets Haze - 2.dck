@@ -22,7 +22,6 @@ Name=Hazoret's Haze - 2
 1 Crucible of Worlds|M19
 1 Deflecting Swat|C20
 1 Divergent Transformations|C16
-1 Dragon Fodder|MB1
 1 Drownyard Temple|SOI
 1 Earthquake|CM2
 1 Endless Atlas|C18
@@ -35,32 +34,28 @@ Name=Hazoret's Haze - 2
 1 Gratuitous Violence|ONS
 1 Homeward Path|C16
 1 Ignorant Bliss|DIS
-1 Illusionist's Bracers|GTC
 1 Increasing Vengeance|C19
 1 Indomitable Creativity|AER
 1 Journeyer's Kite|CHK
 1 Kher Keep|TSP
 1 Kozilek, Butcher of Truth|UMA
-1 Krenko's Command|MB1
 1 Lavabrink Floodgates|C20
 1 Leyline of Punishment|M11
-1 Library of Leng|ME4
 1 Maze of Ith|EMA
 1 Molten Psyche|SOM
 1 Mudslide|ICE
-1 Myriad Landscape|A25
-1 Null Brooch|EXO
+1 Myriad Landscape|C20
 1 Oblivion Stone|IMA
 1 Pariah's Shield|RAV
 1 Pirate's Pillage|RIX
 1 Price of Progress|MB1
 1 Pyroblast|EMA
 1 Pyrohemia|PLC
+1 Pyromancer's Goggles|ORI
 1 Ramunap Ruins|HOU
 1 Reality Scramble|MB1
 1 Recoup|MB1
 1 Red Elemental Blast|A25
-1 Relic of Progenitus|EMA
 1 Repercussion|UDS
 1 Rolling Earthquake|V14
 1 Ruby Medallion|CM2
@@ -74,7 +69,6 @@ Name=Hazoret's Haze - 2
 20 Snow-Covered Mountain|SLD
 1 Sol Ring|C20
 1 Springjack Pasture|C13
-1 Stolen Strategy|BBD
 1 Stranglehold|CMA
 1 Strip Mine|4ED
 1 Sunstone|ICE
@@ -86,12 +80,12 @@ Name=Hazoret's Haze - 2
 1 Trading Post|MB1
 1 Trinisphere|DST
 1 Ulamog, the Infinite Gyre|UMA
-1 Unstable Obelisk|C18
 1 Valakut, the Molten Pinnacle|ZEN
-1 Wasteland|EMA
 1 Wayfarer's Bauble|MM2
 1 Weatherlight|DOM
-1 Westvale Abbey|SOI
 [Sideboard]
 1 Gilded Lotus|DOM
 1 Not of This World|ROE
+1 Null Brooch|EXO
+1 Relic of Progenitus|EMA
+1 Unstable Obelisk|C18

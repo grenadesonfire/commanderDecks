@@ -43,6 +43,7 @@ Name=Nico bolas, Nick's Schemer
 1 Kess, Dissident Mage|MH1
 1 Kroxa, Titan of Death's Hunger|THB|2
 1 Lavaborn Muse|10E
+1 Liliana of the Veil|UMA
 1 Liliana's Caress|M11
 1 Liliana's Specter|M11
 1 Megrim|M10
@@ -62,7 +63,6 @@ Name=Nico bolas, Nick's Schemer
 1 Rakdos Carnarium|IMA
 1 Rakdos Signet|MM3
 1 Reliquary Tower|C19
-1 Rhystic Study|PCY
 1 Rix Maadi, Dungeon Palace|DIS
 1 Sangromancer|MBS
 1 Sedraxis Specter|MM3
@@ -92,3 +92,5 @@ Name=Nico bolas, Nick's Schemer
 1 Watery Grave|GRN
 1 Wheel of Torture|ULG
 1 Words of Waste|ONS
+[Sideboard]
+1 Rhystic Study|PCY
