@@ -15,7 +15,6 @@ Name=Arix the Leviathan God - 2
 1 Chasm Skulker|C16
 1 Coastal Breach|C16
 1 Coiling Oracle|DIS
-1 Cold-Eyed Selkie|C20
 1 Colossal Majesty|M19
 1 Colossal Whale|M14
 1 Command Tower|COM
@@ -23,6 +22,7 @@ Name=Arix the Leviathan God - 2
 1 Cyclonic Rift|RTR
 1 Devastation Tide|AVR
 1 Displacement Wave|ORI
+1 Elder Gargaroth|M21|1
 1 Eternal Witness|MB1
 1 Evacuation|C16
 1 Explore|DDO
@@ -30,8 +30,10 @@ Name=Arix the Leviathan God - 2
 1 Fierce Guardianship|C20
 1 Flood of Tears|M20
 1 Forbid|MPS_AKH
-5 Forest|ZEN|2
+4 Forest|ZEN|2
 1 Garruk Wildspeaker|GVL
+1 Garruk's Harbinger|M21|1
+1 Ghostly Pilferer|M21|1
 1 Goreclaw, Terror of Qal Sisma|M19
 1 Growth Spiral|RNA
 1 Gyre Engineer|RNA
@@ -39,14 +41,13 @@ Name=Arix the Leviathan God - 2
 1 Ilysian Caryatid|THB
 1 Incubation Druid|RNA
 1 Inundate|EVE
-14 Island|ZEN|2
+13 Island|ZEN|2
 1 Kiora's Follower|DDO
 1 Kiora, Master of the Depths|BFZ
 1 Kiora, the Crashing Wave|BNG
 1 Kodama's Reach|CHK
 1 Kogla, the Titan Ape|IKO|1
 1 Krosan Grip|TSP
-1 Lightning Greaves|MRD
 1 Mosswort Bridge|LRW
 1 Murkfiend Liege|EVE
 1 Myriad Landscape|C14
@@ -69,10 +70,11 @@ Name=Arix the Leviathan God - 2
 1 Sol Ring|C18
 1 Stormsurge Kraken|C14
 1 Stormtide Leviathan|M11
-1 Swiftfoot Boots|C18
 1 Temple of Mystery|THS
 1 The Great Henge|ELD|1
 1 Thornwood Falls|KTK
+1 Thriving Grove|JMP
+1 Thriving Isle|JMP
 1 Thryx, the Sudden Storm|THB|1
 1 Tidal Barracuda|C20
 1 Triumph of the Hordes|NPH
@@ -86,4 +88,6 @@ Name=Arix the Leviathan God - 2
 1 Wonder|EMA
 1 Yavimaya Coast|APC
 [Sideboard]
-
+1 Cold-Eyed Selkie|C20
+1 Lightning Greaves|MRD
+1 Swiftfoot Boots|C18
