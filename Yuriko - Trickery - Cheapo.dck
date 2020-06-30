@@ -11,6 +11,7 @@ Name=Yuriko - Trickery - Cheapo
 1 Bojuka Bog|C19
 1 Brainstorm|A25
 1 Changeling Outcast|MH1
+1 Chromatic Orrery|M21|1
 1 Command Tower|C18
 1 Commit // Memory|AKH
 1 Consign // Oblivion|HOU
@@ -20,7 +21,6 @@ Name=Yuriko - Trickery - Cheapo
 1 Curtains' Call|C16
 1 Darkslick Shores|SOM
 1 Deadly Rollick|C20
-1 Demonic Tutor|UMA
 1 Devastation Tide|AVR
 1 Dimir Infiltrator|PCA
 1 Dimir Signet|GK1
@@ -29,14 +29,14 @@ Name=Yuriko - Trickery - Cheapo
 1 Forbid|MPS_AKH
 1 Force of Will|EMA
 1 Ghost Quarter|CM2
+1 Ghostly Pilferer|M21|1
 1 Gudul Lurker|DTK
 1 Hope of Ghirapur|AER
 1 Hypnotic Siren|JOU
-1 Ingenious Infiltrator|MH1
 1 Ink-Eyes, Servant of Oni|PCA
 1 Insidious Dreams|TOR
 8 Island|ZEN|2
-5 Island|ZEN|4
+4 Island|ZEN|4
 1 Jace's Phantasm|IMA
 1 Jace, the Mind Sculptor|A25
 1 Karn's Temporal Sundering|DOM
@@ -49,7 +49,6 @@ Name=Yuriko - Trickery - Cheapo
 1 Moonblade Shinobi|MH1
 1 Morphic Pool|BBD
 1 Mothdust Changeling|MMA
-1 Mox Amber|DOM
 1 Mystic Sanctuary|ELD
 1 Mystical Tutor|EMA
 1 Negate|BBD
@@ -75,6 +74,8 @@ Name=Yuriko - Trickery - Cheapo
 1 Temporal Trespass|FRF
 1 Tetsuko Umezawa, Fugitive|DOM
 1 Thassa's Oracle|THB|2
+1 Thriving Isle|JMP
+1 Thriving Moor|JMP
 1 Throat Slitter|BOK
 1 Time Warp|M10
 1 Tormented Soul|M13
@@ -90,8 +91,11 @@ Name=Yuriko - Trickery - Cheapo
 1 Witch's Cottage|ELD
 1 Xenograft|NPH
 [Sideboard]
+1 Demonic Tutor|UMA
 1 Dimir Cluestone|DGM
 1 Higure, the Still Wind|BOK
+1 Ingenious Infiltrator|MH1
+1 Mox Amber|DOM
 1 Ninja of the Deep Hours|BOK
 1 Prickly Boggart|MOR
 1 Walker of Secret Ways|BOK
