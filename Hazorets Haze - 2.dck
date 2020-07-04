@@ -4,7 +4,6 @@ Name=Hazoret's Haze - 2
 1 Hazoret the Fervent|MPS_AKH
 [Main]
 1 Abrade|HOU
-1 Aether Flash|7ED
 1 Arcbond|FRF
 1 Bag of Holding|M20
 1 Basilisk Collar|MB1
@@ -22,18 +21,20 @@ Name=Hazoret's Haze - 2
 1 Crucible of Worlds|M19
 1 Deflecting Swat|C20
 1 Divergent Transformations|C16
+1 Double Vision|M21|1
 1 Drownyard Temple|SOI
 1 Earthquake|CM2
 1 Endless Atlas|C18
 1 Ensnaring Bridge|A25
 1 Extraplanar Lens|MRD
+1 Fiery Emancipation|M21|1
 1 Fiery Temper|MB1
-1 Gauntlet of Power|TSP
 1 Glacial Crevasses|ICE
 1 Grafted Exoskeleton|SOM
 1 Gratuitous Violence|ONS
 1 Homeward Path|C16
 1 Ignorant Bliss|DIS
+1 Immolating Gyre|JMP
 1 Increasing Vengeance|C19
 1 Indomitable Creativity|AER
 1 Journeyer's Kite|CHK
@@ -49,7 +50,6 @@ Name=Hazoret's Haze - 2
 1 Pariah's Shield|RAV
 1 Pirate's Pillage|RIX
 1 Price of Progress|MB1
-1 Pyroblast|EMA
 1 Pyrohemia|PLC
 1 Pyromancer's Goggles|ORI
 1 Ramunap Ruins|HOU
@@ -74,18 +74,16 @@ Name=Hazoret's Haze - 2
 1 Sunstone|ICE
 1 Surreal Memoir|C20
 1 Thaumatic Compass|XLN
-1 The Immortal Sun|RIX
 1 Tormenting Voice|M19
 1 Torpor Orb|NPH
 1 Trading Post|MB1
+1 Transmogrify|M21|1
 1 Trinisphere|DST
 1 Ulamog, the Infinite Gyre|UMA
 1 Valakut, the Molten Pinnacle|ZEN
 1 Wayfarer's Bauble|MM2
 1 Weatherlight|DOM
 [Sideboard]
-1 Gilded Lotus|DOM
-1 Not of This World|ROE
-1 Null Brooch|EXO
-1 Relic of Progenitus|EMA
-1 Unstable Obelisk|C18
+1 Aether Flash|7ED
+1 Pyroblast|EMA
+1 The Immortal Sun|RIX
