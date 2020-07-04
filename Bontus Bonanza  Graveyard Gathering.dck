@@ -4,6 +4,7 @@ Name=Bontus Bonanza & Graveyard Gathering
 1 Bontu the Glorified|MPS_AKH
 [Main]
 1 Animate Dead|EMA
+1 Arcane Signet|C20
 1 Ashes to Ashes|5ED
 1 Bastion of Remembrance|IKO
 1 Bitterblossom|UMA
@@ -15,7 +16,6 @@ Name=Bontus Bonanza & Graveyard Gathering
 1 Carrion Feeder|EMA
 1 Castle Locthwain|ELD|1
 1 Cemetery Reaper|M12
-1 Charcoal Diamond|C14
 1 Crypt Ghast|GTC
 1 Cryptbreaker|EMN
 1 Dictate of Erebos|MB1
@@ -39,11 +39,8 @@ Name=Bontus Bonanza & Graveyard Gathering
 1 Lake of the Dead|ALL
 1 Liliana of the Dark Realms|M14
 1 Liliana, Dreadhorde General|WAR|1
-1 Merciless Executioner|FRF
 1 Necromantic Selection|C17
-1 Nirkana Revenant|ROE
 1 Ophiomancer|C13
-1 Patron of the Vein|C17
 1 Pawn of Ulamog|ROE
 1 Pestilence|6ED
 1 Phyrexian Altar|UMA
@@ -51,28 +48,31 @@ Name=Bontus Bonanza & Graveyard Gathering
 1 Phyrexian Tower|UMA
 1 Pitiless Plunderer|RIX
 1 Plaguecrafter|GRN
+1 Priest of Forgotten Gods|RNA
 1 Ravenous Chupacabra|A25
 1 Razaketh, the Foulblooded|HOU
 1 Reassembling Skeleton|M19
 1 Rise of the Dark Realms|M14
 1 Rune-Scarred Demon|IMA
 1 Serrated Scorpion|IKO
+1 Sheoldred, Whispering One|JMP
 1 Sidisi, Undead Vizier|DTK
+1 Skirsdag High Priest|ISD
 1 Skullclamp|DST
 1 Slum Reaper|UMA
 26 Snow-Covered Swamp|SLD
 1 Sol Ring|C20
-1 Solemn Simulacrum|M12
-1 Soul of Innistrad|M15
+1 Solemn Simulacrum|M21|2
 1 Springjack Pasture|EVE
 1 Strands of Night|7ED
 1 Syr Konrad, the Grim|ELD
-1 Tamiyo's Journal|SOI
 1 Thallid Soothsayer|DOM
 1 Viscera Seer|M11
 1 Voldaren Pariah|EMN
 1 Westvale Abbey|SOI
 1 Whip of Erebos|THS
+1 Whisper, Blood Liturgist|DOM
+1 Witch's Cauldron|M21
 1 Wurmcoil Engine|SOM
 1 Xathrid Necromancer|M14
 1 Yawgmoth's Vile Offering|DOM
@@ -80,4 +80,8 @@ Name=Bontus Bonanza & Graveyard Gathering
 [Sideboard]
 1 Ambition's Cost|C20
 1 Debtors' Transport|RNA
+1 Merciless Executioner|FRF
+1 Nirkana Revenant|ROE
+1 Patron of the Vein|C17
+1 Soul of Innistrad|M15
 1 Soul of New Phyrexia|M15

@@ -10,6 +10,7 @@ Name=Oketra's Orchestra
 1 Ashnod's Altar|EMA
 1 Austere Command|IMA
 1 Avacyn, Angel of Hope|IMA
+1 Basri Ket|M21|1
 1 Blasting Station|5DN
 1 Board the Weatherlight|DOM
 1 Caged Sun|MB1
@@ -23,15 +24,15 @@ Name=Oketra's Orchestra
 1 Drannith Magistrate|IKO|1
 1 Elesh Norn, Grand Cenobite|MB1
 1 Elspeth, Sun's Champion|THS
-1 Emeria Shepherd|BFZ
 1 Emeria, the Sky Ruin|ZEN
 1 Extraplanar Lens|MRD
 1 Fiend Hunter|UMA
 1 Flagstones of Trokair|UMA
 1 Flawless Maneuver|C20
 1 Gauntlet of Power|TSP
-1 Gilded Lotus|DOM
+1 Glorious Anthem|M21|1
 1 Grand Abolisher|M12
+1 Griffin Aerie|M21
 1 Heliod's Intervention|THB|1
 1 Hero of Bladehold|MBS
 1 Hour of Reckoning|RAV
@@ -41,9 +42,9 @@ Name=Oketra's Orchestra
 1 Knight of the White Orchid|ORI
 1 Land Tax|BBD
 1 Linden, the Steadfast Queen|ELD|1
+1 Mangara, the Diplomat|M21|1
 1 Martial Coup|CFX
 1 Mentor of the Meek|M19
-1 Mind Stone|IMA
 1 Mirror Entity|MM2
 1 Myriad Landscape|A25
 1 Nykthos, Shrine to Nyx|THS
@@ -67,8 +68,9 @@ Name=Oketra's Orchestra
 1 Silverwing Squadron|ELD
 1 Skullclamp|DST
 1 Smothering Tithe|RNA
-25 Snow-Covered Plains|SLD
+24 Snow-Covered Plains|SLD
 1 Sol Ring|C20
+1 Speaker of the Heavens|M21|2
 1 Spear of Heliod|THS
 1 Sun Titan|M12
 1 Swords to Plowshares|A25
@@ -77,4 +79,7 @@ Name=Oketra's Orchestra
 1 Verge Rangers|C20
 1 Weathered Wayfarer|9ED
 1 Windbrisk Heights|LRW
+[Sideboard]
+1 Emeria Shepherd|BFZ
+1 Gilded Lotus|DOM
 1 Wrath of God|EMA
