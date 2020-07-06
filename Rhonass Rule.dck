@@ -4,6 +4,7 @@ Name=Rhonas's Rule
 1 Rhonas the Indomitable|MPS_AKH
 [Main]
 1 Acidic Slime|C20
+1 Allosaurus Shepherd|JMP
 1 Ancient Animus|DOM
 1 Apex Altisaur|C19
 1 Archetype of Endurance|FMB1
@@ -22,7 +23,6 @@ Name=Rhonas's Rule
 1 Elvish Mystic|DDU
 1 Extraplanar Lens|MRD
 1 Garruk, Primal Hunter|C19
-1 Genesis|MH1
 1 Ghalta, Primal Hunger|GN2
 1 Giant Adephage|C19
 1 God-Eternal Rhonas|WAR
@@ -47,6 +47,7 @@ Name=Rhonas's Rule
 1 Predator Ooze|C20
 1 Predatory Urge|PCA
 1 Priest of Titania|MB1
+1 Primal Might|M21|1
 1 Ravenous Slime|C18
 1 Return of the Wildspeaker|ELD|1
 1 Return to Nature|THB
@@ -74,10 +75,10 @@ Name=Rhonas's Rule
 1 Vivien, Monsters' Advocate|IKO|1
 1 Vorinclex, Voice of Hunger|IMA
 1 Wayward Swordtooth|RIX
-1 Wild Growth|MB1
 1 Wirewood Lodge|MB1
 1 Wrap in Vigor|CNS
 1 Zendikar Resurgent|C17
 [Sideboard]
+1 Genesis|MH1
 1 Nemesis Mask|DST
 1 Sandwurm Convergence|AKH
