@@ -22,7 +22,6 @@ Name=Karlov - Taxation
 1 Command Tower|C19
 1 Crypt Ghast|GTC
 1 Daxos, Blessed by the Sun|THB|2
-1 Deafening Silence|ELD
 1 Despark|WAR
 1 Diabolic Tutor|KLD
 1 Divinity of Pride|MMA
@@ -31,18 +30,21 @@ Name=Karlov - Taxation
 1 Flickering Ward|TMP
 1 Fumigate|KLD
 1 Godless Shrine|GTC
-1 Gray Merchant of Asphodel|THS
+1 Hall of Heliod's Generosity|MH1
 1 Healer's Hawk|GRN
 1 Heliod's Intervention|THB|2
 1 Heliod, Sun-Crowned|THB|2
+1 Idol of Endurance|M21|1
+1 Indulging Patrician|M21
 1 Isolated Chapel|DOM
 1 Kambal, Consul of Allocation|KLD
 1 Kaya's Guile|MH1
 1 Kingpin's Pet|GTC
 1 Kunoros, Hound of Athreos|THB|1
-1 Leechridden Swamp|SHM
 1 Lightning Greaves|C19
 1 Luminous Broodmoth|IKO|1
+1 Lurrus of the Dream-Den|IKO|1
+1 Mangara, the Diplomat|M21|1
 1 Martial Coup|CFX
 1 Mortify|GPT
 1 Necropotence|IMA
@@ -53,7 +55,7 @@ Name=Karlov - Taxation
 1 Phyrexian Arena|9ED
 1 Phyrexian Reclamation|C15
 1 Plains|THB|1
-9 Plains|ZEN|2
+8 Plains|ZEN|2
 1 Pontiff of Blight|DGM
 1 Reassembling Skeleton|M19
 1 Revival // Revenge|RNA
@@ -72,21 +74,26 @@ Name=Karlov - Taxation
 1 Sun Titan|M12
 1 Suture Priest|NPH
 2 Swamp|THB|1
-8 Swamp|ZEN|3
+7 Swamp|ZEN|3
 1 Swords to Plowshares|A25
 1 Syndic of Tithes|GTC
 1 Tainted Field|C15
-1 Talisman of Hierarchy|MH1
 1 The Ozolith|IKO|1
+1 Thriving Heath|JMP
+1 Thriving Moor|JMP
 1 Thrull Parasite|GTC
 1 Tithe Drinker|DGM
 1 Tragic Slip|EMA
 1 Treasury Thrull|C15
 1 Urborg, Tomb of Yawgmoth|UMA
-1 Utter End|KTK
 1 Vizkopa Guildmage|IMA
 1 Wall of Reverence|UMA
 [Sideboard]
 1 Blood Artist|EMA
+1 Deafening Silence|ELD
 1 Erebos, God of the Dead|THS
+1 Gray Merchant of Asphodel|THS
+1 Griffin Aerie|M21
+1 Talisman of Hierarchy|MH1
+1 Utter End|KTK
 1 Zulaport Cutthroat|A25
