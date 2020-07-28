@@ -3,7 +3,6 @@ Name=Gitrog - Still Hungry
 [Commander]
 1 The Gitrog Monster|SOI
 [Main]
-1 Arbor Elf|A25
 1 Assassin's Trophy|GRN
 1 Azusa, Lost but Seeking|A25
 1 Barren Moor|C18
@@ -20,7 +19,7 @@ Name=Gitrog - Still Hungry
 1 Doom Whisperer|GRN
 1 Dread Return|DDQ
 1 Drownyard Temple|SOI
-1 Dryad of the Ilysian Grove|THB
+1 Dryad of the Ilysian Grove|THB|1
 1 Ebon Stronghold|PD3
 1 Ebony Charm|MIR
 1 Elvish Reclaimer|M20
@@ -34,7 +33,7 @@ Name=Gitrog - Still Hungry
 1 Ghost Quarter|CM2
 1 Golgari Grave-Troll|UMA
 1 Golgari Thug|DDJ
-1 Gravebreaker Lamia|THB
+1 Gravebreaker Lamia|THB|1
 1 Grim Discovery|DDR
 1 Grisly Salvage|C18
 1 Groundskeeper|SOI
@@ -67,6 +66,7 @@ Name=Gitrog - Still Hungry
 1 Satyr Wayfinder|CMA
 1 Savage Summoning|M14
 1 Skirge Familiar|VMA
+1 Skull Prophet|IKO
 1 Skullwinder|CMA
 1 Slippery Karst|C15
 1 Sol Ring|C18
