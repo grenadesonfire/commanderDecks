@@ -5,11 +5,10 @@ Name=One Dragon To The Next
 [Main]
 1 Abrupt Decay|GK1
 1 Animate Dead|EMA
-1 Arbor Elf|A25
 1 Arcane Signet|ELD
 1 Assassin's Trophy|GRN
-1 Azra Oddsmaker|BBD
 1 Badlands|VMA
+1 Bastion of Remembrance|IKO
 1 Bayou|VMA
 1 Birds of Paradise|GK2
 1 Blood Crypt|EXP
@@ -27,14 +26,15 @@ Name=One Dragon To The Next
 1 Diabolic Tutor|KLD
 1 Dockside Extortionist|C19
 1 Dragonskull Summit|XLN
-1 Eldritch Evolution|EMN
 1 Elves of Deep Shadow|GK1
 1 Eternal Witness|MMA
 1 Farseek|C19
+1 Fiend Artisan|IKO|2
 1 Finale of Devastation|WAR
 1 Food Chain|MMQ
 1 Forest|ZEN|2
 4 Forest|ZEN|3
+1 Gadrak, the Crown-Scourge|M21|2
 1 Goblin Bombardment|TPR
 1 Golgari Rot Farm|IMA
 1 Grave Pact|CM2
@@ -90,7 +90,10 @@ Name=One Dragon To The Next
 1 Vexing Shusher|SHM
 1 Victimize|CMA
 1 Walking Ballista|AER
+1 Wayward Swordtooth|RIX
 1 Wooded Foothills|KTK
 1 Woodland Cemetery|DOM
 1 Wrenn and Six|MH1
+[Sideboard]
+1 Azra Oddsmaker|BBD
 1 Yavimaya Elder|C18

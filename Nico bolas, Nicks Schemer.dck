@@ -8,7 +8,6 @@ Name=Nico bolas, Nick's Schemer
 1 Arcane Signet|ELD
 1 Arterial Flow|RIX
 1 Ashiok, Nightmare Muse|THB|2
-1 Baleful Strix|EMA
 1 Blasphemous Act|ISD
 1 Blizzard Specter|IMA
 1 Blood Crypt|RNA
@@ -38,13 +37,13 @@ Name=Nico bolas, Nick's Schemer
 1 Graven Cairns|IMA
 1 Grixis Panorama|ALA
 1 Hour of Devastation|HOU
-3 Island|THB|1
+2 Island|THB|1
 1 Kess, Dissident Mage|MH1
 1 Kroxa, Titan of Death's Hunger|THB|2
 1 Lavaborn Muse|10E
-1 Liliana of the Veil|UMA
 1 Liliana's Caress|M11
 1 Liliana's Specter|M11
+1 Liliana, Waker of the Dead|M21|3
 1 Megrim|M10
 1 Mind Rake|MH1
 1 Morphic Pool|BBD
@@ -74,7 +73,7 @@ Name=Nico bolas, Nick's Schemer
 1 Steam Vents|GRN
 1 Storm World|LEG
 1 Sunken Hollow|C19
-9 Swamp|THB|1
+7 Swamp|THB|1
 1 Swan Song|THS
 1 Syphon Mind|ONS
 1 Talisman of Indulgence|E01
@@ -85,6 +84,10 @@ Name=Nico bolas, Nick's Schemer
 1 The Scarab God|HOU
 1 The Scorpion God|HOU
 1 Thief of Sanity|GRN
+1 Thriving Bluff|JMP
+1 Thriving Isle|JMP
+1 Thriving Moor|JMP
+1 Tinybones, Trinket Thief|JMP
 1 Torment of Hailfire|HOU
 1 Urborg, Tomb of Yawgmoth|UMA
 1 Vicious Rumors|GRN
@@ -93,4 +96,6 @@ Name=Nico bolas, Nick's Schemer
 1 Wheel of Torture|ULG
 1 Words of Waste|ONS
 [Sideboard]
+1 Bad Deal|M21
+1 Baleful Strix|EMA
 1 Rhystic Study|PCY

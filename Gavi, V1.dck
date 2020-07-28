@@ -4,7 +4,6 @@ Name=Gavi, V1
 1 Gavi, Nest Warden|C20
 [Main]
 1 Akroma's Vengeance|A25
-1 Alhammarret's Archive|MB1
 1 Angelsong|MB1
 1 Arcane Signet|ELD
 1 Archaeomancer|MB1
@@ -52,7 +51,6 @@ Name=Gavi, V1
 1 Irrigated Farmland|AKH
 4 Island|THB|1
 1 Izzet Boilerworks|IMA
-1 Jace, Wielder of Mysteries|PSLD
 1 Lonely Sandbar|C20
 1 Miscalculation|ULG
 3 Mountain|THB|1
@@ -90,6 +88,7 @@ Name=Gavi, V1
 1 Surly Badgersaur|C20
 1 Sweltering Suns|AKH
 1 Tectonic Reformation|C20
+1 Teferi's Ageless Insight|M21|1
 1 Teferi's Protection|MB1
 1 Thassa's Oracle|THB|1
 1 Thought Vessel|MB1
@@ -100,6 +99,7 @@ Name=Gavi, V1
 [Sideboard]
 1 Gilded Drake|USG
 1 Herald of the Forgotten|C20
+1 Jace, Wielder of Mysteries|PSLD
 1 Kozilek, Butcher of Truth|UMA
 1 Lightning Rift|C20
 1 The Locust God|HOU
