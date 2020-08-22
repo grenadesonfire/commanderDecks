@@ -10,7 +10,9 @@ Name=Bontus Bonanza & Graveyard Gathering
 1 Bitterblossom|UMA
 1 Blood Artist|EMA
 1 Bloodghast|IMA
+1 Bonders' Enclave|IKO|1
 1 Bontu's Last Reckoning|HOU
+1 Bontu's Monument|AKH
 1 Cabal Coffers|TOR
 1 Cabal Stronghold|DOM
 1 Carrion Feeder|EMA
@@ -20,7 +22,6 @@ Name=Bontus Bonanza & Graveyard Gathering
 1 Cryptbreaker|EMN
 1 Dictate of Erebos|MB1
 1 Disciple of Bolas|C20
-1 Endless Ranks of the Dead|ISD
 1 Ever After|SOI
 1 Extraplanar Lens|MRD
 1 Flesh Carver|C14
@@ -36,7 +37,6 @@ Name=Bontus Bonanza & Graveyard Gathering
 1 Jet Medallion|C14
 1 Knight of the Ebon Legion|M20
 1 Kokusho, the Evening Star|IMA
-1 Lake of the Dead|ALL
 1 Liliana of the Dark Realms|M14
 1 Liliana, Dreadhorde General|WAR|1
 1 Necromantic Selection|C17
@@ -45,6 +45,7 @@ Name=Bontus Bonanza & Graveyard Gathering
 1 Pestilence|6ED
 1 Phyrexian Altar|UMA
 1 Phyrexian Arena|9ED
+1 Phyrexian Reclamation|JMP
 1 Phyrexian Tower|UMA
 1 Pitiless Plunderer|RIX
 1 Plaguecrafter|GRN
@@ -74,7 +75,6 @@ Name=Bontus Bonanza & Graveyard Gathering
 1 Whisper, Blood Liturgist|DOM
 1 Witch's Cauldron|M21
 1 Wurmcoil Engine|SOM
-1 Xathrid Necromancer|M14
 1 Yawgmoth's Vile Offering|DOM
 1 Zulaport Cutthroat|A25
 [Sideboard]

@@ -20,12 +20,12 @@ Name=Bantfolk
 1 Cryptolith Rite|SOI
 1 Cyclonic Rift|MM3
 1 Deeproot Champion|XLN
-1 Deeproot Elite|RIX
 1 Deeproot Waters|XLN
 1 Destiny Spinner|THB
 1 Dovin's Veto|WAR
 1 Dryad of the Ilysian Grove|THB|2
 1 Eidolon of Blossoms|C18
+1 Empress Galina|INV
 1 Enchantress's Presence|C18
 1 Ephara, God of the Polis|SLD
 1 Estrid's Invocation|C18
@@ -50,7 +50,7 @@ Name=Bantfolk
 1 Idyllic Tutor|THB|2
 1 Imprisoned in the Moon|EMN
 1 Intruder Alarm|8ED
-11 Island|ZEN|3
+8 Island|ZEN|3
 1 Judge of Currents|LRW
 1 Kumena, Tyrant of Orazca|RIX
 1 Lord of Atlantis|6ED
@@ -87,6 +87,9 @@ Name=Bantfolk
 1 Temple Garden|GRN
 1 Terminus|C18
 1 Thassa, God of the Sea|SLD
+1 Thriving Grove|JMP
+1 Thriving Heath|JMP
+1 Thriving Isle|JMP
 1 True-Name Nemesis|BBD
 1 Unclaimed Territory|XLN
 1 Wanderwine Hub|LRW

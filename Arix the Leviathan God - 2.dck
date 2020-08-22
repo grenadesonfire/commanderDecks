@@ -15,7 +15,6 @@ Name=Arix the Leviathan God - 2
 1 Chasm Skulker|C16
 1 Coastal Breach|C16
 1 Coiling Oracle|DIS
-1 Colossal Majesty|M19
 1 Colossal Whale|M14
 1 Command Tower|COM
 1 Crush of Tentacles|OGW
@@ -30,9 +29,11 @@ Name=Arix the Leviathan God - 2
 1 Fierce Guardianship|C20
 1 Flood of Tears|M20
 1 Forbid|MPS_AKH
+1 Forest|THB|1
 4 Forest|ZEN|2
 1 Garruk Wildspeaker|GVL
 1 Garruk's Harbinger|M21|1
+1 Garruk's Uprising|M21|2
 1 Ghostly Pilferer|M21|1
 1 Goreclaw, Terror of Qal Sisma|M19
 1 Growth Spiral|RNA
@@ -41,6 +42,7 @@ Name=Arix the Leviathan God - 2
 1 Ilysian Caryatid|THB
 1 Incubation Druid|RNA
 1 Inundate|EVE
+1 Island|THB|1
 13 Island|ZEN|2
 1 Kiora's Follower|DDO
 1 Kiora, Master of the Depths|BFZ
@@ -73,8 +75,6 @@ Name=Arix the Leviathan God - 2
 1 Temple of Mystery|THS
 1 The Great Henge|ELD|1
 1 Thornwood Falls|KTK
-1 Thriving Grove|JMP
-1 Thriving Isle|JMP
 1 Thryx, the Sudden Storm|THB|1
 1 Tidal Barracuda|C20
 1 Triumph of the Hordes|NPH

@@ -4,7 +4,6 @@ Name=Mardu Meow Meow Massacre
 1 Silvar, Devourer of the Free|C20
 1 Trynn, Champion of Freedom|C20
 [Main]
-1 Adriana, Captain of the Guard|C20
 1 Alesha, Who Smiles at Death|C20
 1 Anguished Unmaking|SOI
 1 Animate Dead|MB1
@@ -58,7 +57,7 @@ Name=Mardu Meow Meow Massacre
 1 Path of Ancestry|C20
 1 Pitiless Plunderer|RIX
 1 Plaguecrafter|MB1
-5 Plains|THB|1
+3 Plains|THB|1
 1 Priest of Forgotten Gods|RNA
 1 Rakdos Carnarium|C20
 1 Recruiter of the Guard|MB1
@@ -74,12 +73,15 @@ Name=Mardu Meow Meow Massacre
 1 Smothering Tithe|RNA
 1 Sol Ring|C20
 1 Species Specialist|C20
-6 Swamp|THB|1
+5 Swamp|THB|1
 1 Swiftfoot Boots|C20
 1 Terramorphic Expanse|C19
 1 Thalia's Lieutenant|C20
 1 Thalia, Guardian of Thraben|HA2
 1 Thalia, Heretic Cathar|EMN
+1 Thriving Bluff|JMP
+1 Thriving Heath|JMP
+1 Thriving Moor|JMP
 1 Unclaimed Territory|C20
 1 Unearth|MH1
 1 Utter End|C18
@@ -89,9 +91,11 @@ Name=Mardu Meow Meow Massacre
 1 Wear // Tear|FMB1
 1 Westvale Abbey|SOI
 1 Whisper, Blood Liturgist|DOM
+1 Winota, Joiner of Forces|IKO|1
 1 Xathrid Necromancer|C20
 1 Yawgmoth, Thran Physician|MH1
 1 Zulaport Cutthroat|C20
 [Sideboard]
+1 Adriana, Captain of the Guard|C20
 1 Disciple of Bolas|C20
 1 Titan Hunter|C20

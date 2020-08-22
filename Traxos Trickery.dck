@@ -14,6 +14,8 @@ Name=Traxos Trickery
 1 Blasted Landscape|MB1
 1 Blightsteel Colossus|MBS
 1 Bloodforged Battle-Axe|C17
+1 Bonder's Ornament|C20
+1 Bonders' Enclave|IKO|2
 1 Brass Squire|MBS
 1 Buried Ruin|M12
 1 Burnished Hart|THS
@@ -24,6 +26,7 @@ Name=Traxos Trickery
 1 Command Beacon|PZ1
 1 Crucible of Worlds|M19
 1 Cryptic Caves|M20
+1 Crystalline Giant|IKO|2
 1 Darksteel Citadel|MM2
 1 Darksteel Forge|M14
 1 Darksteel Juggernaut|SOM
@@ -38,7 +41,6 @@ Name=Traxos Trickery
 1 Foundry Inspector|KLD
 1 Ghost Quarter|MB1
 1 Golden Guardian|RIX
-1 Gonti's Aether Heart|AER
 1 Hammer of Nazahn|C17
 1 Haunted Cloak|SOI
 1 Helm of the Host|DOM
@@ -51,8 +53,6 @@ Name=Traxos Trickery
 1 Manifold Key|M20
 1 Mask of Avacyn|ISD
 1 Meteor Golem|M20
-1 Mikokoro, Center of the Sea|A25
-1 Mind Stone|IMA
 1 Mind's Eye|MRD
 1 Mishra's Self-Replicator|DOM
 1 Myr Adapter|MRD
@@ -97,5 +97,7 @@ Name=Traxos Trickery
 4 Wastes|OGW|2
 4 Wastes|OGW|4
 [Sideboard]
+1 Gonti's Aether Heart|AER
+1 Mazemind Tome|M21|2
 1 Prowler's Helm|THS
 1 Quietus Spike|ALA

@@ -4,7 +4,6 @@ Name=Mogis
 1 Mogis, God of Slaughter|SLD
 [Main]
 1 Altar of the Pantheon|THB
-1 Ancient Tomb|UMA
 1 Arcane Signet|ELD
 1 Basilisk Collar|MM3
 1 Black Market|MMQ
@@ -16,6 +15,7 @@ Name=Mogis
 1 Brash Taunter|M21|1
 1 Cabal Coffers|TOR
 1 Canyon Slough|AKH
+1 Chandra's Incinerator|M21|2
 1 Chaos Warp|MB1
 1 Chaosphere|MIR
 1 Citadel of Pain|PCY
@@ -77,6 +77,7 @@ Name=Mogis
 1 Spinerock Knoll|LRW
 1 Steel Hellkite|SOM
 1 Strionic Resonator|A25
+1 Sulfuric Vortex|EMA
 8 Swamp|THB|1
 1 Tainted Peak|TOR
 1 Torment of Hailfire|HOU
@@ -86,6 +87,7 @@ Name=Mogis
 1 Vandalblast|RTR
 1 Vial Smasher the Fierce|PZ2
 1 Viashino Heretic|ULG
-1 Winds of Change|5ED
 1 Witch's Cottage|ELD
 1 Wound Reflection|SHM
+[Sideboard]
+1 Winds of Change|5ED

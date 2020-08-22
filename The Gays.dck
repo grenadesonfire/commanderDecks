@@ -20,18 +20,17 @@ Name=The Gays
 1 Dictate of Kruphix|JOU
 1 Disallow|AER
 1 Dovin's Veto|WAR
-1 Dryad of the Ilysian Grove|THB
+1 Dryad of the Ilysian Grove|THB|1
 1 Eladamri's Call|A25
 1 Eternal Witness|UMA
 1 Exotic Orchard|CFX
 1 Eye of the Storm|RAV
-1 Faeburrow Elder|ELD
+1 Faeburrow Elder|ELD|1
 1 Farseek|C19
-1 Finale of Revelation|WAR
 1 Flooded Grove|A25
-1 Folio of Fancies|ELD
+1 Folio of Fancies|ELD|2
 1 Forbidden Orchard|CHK
-5 Forest|ZEN|3
+4 Forest|ZEN|3
 1 Frontier Bivouac|KTK
 1 Gamble|UMA
 1 Geier Reach Sanitarium|EMN
@@ -44,15 +43,17 @@ Name=The Gays
 1 Howling Mine|C16
 1 Hypergenesis|TSP
 1 Insurrection|ONS
-3 Island|ZEN|3
+2 Island|ZEN|3
 1 Kami of the Crescent Moon|SOK
 1 Karplusan Forest|10E
+1 Ketria Triome|IKO|2
 1 Kodama's Reach|UMA
 1 Kozilek, the Great Distortion|OGW
 1 Kruphix, God of Horizons|JOU
 1 Laboratory Maniac|UMA
 1 Leyline of Anticipation|M20
 1 Magus of the Vineyard|COM
+1 Mangara, the Diplomat|M21|2
 1 Mistveil Plains|UMA
 2 Mountain|ZEN|3
 1 Mystic Monastery|KTK
@@ -63,6 +64,7 @@ Name=The Gays
 1 Platinum Angel|M11
 1 Possibility Storm|DGM
 1 Pramikon, Sky Rampart|C19
+1 Raugrin Triome|IKO|2
 1 Reliquary Tower|M19
 1 Rites of Flourishing|M12
 1 Rootbound Crag|XLN
@@ -79,7 +81,6 @@ Name=The Gays
 1 Sphinx's Revelation|MM3
 1 Stomping Ground|RNA
 1 Summary Dismissal|EMN
-1 Sunforger|MM2
 1 Sunpetal Grove|XLN
 1 Swords to Plowshares|A25
 1 Tatyova, Benthic Druid|DOM
@@ -92,4 +93,5 @@ Name=The Gays
 1 Veteran Explorer|BBD
 1 Wild Evocation|M11
 1 Wrath of God|EMA
+1 Xyris, the Writhing Storm|C20
 1 Yavimaya Coast|ORI
