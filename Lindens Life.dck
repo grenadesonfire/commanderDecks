@@ -21,7 +21,6 @@ Name=Lindens Life
 1 Caged Sun|MB1
 1 Castle Ardenvale|ELD|2
 1 Cathars' Crusade|JMP
-1 Chalice of Life|DKA
 1 Collective Effort|EMN
 1 Crested Sunmare|HOU
 1 Darksteel Mutation|MB1
@@ -31,17 +30,18 @@ Name=Lindens Life
 1 Emeria, the Sky Ruin|C14
 1 Endless Atlas|C18
 1 Extraplanar Lens|MRD
-1 Felidar Sovereign|MB1
 1 Fountain of Renewal|MB1
 1 Fumigate|KLD
 1 Ghost Quarter|HA2
 1 God-Eternal Oketra|WAR
 1 Haazda Marshal|GRN
+1 Hall of Heliod's Generosity|MH1
 1 Heliod's Intervention|THB|1
 1 Heliod, Sun-Crowned|THB|1
 1 Heraldic Banner|ELD
 1 Honor of the Pure|MD1
 1 Hour of Revelation|HOU
+1 Idol of Endurance|M21|1
 1 Idol of Oblivion|C19
 1 Legion's Landing|XLN
 1 Luminarch Ascension|A25
@@ -60,11 +60,12 @@ Name=Lindens Life
 1 Ravnica at War|WAR
 1 Resplendent Angel|M19
 1 Rhox Faithmender|JMP
+1 Salvage Scout|SOM
 1 Seraph Sanctuary|DDQ
 1 Serra Ascendant|HA1
 1 Skullclamp|C20
 1 Smothering Tithe|RNA
-24 Snow-Covered Plains|SLD
+23 Snow-Covered Plains|SLD
 1 Sol Ring|C20
 1 Soul Warden|HA1
 1 Soul's Attendant|FMB1
@@ -79,5 +80,3 @@ Name=Lindens Life
 1 Twinblade Paladin|M20
 1 Unbreakable Formation|RNA
 1 Well of Lost Dreams|C17
-[Sideboard]
-
