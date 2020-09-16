@@ -13,6 +13,7 @@ Name=Yorvo
 1 Caged Sun|MB1
 1 Castle Garenbrig|ELD|1
 1 Champion of Lambholt|JMP
+1 Collector Ouphe|MH1
 1 Elder Gargaroth|M21|2
 1 Elixir of Immortality|MB1
 1 Elvish Archdruid|JMP
@@ -42,7 +43,6 @@ Name=Yorvo
 1 Kogla, the Titan Ape|IKO|1
 1 Krosan Grip|C20
 1 Lifecrafter's Bestiary|C20
-1 Llanowar Elves|MB1
 1 Loxodon Warhammer|MB1
 1 Loyal Guardian|C18
 1 Mosswort Bridge|C20
@@ -78,5 +78,3 @@ Name=Yorvo
 1 Wildwood Scourge|M21
 1 World Breaker|OGW
 1 Wrap in Vigor|CNS
-[Sideboard]
-

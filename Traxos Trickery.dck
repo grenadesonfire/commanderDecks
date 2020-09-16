@@ -40,24 +40,24 @@ Name=Traxos Trickery
 1 Forge of Heroes|C18
 1 Foundry Inspector|KLD
 1 Ghost Quarter|MB1
-1 Golden Guardian|RIX
+1 Guardian Idol|JMP
 1 Hammer of Nazahn|C17
-1 Haunted Cloak|SOI
+1 Hedron Archive|JMP
 1 Helm of the Host|DOM
 1 Homeward Path|C16
 1 Ichorclaw Myr|SOM
 1 Inventors' Fair|KLD
 1 Jhoira's Familiar|DOM
+1 Karn, the Great Creator|WAR|1
 1 Lodestone Myr|MM2
 1 Mage-Ring Network|UMA
 1 Manifold Key|M20
 1 Mask of Avacyn|ISD
 1 Meteor Golem|M20
-1 Mind's Eye|MRD
 1 Mishra's Self-Replicator|DOM
+1 Mycosynth Lattice|BBD
 1 Myr Adapter|MRD
-1 Myr Battlesphere|CM2
-1 Mystic Forge|M20
+1 Myriad Landscape|C20
 1 Nephalia Academy|EMN
 1 Nim Deathmantle|SOM
 1 Palladium Myr|MB1
@@ -98,6 +98,9 @@ Name=Traxos Trickery
 4 Wastes|OGW|4
 [Sideboard]
 1 Gonti's Aether Heart|AER
+1 Haunted Cloak|SOI
 1 Mazemind Tome|M21|2
+1 Myr Battlesphere|CM2
+1 Mystic Forge|M20
 1 Prowler's Helm|THS
 1 Quietus Spike|ALA

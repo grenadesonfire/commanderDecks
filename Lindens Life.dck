@@ -16,7 +16,6 @@ Name=Lindens Life
 1 Austere Command|IMA
 1 Authority of the Consuls|KLD
 1 Basri's Lieutenant|M21|1
-1 Boon Reflection|SHM
 1 Brave the Elements|C14
 1 Caged Sun|MB1
 1 Castle Ardenvale|ELD|2
@@ -27,11 +26,12 @@ Name=Lindens Life
 1 Dawn of Hope|GRN
 1 Daxos, Blessed by the Sun|THB|1
 1 Disenchant|MB1
+1 Drannith Magistrate|IKO|1
 1 Emeria, the Sky Ruin|C14
 1 Endless Atlas|C18
 1 Extraplanar Lens|MRD
-1 Fountain of Renewal|MB1
 1 Fumigate|KLD
+1 Generous Gift|MH1
 1 Ghost Quarter|HA2
 1 God-Eternal Oketra|WAR
 1 Haazda Marshal|GRN
@@ -43,6 +43,7 @@ Name=Lindens Life
 1 Hour of Revelation|HOU
 1 Idol of Endurance|M21|1
 1 Idol of Oblivion|C19
+1 Knight of the White Orchid|C20
 1 Legion's Landing|XLN
 1 Luminarch Ascension|A25
 1 Mangara, the Diplomat|M21|1
@@ -70,13 +71,14 @@ Name=Lindens Life
 1 Soul Warden|HA1
 1 Soul's Attendant|FMB1
 1 Speaker of the Heavens|M21|1
-1 Star Compass|IMA
 1 Sun Titan|C20
 1 Survival Cache|IMA
 1 Suture Priest|NPH
 1 Swords to Plowshares|MB1
 1 Tectonic Edge|C14
-1 The Circle of Loyalty|ELD|1
 1 Twinblade Paladin|M20
 1 Unbreakable Formation|RNA
+1 Verge Rangers|C20
 1 Well of Lost Dreams|C17
+[Sideboard]
+1 Boon Reflection|SHM
