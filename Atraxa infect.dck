@@ -22,7 +22,6 @@ Name=Atraxa infect
 1 Counterspell|A25
 1 Crystalline Crawler|CM2
 1 Cyclonic Rift|MM3
-1 Darkwater Catacombs|ODY
 1 Despark|WAR
 1 Dreadship Reef|TSP
 1 Drowned Catacomb|XLN
@@ -66,7 +65,7 @@ Name=Atraxa infect
 1 Phyrexian Swarmlord|NPH
 1 Plague Myr|MBS
 1 Plague Stinger|SOM
-2 Plains|ZEN|3
+1 Plains|ZEN|3
 1 Priests of Norn|MBS
 1 Rhystic Study|PCY
 1 Saltcrusted Steppe|TSP
@@ -80,7 +79,7 @@ Name=Atraxa infect
 1 Spike Weaver|EXO
 1 Stonecoil Serpent|ELD|1
 1 Swamp|ZEN|3
-4 Swamp|ZEN|4
+3 Swamp|ZEN|4
 1 Swiftfoot Boots|C18
 1 Sword of Truth and Justice|MH1
 1 Sylvan Library|EMA
@@ -88,8 +87,11 @@ Name=Atraxa infect
 1 Tangle Wire|NMS
 1 Temple Garden|GRN
 1 Tezzeret's Gambit|MM2
+1 Thriving Grove|JMP
+1 Thriving Heath|JMP
+1 Thriving Isle|JMP
+1 Thriving Moor|JMP
 1 Thrummingbird|MM2
-1 Urborg, Tomb of Yawgmoth|UMA
 1 Vines of Vastwood|MM2
 1 Viral Drake|NPH
 1 Viridian Corrupter|MBS
