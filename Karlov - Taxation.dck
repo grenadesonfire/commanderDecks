@@ -7,7 +7,6 @@ Name=Karlov - Taxation
 1 Arcane Signet|C20
 1 Athreos, God of Passage|JOU
 1 Authority of the Consuls|KLD
-1 Basilica Guards|GTC
 1 Basilica Screecher|GTC
 1 Blind Obedience|GTC
 1 Bloodchief Ascension|ZEN
@@ -39,7 +38,6 @@ Name=Karlov - Taxation
 1 Isolated Chapel|DOM
 1 Kambal, Consul of Allocation|KLD
 1 Kaya's Guile|MH1
-1 Kingpin's Pet|GTC
 1 Kunoros, Hound of Athreos|THB|1
 1 Lightning Greaves|C19
 1 Luminous Broodmoth|IKO|1
@@ -66,11 +64,11 @@ Name=Karlov - Taxation
 1 Skullclamp|C20
 1 Smothering Tithe|RNA
 1 Sol Ring|C18
-1 Sorin, Solemn Visitor|KTK
 1 Sorin, Vengeful Bloodlord|WAR|1
 1 Soul Warden|MM3
 1 Soul's Attendant|ROE
 1 Speaker of the Heavens|M21|1
+1 Spirit Loop|TSP
 1 Sun Titan|M12
 1 Suture Priest|NPH
 3 Swamp|THB|1
@@ -84,15 +82,12 @@ Name=Karlov - Taxation
 1 Tragic Slip|EMA
 1 Treasury Thrull|C15
 1 Urborg, Tomb of Yawgmoth|UMA
+1 Vito, Thorn of the Dusk Rose|M21|1
 1 Vizkopa Guildmage|IMA
 1 Wall of Reverence|UMA
+1 Witch of the Moors|JMP
 [Sideboard]
+1 Basilica Guards|GTC
 1 Blood Artist|EMA
-1 Deafening Silence|ELD
-1 Erebos, God of the Dead|THS
-1 Gray Merchant of Asphodel|THS
-1 Griffin Aerie|M21
-1 Revival // Revenge|RNA
-1 Talisman of Hierarchy|MH1
-1 Utter End|KTK
+1 Kingpin's Pet|GTC
 1 Zulaport Cutthroat|A25

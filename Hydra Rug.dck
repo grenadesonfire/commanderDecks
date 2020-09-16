@@ -16,6 +16,7 @@ Name=Hydra Rug
 1 Capricopian|C20
 1 Castle Garenbrig|ELD|2
 1 Cinder Glade|BFZ
+1 Collector Ouphe|MH1
 1 Command Tower|ELD
 1 Contagion Clasp|DDF
 1 Destiny Spinner|THB
@@ -52,7 +53,6 @@ Name=Hydra Rug
 1 Merfolk Skydiver|WAR
 1 Mistcutter Hydra|THS
 1 Mountain|ZEN|3
-1 Nature's Lore|GVL
 1 Opal Palace|CM2
 1 Oracle of Mul Daya|JMP
 1 Pir, Imaginative Rascal|BBD
@@ -97,5 +97,6 @@ Name=Hydra Rug
 1 Yavimaya Coast|C19
 1 Zoetic Cavern|A25
 [Sideboard]
+1 Nature's Lore|GVL
 1 Solemn Simulacrum|C19
 1 Tishana, Voice of Thunder|XLN

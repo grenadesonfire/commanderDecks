@@ -8,8 +8,11 @@ Name=Mardu Meow Meow Massacre
 1 Anguished Unmaking|SOI
 1 Animate Dead|MB1
 1 Arcane Signet|C20
+1 Ashnod's Altar|MB1
 1 Bastion of Remembrance|IKO
+1 Blasting Station|FMB1
 1 Blood Crypt|RNA
+1 Bloodsoaked Champion|KTK
 1 Bojuka Bog|C20
 1 Boros Charm|GK1
 1 Call the Coppercoats|C20
@@ -20,13 +23,13 @@ Name=Mardu Meow Meow Massacre
 1 Clifftop Retreat|DOM
 1 Command Tower|ELD
 1 Crackling Doom|C20
+1 Darkest Hour|7ED
 1 Despark|C20
 1 Devout Chaplain|C20
 1 Dire Tactics|IKO
 1 Dragonskull Summit|XLN
 1 Drannith Magistrate|IKO|2
 1 Dusk // Dawn|C19
-1 Elesh Norn, Grand Cenobite|MB1
 1 Exotic Orchard|C20
 1 Faithless Looting|MB1
 1 General Kudro of Drannith|IKO|2
@@ -39,22 +42,20 @@ Name=Mardu Meow Meow Massacre
 1 Hanweir Battlements|EMN
 1 Hanweir Garrison|EMN
 1 Hanweir Militia Captain|SOI
-1 Increasing Devotion|C20
 1 Isolated Chapel|DOM
 1 Jirina Kudro|C20
 1 Judith, the Scourge Diva|RNA
 1 Kelsien, the Plague|C20
 1 Knight of the White Orchid|C20
-1 Lightning Greaves|C20
 1 Massacre Girl|WAR
 1 Mentor of the Meek|M19
 2 Mountain|THB|1
 1 Mythos of Snapdax|IKO|1
 1 Nomad Outpost|C20
 1 Orzhov Basilica|C20
-1 Outlaws' Merriment|ELD|2
 1 Oversold Cemetery|ONS
 1 Path of Ancestry|C20
+1 Phyrexian Altar|UMA
 1 Pitiless Plunderer|RIX
 1 Plaguecrafter|MB1
 3 Plains|THB|1
@@ -65,7 +66,6 @@ Name=Mardu Meow Meow Massacre
 1 Sacred Foundry|GRN
 1 Savai Triome|IKO|2
 1 Shared Animosity|C20
-1 Sheoldred, Whispering One|IMA
 1 Silent Clearing|MH1
 1 Skirsdag High Priest|C14
 1 Skullclamp|C20
@@ -74,8 +74,9 @@ Name=Mardu Meow Meow Massacre
 1 Sol Ring|C20
 1 Species Specialist|C20
 5 Swamp|THB|1
-1 Swiftfoot Boots|C20
 1 Terramorphic Expanse|C19
+1 Teysa Karlov|RNA
+1 Teysa, Orzhov Scion|GPT
 1 Thalia's Lieutenant|C20
 1 Thalia, Guardian of Thraben|HA2
 1 Thalia, Heretic Cathar|EMN
@@ -84,7 +85,6 @@ Name=Mardu Meow Meow Massacre
 1 Thriving Moor|JMP
 1 Unclaimed Territory|C20
 1 Unearth|MH1
-1 Utter End|C18
 1 Vandalblast|C15
 1 Verge Rangers|C20
 1 Victimize|CMA
@@ -96,6 +96,10 @@ Name=Mardu Meow Meow Massacre
 1 Yawgmoth, Thran Physician|MH1
 1 Zulaport Cutthroat|C20
 [Sideboard]
-1 Adriana, Captain of the Guard|C20
-1 Disciple of Bolas|C20
-1 Titan Hunter|C20
+1 Elesh Norn, Grand Cenobite|MB1
+1 Increasing Devotion|C20
+1 Lightning Greaves|C20
+1 Outlaws' Merriment|ELD|2
+1 Sheoldred, Whispering One|IMA
+1 Swiftfoot Boots|C20
+1 Utter End|C18
