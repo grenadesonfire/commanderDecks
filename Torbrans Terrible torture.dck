@@ -22,13 +22,11 @@ Name=Torbrans Terrible torture
 1 Circle of Flame|M15
 1 Comet Storm|C20
 1 Deflecting Swat|C20
-1 Dictate of the Twin Gods|JOU
 1 Drakuseth, Maw of Flames|M20
 1 Dwarven Mine|ELD
 1 Electrickery|RTR
 1 Electrostatic Field|GRN
 1 Embermaw Hellion|ORI
-1 Endless Atlas|C18
 1 Extraplanar Lens|MRD
 1 Faithless Looting|MB1
 1 Fiery Confluence|SS3
@@ -62,7 +60,7 @@ Name=Torbrans Terrible torture
 1 Risk Factor|GRN
 1 Ruby Medallion|CM2
 1 Runaway Steam-Kin|GRN
-27 Snow-Covered Mountain|SLD
+29 Snow-Covered Mountain|SLD
 1 Sol Ring|C20
 1 Spellshock|TPR
 1 Spinerock Knoll|C20
@@ -76,3 +74,6 @@ Name=Torbrans Terrible torture
 1 Tormenting Voice|M19
 1 Valakut, the Molten Pinnacle|ZEN
 1 Wheel of Fate|MB1
+[Sideboard]
+1 Dictate of the Twin Gods|JOU
+1 Endless Atlas|C18

@@ -26,11 +26,9 @@ Name=Ayara
 1 Dread Return|MB1
 1 Endrek Sahr, Master Breeder|MM2
 1 Erebos's Intervention|THB|1
-1 Expedition Map|MM2
 1 Extraplanar Lens|MRD
 1 Falkenrath Noble|JMP
 1 Force of Despair|MH1
-1 Foreboding Fruit|ELD
 1 Ghost Quarter|HA2
 1 Ghoulcaller Gisa|JMP
 1 Grave Titan|MB1
@@ -61,7 +59,7 @@ Name=Ayara
 1 Skirsdag High Priest|C14
 1 Skullclamp|C20
 1 Sling-Gang Lieutenant|MH1
-24 Snow-Covered Swamp|SLD
+26 Snow-Covered Swamp|SLD
 1 Sol Ring|C20
 1 Solemn Simulacrum|M21|2
 1 Syr Konrad, the Grim|ELD
@@ -81,6 +79,7 @@ Name=Ayara
 1 Zulaport Cutthroat|C20
 [Sideboard]
 1 Abhorrent Overlord|THS
+1 Foreboding Fruit|ELD
 1 Lightning Greaves|C20
 1 Mimic Vat|C20
 1 Swiftfoot Boots|C20
