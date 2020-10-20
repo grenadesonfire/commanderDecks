@@ -52,8 +52,8 @@ Name=Nico bolas, Nick's Schemer
 1 Nicol Bolas, Dragon-God|WAR|1
 1 Nicol Bolas, God-Pharaoh|HOU
 1 Nicol Bolas, Planeswalker|M13
+1 Nicol Bolas, the Deceiver|HOU
 1 Nightscape Familiar|PLS
-1 Noetic Scales|USG
 1 Notion Thief|A25
 1 Painful Quandary|SOM
 1 Plaguecrafter|MB1
@@ -71,7 +71,6 @@ Name=Nico bolas, Nick's Schemer
 1 Sol Ring|C19
 1 Spark Double|WAR
 1 Steam Vents|GRN
-1 Storm World|LEG
 1 Stronghold Rats|FUT
 1 Sunken Hollow|C19
 7 Swamp|THB|1
@@ -92,11 +91,13 @@ Name=Nico bolas, Nick's Schemer
 1 Torment of Hailfire|HOU
 1 Urborg, Tomb of Yawgmoth|UMA
 1 Vicious Rumors|GRN
+1 Visage of Bolas|HOU
 1 Waste Not|M15
 1 Watery Grave|GRN
-1 Wheel of Torture|ULG
 1 Words of Waste|ONS
 [Sideboard]
 1 Bad Deal|M21
 1 Baleful Strix|EMA
 1 Rhystic Study|PCY
+1 Storm World|LEG
+1 Wheel of Torture|ULG
