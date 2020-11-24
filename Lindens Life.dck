@@ -7,8 +7,8 @@ Name=Lindens Life
 1 Ajani's Pridemate|M19
 1 Ajani's Welcome|M19
 1 Ajani, Strength of the Pride|M20
+1 Angel of Destiny|ZNR|1
 1 Angel of Vitality|M20
-1 Angelic Accord|IMA
 1 Archangel of Thune|IMA
 1 Ashes of the Abhorrent|XLN
 1 Aura of Silence|MB1
@@ -16,10 +16,11 @@ Name=Lindens Life
 1 Austere Command|IMA
 1 Authority of the Consuls|KLD
 1 Brave the Elements|C14
-1 Caged Sun|MB1
 1 Castle Ardenvale|ELD|2
 1 Cathars' Crusade|JMP
 1 Collective Effort|EMN
+1 Commander's Plate|CMR|1
+1 Court of Grace|CMR|2
 1 Crested Sunmare|HOU
 1 Darksteel Mutation|MB1
 1 Dawn of Hope|GRN
@@ -31,7 +32,6 @@ Name=Lindens Life
 1 Fumigate|KLD
 1 Generous Gift|MH1
 1 Ghost Quarter|HA2
-1 God-Eternal Oketra|WAR
 1 Haazda Marshal|GRN
 1 Hall of Heliod's Generosity|MH1
 1 Heliod's Intervention|THB|1
@@ -41,6 +41,8 @@ Name=Lindens Life
 1 Hour of Revelation|HOU
 1 Idol of Endurance|M21|1
 1 Idol of Oblivion|C19
+1 Kabira Takedown|ZNR
+1 Keeper of the Accord|CMR|1
 1 Knight of the White Orchid|C20
 1 Legion's Landing|XLN
 1 Luminarch Ascension|A25
@@ -50,6 +52,7 @@ Name=Lindens Life
 1 Myriad Landscape|C20
 1 Nykthos, Shrine to Nyx|THS
 1 Oketra the True|AKH
+1 Ondu Inversion|ZNR|1
 1 Path of Bravery|JMP
 1 Path to Exile|JMP
 1 Pearl Medallion|C14
@@ -60,23 +63,29 @@ Name=Lindens Life
 1 Resplendent Angel|M19
 1 Rhox Faithmender|JMP
 1 Salvage Scout|SOM
+1 Sejiri Shelter|ZNR
 1 Seraph Sanctuary|DDQ
 1 Serra Ascendant|HA1
 1 Skullclamp|C20
+1 Skyclave Cleric|ZNR
 1 Smothering Tithe|RNA
-25 Snow-Covered Plains|SLD
+20 Snow-Covered Plains|MH1
 1 Sol Ring|C20
 1 Soul Warden|HA1
 1 Soul's Attendant|FMB1
 1 Speaker of the Heavens|M21|1
 1 Sun Titan|C20
-1 Survival Cache|IMA
 1 Suture Priest|NPH
 1 Swords to Plowshares|MB1
 1 Tectonic Edge|C14
 1 Twinblade Paladin|M20
 1 Unbreakable Formation|RNA
 1 Verge Rangers|C20
+1 War Room|CMR|1
 1 Well of Lost Dreams|C17
 [Sideboard]
-1 Boon Reflection|SHM
+1 Angelic Accord|IMA
+1 Caged Sun|MB1
+1 God-Eternal Oketra|WAR
+1 Prava of the Steel Legion|CMR|1
+1 Survival Cache|IMA
