@@ -32,6 +32,7 @@ Name=Breaking Brago
 1 Ephara, God of the Polis|BNG
 1 Exclusion Ritual|NPH
 1 Fabricate|M10
+1 Felidar Guardian|MB1
 1 Fierce Guardianship|C20
 1 Ghost Quarter|C15
 1 Glacial Fortress|XLN
@@ -44,9 +45,8 @@ Name=Breaking Brago
 1 Inventors' Fair|KLD
 1 Irrigated Farmland|AKH
 1 Island|THB|1
-7 Island|ZEN|2
+8 Island|ZEN|2
 1 Knight-Captain of Eos|ALA
-1 Lavinia of the Tenth|DGM
 1 Lightning Greaves|C17
 1 Mana Vault|UMA
 1 Muddle the Mixture|RAV
@@ -57,13 +57,11 @@ Name=Breaking Brago
 1 Oblivion Ring|MM2
 1 Omen of the Sea|THB
 1 Pact of Negation|A25
-1 Peregrine Drake|EMA
 1 Plains|ZEN|1
-1 Plains|ZEN|2
+2 Plains|ZEN|2
 3 Plains|ZEN|3
 1 Port Town|SOI
 1 Prairie Stream|BFZ
-1 Reality Acid|PLC
 1 Reliquary Tower|M19
 1 Render Silent|DGM
 1 Rest in Peace|A25
@@ -88,14 +86,18 @@ Name=Breaking Brago
 1 Thassa, Deep-Dwelling|THB|2
 1 Thassa, God of the Sea|THS
 1 Thought Vessel|C15
-1 Tragic Arrogance|ORI
+1 Time Warp|M10
 1 Traveler's Cloak|CNS
 1 Tundra|VMA
 1 Venser, Shaper Savant|MM3
 1 Venser, the Sojourner|SOM
 1 Watcher for Tomorrow|MH1
 [Sideboard]
+1 Lavinia of the Tenth|DGM
 1 Panharmonicon|KLD
 1 Parallax Tide|NMS
+1 Peregrine Drake|EMA
+1 Reality Acid|PLC
 1 Reflector Mage|OGW
+1 Tragic Arrogance|ORI
 1 Winter Orb|EMA
