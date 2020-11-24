@@ -9,12 +9,13 @@ Name=Yorvo
 1 Arasta of the Endless Web|THB|1
 1 Arch of Orazca|MB1
 1 Avenger of Zendikar|C18
+1 Bala Ged Recovery|ZNR
 1 Biogenic Ooze|RNA
+1 Biowaste Blob|CMR|1
 1 Bonders' Enclave|IKO|2
-1 Caged Sun|MB1
-1 Castle Garenbrig|ELD|1
 1 Champion of Lambholt|JMP
 1 Collector Ouphe|MH1
+1 Court of Bounty|CMR|2
 1 Elder Gargaroth|M21|2
 1 Elvish Archdruid|JMP
 1 Evolution Sage|WAR
@@ -30,15 +31,13 @@ Name=Yorvo
 1 Guardian Project|RNA
 1 Gyre Sage|GK2
 1 Hardened Scales|CM2
-1 Heraldic Banner|ELD
 1 Heroic Intervention|M21|1
 1 Hydra's Growth|THB
 1 Ilysian Caryatid|THB
 1 Incubation Druid|RNA
-1 Inspiring Call|JMP
 1 Invigorating Surge|M21
-1 Joraga Treespeaker|ROE
 1 Karn's Bastion|WAR
+1 Khalni Ambush|ZNR
 1 Kogla, the Titan Ape|IKO|1
 1 Krosan Grip|C20
 1 Lifecrafter's Bestiary|C20
@@ -47,6 +46,7 @@ Name=Yorvo
 1 Mutant's Prey|DGM
 1 Nykthos, Shrine to Nyx|THS
 1 Oblivion Stone|CM2
+1 Oran-Rief Ooze|ZNR|1
 1 Oran-Rief, the Vastwood|C20
 1 Pounce|XLN
 1 Predator Ooze|C20
@@ -62,15 +62,19 @@ Name=Yorvo
 1 Sakura-Tribe Elder|C19
 1 Scavenging Ooze|M21|1
 1 Scute Mob|C18
+1 Scute Swarm|ZNR|2
 1 Selvala, Heart of the Wilds|JMP
-1 Setessan Tactics|JOU
 1 Shamanic Revelation|MB1
-27 Snow-Covered Forest|SLD
+23 Snow-Covered Forest|SLD
 1 Sol Ring|C20
+1 Swarm Shambler|ZNR|2
+1 Tangled Florahedron|ZNR
 1 The Great Henge|ELD|1
 1 The Ozolith|IKO|2
 1 Ulvenwald Tracker|MM3
+1 Umbral Mantle|MB1
 1 Unnatural Aggression|BFZ
+1 War Room|CMR|1
 1 Whisperer of the Wilds|FRF
 1 Wildborn Preserver|ELD|2
 1 Wildwood Scourge|M21
@@ -79,4 +83,5 @@ Name=Yorvo
 [Sideboard]
 1 Elixir of Immortality|MB1
 1 Elvish Mystic|DDU
+1 Inspiring Call|JMP
 1 Nissa's Pilgrimage|C17
