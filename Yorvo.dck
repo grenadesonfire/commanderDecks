@@ -5,7 +5,6 @@ Name=Yorvo
 [Main]
 1 Allosaurus Shepherd|JMP
 1 Ancient Animus|DOM
-1 Apex Altisaur|C19
 1 Arasta of the Endless Web|THB|1
 1 Arch of Orazca|MB1
 1 Avenger of Zendikar|C18
@@ -65,7 +64,7 @@ Name=Yorvo
 1 Scute Swarm|ZNR|2
 1 Selvala, Heart of the Wilds|JMP
 1 Shamanic Revelation|MB1
-23 Snow-Covered Forest|SLD
+24 Snow-Covered Forest|MH1
 1 Sol Ring|C20
 1 Swarm Shambler|ZNR|2
 1 Tangled Florahedron|ZNR
@@ -81,6 +80,7 @@ Name=Yorvo
 1 World Breaker|OGW
 1 Wrap in Vigor|CNS
 [Sideboard]
+1 Apex Altisaur|C19
 1 Elixir of Immortality|MB1
 1 Elvish Mystic|DDU
 1 Inspiring Call|JMP
