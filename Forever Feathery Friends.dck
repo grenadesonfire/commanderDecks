@@ -22,7 +22,6 @@ Name=Forever Feathery Friends
 1 Clifftop Retreat|DOM
 1 Cloudshift|A25
 1 Command Tower|C18
-1 Commander's Sphere|C18
 1 Dawn Charm|UMA
 1 Defiant Strike|WAR
 1 Double Vision|M21|1
@@ -31,7 +30,6 @@ Name=Forever Feathery Friends
 1 Fell the Mighty|C17
 1 Fists of Flame|MH1
 1 Gird for Battle|GRN
-1 Gisela, Blade of Goldnight|CM2
 1 Gods Willing|UMA
 1 Guttersnipe|C19
 1 Heightened Reflexes|IKO
@@ -47,45 +45,44 @@ Name=Forever Feathery Friends
 1 Mentor of the Meek|M19
 1 Mirrorwing Dragon|EMN
 1 Monastery Mentor|FRF
-7 Mountain|ZEN|2
+6 Mountain|ZEN|2
 1 Mox Amber|DOM
+1 Needleverge Pathway|ZNR|1
+1 Ondu Inversion|ZNR|2
 1 Oreskos Explorer|CM2
 1 Orim's Thunder|CM2
 1 Path to Exile|MM3
 1 Phalanx Leader|UMA
 1 Phalanx Tactics|THB
-17 Plains|ZEN|4
+15 Plains|ZEN|4
 1 Plateau|VMA
-1 Psychotic Fury|DIS
 1 Pyroceratops|IKO
 1 Reliquary Tower|M19
 1 Runaway Steam-Kin|GRN
 1 Sacred Foundry|GRN
 1 Seize the Day|UMA
 1 Shadowspear|THB|2
+1 Shatterskull Smashing|ZNR|1
 1 Shelter|MH1
 1 Sheltering Light|XLN
 1 Skullclamp|C17
 1 Smothering Tithe|RNA
 1 Sol Ring|C18
 1 Solemn Simulacrum|CM2|1
+1 Soul's Fire|CMR
 1 Sun Titan|CM2
 1 Sunforger|C16
 1 Swords to Plowshares|BBD
 1 Teferi's Protection|C17
+1 Temur Battle Rage|CMR|1
 1 Tethmos High Priest|UMA
 1 Vanguard of Brimaz|BNG
+1 War Room|CMR|1
 1 Wear // Tear|DGM
 1 Will of the All-Hunter|IKO
 1 Wind-Scarred Crag|CM2
 1 Young Pyromancer|UMA
 1 Zada, Hedron Grinder|A25
 [Sideboard]
-1 Aegis Angel|W16
-1 Boros Keyrune|GK1
-1 Burnished Hart|C15
-1 Gilded Lotus|DOM
-1 Library of Leng|5ED
-1 Lightning Greaves|CM2
-1 Pyromancer's Goggles|ORI
-1 Urza's Incubator|CM2
+1 Gisela, Blade of Goldnight|CM2
+1 Psychotic Fury|DIS

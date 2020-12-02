@@ -3,25 +3,29 @@ Name=Arix the Leviathan God - 2
 [Commander]
 1 Arixmethes, Slumbering Isle|C18
 [Main]
+1 Aesi, Tyrant of Gyre Strait|CMR
 1 Arch of Orazca|RIX
 1 Archetype of Imagination|MB1
+1 Bala Ged Recovery|ZNR
 1 Birds of Paradise|CN2
 1 Bonders' Enclave|IKO|1
 1 Botanical Sanctum|KLD
 1 Bounty of the Luxa|AKH
 1 Brainstorm|C18
 1 Breeding Pool|EXP
+1 Brinelin, the Moon Kraken|CMR|1
 1 Capsize|TPR
+1 Charix, the Raging Isle|ZNR|3
 1 Chasm Skulker|C16
 1 Coastal Breach|C16
 1 Coiling Oracle|DIS
 1 Colossal Whale|M14
 1 Command Tower|COM
+1 Court of Bounty|CMR|1
 1 Crush of Tentacles|OGW
 1 Cyclonic Rift|RTR
 1 Devastation Tide|AVR
 1 Displacement Wave|ORI
-1 Elder Gargaroth|M21|1
 1 Eternal Witness|MB1
 1 Evacuation|C16
 1 Explore|DDO
@@ -29,9 +33,8 @@ Name=Arix the Leviathan God - 2
 1 Fierce Guardianship|C20
 1 Flood of Tears|M20
 1 Forbid|MPS_AKH
-1 Forest|THB|1
-4 Forest|ZEN|2
-1 Garruk Wildspeaker|GVL
+2 Forest|ZEN|2
+1 Garruk Wildspeaker|COM
 1 Garruk's Harbinger|M21|1
 1 Garruk's Uprising|M21|2
 1 Ghostly Pilferer|M21|1
@@ -42,11 +45,10 @@ Name=Arix the Leviathan God - 2
 1 Ilysian Caryatid|THB
 1 Incubation Druid|RNA
 1 Inundate|EVE
-1 Island|THB|1
-13 Island|ZEN|2
+11 Island|ZEN|2
+1 Jwari Disruption|ZNR
+1 Khalni Ambush|ZNR
 1 Kiora's Follower|DDO
-1 Kiora, Master of the Depths|BFZ
-1 Kiora, the Crashing Wave|BNG
 1 Kodama's Reach|CHK
 1 Kogla, the Titan Ape|IKO|1
 1 Krosan Grip|TSP
@@ -55,20 +57,20 @@ Name=Arix the Leviathan God - 2
 1 Myriad Landscape|C14
 1 Nadir Kraken|THB|1
 1 Nezahal, Primal Tide|RIX
-1 Nissa, Steward of Elements|C20
 1 Overwhelming Stampede|C19
 1 Pemmin's Aura|SCG
 1 Ponder|C18
 1 Primal Empathy|IKO
 1 Prime Speaker Zegana|C15
 1 Rampant Growth|MIR
+1 Rejuvenating Springs|CMR|2
 1 Reliquary Tower|CFX
 1 Rogue's Passage|RTR
+1 Sea Gate Restoration|ZNR|2
 1 Seasons Past|SOI
 1 Serpent of Yawning Depths|THB
 1 Simic Growth Chamber|DIS
 1 Simic Sky Swallower|DIS
-1 Slinn Voda, the Rising Deep|DOM
 1 Sol Ring|C18
 1 Stormsurge Kraken|C14
 1 Stormtide Leviathan|M11
@@ -77,9 +79,11 @@ Name=Arix the Leviathan God - 2
 1 Thornwood Falls|KTK
 1 Thryx, the Sudden Storm|THB|1
 1 Tidal Barracuda|C20
+1 Trench Behemoth|CMR
 1 Triumph of the Hordes|NPH
 1 Tropical Island|VMA
 1 Trygon Predator|DIS
+1 Turntimber Symbiosis|ZNR|1
 1 Uro, Titan of Nature's Wrath|THB|2
 1 Vorinclex, Voice of Hunger|NPH
 1 Vortex Elemental|BNG
@@ -89,5 +93,9 @@ Name=Arix the Leviathan God - 2
 1 Yavimaya Coast|APC
 [Sideboard]
 1 Cold-Eyed Selkie|C20
+1 Kiora, Master of the Depths|BFZ
+1 Kiora, the Crashing Wave|BNG
 1 Lightning Greaves|MRD
+1 Nissa, Steward of Elements|C20
+1 Slinn Voda, the Rising Deep|DOM
 1 Swiftfoot Boots|C18

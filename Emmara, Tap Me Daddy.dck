@@ -3,22 +3,23 @@ Name=Emmara, Tap Me Daddy
 [Commander]
 1 Emmara, Soul of the Accord|GRN
 [Main]
-1 Advent of the Wurm|MM3
+1 Akroma's Will|CMR|2
 1 Anointed Procession|AKH
 1 Anointer Priest|AKH
-1 Armada Wurm|RTR
+1 Arcane Signet|CMR|2
 1 Aura Shards|COM
+1 Bala Ged Recovery|ZNR
 1 Blighted Woodland|BFZ
-1 Bonders' Enclave|IKO|1
 1 Bountiful Promenade|BBD
 1 Bramble Sovereign|BBD
+1 Branchloft Pathway|ZNR|2
 1 Canopy Vista|EXP
 1 Castle Ardenvale|ELD|1
 1 Cathars' Crusade|C16
 1 Champion of Lambholt|AVR
 1 Chord of Calling|M15
 1 Command Tower|C18
-1 Commander's Insignia|C19
+1 Court of Grace|CMR|1
 1 Cryptolith Rite|SOI
 1 Dawn of Hope|GRN
 1 Destiny Spinner|THB
@@ -27,12 +28,15 @@ Name=Emmara, Tap Me Daddy
 1 Doubling Season|MMA
 1 Elesh Norn, Grand Cenobite|IMA
 1 Elspeth, Sun's Champion|THS
+1 Emeria's Call|ZNR|1
 1 Emmara Tandris|DGM
 1 Entreat the Angels|MM3
 1 Farseek|C17
+1 Felidar Retreat|ZNR|2
 1 Finale of Glory|WAR
-7 Forest|ZEN|1
+4 Forest|ZEN|1
 1 Fortified Village|SOI
+1 Gavony Township|C20
 1 Giant Adephage|GTC
 1 Glare of Subdual|EMA
 1 God-Eternal Oketra|WAR
@@ -47,7 +51,9 @@ Name=Emmara, Tap Me Daddy
 1 Idol of Oblivion|C19
 1 Impervious Greatwurm|GRN
 1 Intangible Virtue|MM3
+1 Kabira Takedown|ZNR
 1 Krosan Grip|MMA
+1 Lathiel, the Bounteous Dawn|CMR|2
 1 March of the Multitudes|GRN
 1 Mentor of the Meek|M19
 1 Mimic Vat|C18
@@ -56,11 +62,11 @@ Name=Emmara, Tap Me Daddy
 1 Nature's Claim|IMA
 1 Nature's Lore|VMA
 1 Nullmage Shepherd|RAV
-1 Odric, Master Tactician|C20
 1 Ohran Frostfang|C19
 1 Paradise Mantle|MMA
 1 Parallel Lives|ISD
-4 Plains|ZEN|4
+2 Plains|ZEN|4
+1 Prava of the Steel Legion|CMR|2
 1 Quest for Renewal|WWK
 1 Reliquary Tower|M19
 1 Return to Dust|TSP
@@ -73,7 +79,6 @@ Name=Emmara, Tap Me Daddy
 1 Selesnya Sanctuary|IMA
 1 Shalai, Voice of Plenty|DOM
 1 Skullclamp|C17
-1 Skyshroud Claim|BBD
 1 Smothering Tithe|RNA
 1 Sol Ring|C18
 1 Soul's Attendant|ROE
@@ -85,11 +90,19 @@ Name=Emmara, Tap Me Daddy
 1 Swords to Plowshares|A25
 1 Temple Garden|GRN
 1 Temple of Plenty|BNG
-1 Tolsimir Wolfblood|RAV
 1 Trostani Discordant|GRN
 1 Trostani, Selesnya's Voice|RTR
 1 Vitu-Ghazi Guildmage|RTR
 1 Vitu-Ghazi, the City-Tree|RAV
+1 War Room|CMR|1
 1 Wayfaring Temple|MM3
 1 Wilt-Leaf Liege|MM2
 1 Windbrisk Heights|LRW
+[Sideboard]
+1 Advent of the Wurm|MM3
+1 Armada Wurm|RTR
+1 Commander's Insignia|C19
+1 Court of Bounty|CMR|1
+1 Odric, Master Tactician|C20
+1 Skyshroud Claim|BBD
+1 Tolsimir Wolfblood|RAV

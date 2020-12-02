@@ -3,7 +3,9 @@ Name=Karlov - Taxation
 [Commander]
 1 Karlov of the Ghost Council|C15
 [Main]
+1 Agadeem's Awakening|ZNR|1
 1 Ajani, Strength of the Pride|M20
+1 Angel of Destiny|ZNR|1
 1 Arcane Signet|C20
 1 Athreos, God of Passage|JOU
 1 Authority of the Consuls|KLD
@@ -14,12 +16,12 @@ Name=Karlov - Taxation
 1 Bojuka Bog|C19
 1 Bolas's Citadel|WAR
 1 Bonders' Enclave|IKO|1
-1 Cabal Stronghold|DOM
+1 Brightclimb Pathway|ZNR|2
 1 Call of the Death-Dweller|IKO
 1 Castle Locthwain|ELD|1
 1 Caves of Koilos|ORI
 1 Command Tower|C19
-1 Crypt Ghast|GTC
+1 Court of Grace|CMR|2
 1 Daxos, Blessed by the Sun|THB|2
 1 Despark|WAR
 1 Diabolic Tutor|KLD
@@ -35,13 +37,16 @@ Name=Karlov - Taxation
 1 Heliod, Sun-Crowned|THB|2
 1 Idol of Endurance|M21|1
 1 Indulging Patrician|M21
+1 Inscription of Ruin|ZNR|1
 1 Isolated Chapel|DOM
+1 Kabira Takedown|ZNR
 1 Kambal, Consul of Allocation|KLD
 1 Kaya's Guile|MH1
 1 Kunoros, Hound of Athreos|THB|1
 1 Lightning Greaves|C19
 1 Luminous Broodmoth|IKO|1
 1 Lurrus of the Dream-Den|IKO|1
+1 Malakir Rebirth|ZNR
 1 Mangara, the Diplomat|M21|1
 1 Martial Coup|CFX
 1 Mortify|GPT
@@ -49,11 +54,9 @@ Name=Karlov - Taxation
 1 Obzedat, Ghost Council|MM3
 1 Orzhov Signet|MM3
 1 Oversold Cemetery|ONS
-1 Palace Siege|FRF
-1 Phyrexian Arena|9ED
 1 Phyrexian Reclamation|C15
 2 Plains|THB|1
-8 Plains|ZEN|2
+6 Plains|ZEN|2
 1 Pontiff of Blight|DGM
 1 Reassembling Skeleton|M19
 1 Rogue's Passage|UMA
@@ -71,23 +74,30 @@ Name=Karlov - Taxation
 1 Spirit Loop|TSP
 1 Sun Titan|M12
 1 Suture Priest|NPH
-3 Swamp|THB|1
 7 Swamp|ZEN|3
-1 Swords to Plowshares|A25
+1 Swamp|ZNR|1
 1 Syndic of Tithes|GTC
 1 Tainted Field|C15
-1 The Ozolith|IKO|1
 1 Thrull Parasite|GTC
 1 Tithe Drinker|DGM
 1 Tragic Slip|EMA
 1 Treasury Thrull|C15
 1 Urborg, Tomb of Yawgmoth|UMA
+1 Vault of Champions|CMR|1
 1 Vito, Thorn of the Dusk Rose|M21|1
 1 Vizkopa Guildmage|IMA
 1 Wall of Reverence|UMA
+1 War Room|CMR|1
 1 Witch of the Moors|JMP
+1 Zof Consumption|ZNR
 [Sideboard]
 1 Basilica Guards|GTC
 1 Blood Artist|EMA
+1 Crypt Ghast|GTC
 1 Kingpin's Pet|GTC
+1 Orah, Skyclave Hierophant|ZNR|2
+1 Palace Siege|FRF
+1 Phyrexian Arena|9ED
+1 Swords to Plowshares|A25
+1 The Ozolith|IKO|1
 1 Zulaport Cutthroat|A25

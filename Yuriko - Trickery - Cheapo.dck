@@ -1,7 +1,7 @@
 [metadata]
 Name=Yuriko - Trickery - Cheapo
 [Commander]
-1 Yuriko, the Tiger's Shadow|C18
+1 Yuriko, the Tiger's Shadow|CMR
 [Main]
 1 Abjure|WTH
 1 Arcane Adaptation|XLN
@@ -12,6 +12,7 @@ Name=Yuriko - Trickery - Cheapo
 1 Bojuka Bog|C19
 1 Brainstorm|A25
 1 Changeling Outcast|MH1
+1 Clearwater Pathway|ZNR|2
 1 Command Tower|C18
 1 Commit // Memory|AKH
 1 Consign // Oblivion|HOU
@@ -24,21 +25,25 @@ Name=Yuriko - Trickery - Cheapo
 1 Devastation Tide|AVR
 1 Dimir Infiltrator|PCA
 1 Dimir Signet|GK1
+1 Esior, Wardwing Familiar|CMR|1
 1 Fallen Shinobi|MH1
 1 Fierce Guardianship|C20
 1 Forbid|MPS_AKH
 1 Force of Will|EMA
 1 Ghost Quarter|CM2
-1 Ghostly Pilferer|M21|1
+1 Glasspool Mimic|ZNR|2
 1 Gudul Lurker|DTK
+1 Hagra Mauling|ZNR|2
 1 Hope of Ghirapur|AER
+1 Hullbreacher|CMR|2
 1 Hypnotic Siren|JOU
 1 Ink-Eyes, Servant of Oni|PCA
 1 Insidious Dreams|TOR
 8 Island|ZEN|2
-5 Island|ZEN|4
+2 Island|ZEN|4
 1 Jace's Phantasm|IMA
 1 Jace, the Mind Sculptor|A25
+1 Jwari Disruption|ZNR
 1 Karn's Temporal Sundering|DOM
 1 Lim-Dul's Vault|C13
 1 Mausoleum Wanderer|EMN
@@ -51,29 +56,29 @@ Name=Yuriko - Trickery - Cheapo
 1 Mothdust Changeling|MMA
 1 Mystic Sanctuary|ELD
 1 Mystical Tutor|EMA
+1 Necrotic Hex|CMR|1
 1 Negate|BBD
 1 Nexus of Fate|M19
 1 Oboro Breezecaller|SOK
 1 Ornithopter|AER
-1 Ponder|M12
 1 Reliquary Tower|M19
 1 Sakashima the Impostor|SOK
-1 Sakashima's Student|PC2
 1 Sensei's Divining Top|EMA
 1 Siren Stormtamer|XLN
 1 Skullsnatcher|BOK
 1 Slither Blade|AKH
 1 Snuff Out|DDD
+1 Soaring Thought-Thief|ZNR
 1 Spellstutter Sprite|MMA
 1 Sunken Hollow|BFZ
 1 Sunken Ruins|SHM
 1 Swamp|ZEN|2
-4 Swamp|ZEN|3
+3 Swamp|ZEN|3
 1 Temporal Manipulation|UMA
 1 Temporal Mastery|MM3
 1 Temporal Trespass|FRF
 1 Tetsuko Umezawa, Fugitive|DOM
-1 Thassa's Oracle|THB|2
+1 Thieving Skydiver|ZNR|2
 1 Throat Slitter|BOK
 1 Time Warp|M10
 1 Tormented Soul|M13
@@ -87,14 +92,5 @@ Name=Yuriko - Trickery - Cheapo
 1 Walk the Aeons|TSP
 1 Watery Grave|GRN
 1 Witch's Cottage|ELD
-1 Xenograft|NPH
 [Sideboard]
-1 Demonic Tutor|UMA
-1 Dimir Cluestone|DGM
-1 Higure, the Still Wind|BOK
-1 Ingenious Infiltrator|MH1
-1 Mox Amber|DOM
-1 Ninja of the Deep Hours|BOK
-1 Prickly Boggart|MOR
-1 Walker of Secret Ways|BOK
-1 Wingcrafter|MM3
+

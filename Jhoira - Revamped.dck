@@ -22,6 +22,7 @@ Name=Jhoira - Revamped
 1 Darksteel Citadel|C18
 1 Dramatic Reversal|GN2
 1 Emry, Lurker of the Loch|ELD|2
+1 Esior, Wardwing Familiar|CMR|1
 1 Etherium Sculptor|C18
 1 Fabricate|HOP
 1 Forbid|MPS_AKH
@@ -32,15 +33,16 @@ Name=Jhoira - Revamped
 1 Herald of Kozilek|BFZ
 1 Inventors' Fair|KLD
 2 Island|THB|1
-8 Island|ZEN|3
+7 Island|ZEN|3
 1 Isochron Scepter|EMA
 1 Izzet Boilerworks|C18
 1 Izzet Signet|C18
+1 Jeweled Lotus|CMR|1
 1 Jhoira's Familiar|DOM
+1 Jwari Disruption|ZNR
 1 Lightning Greaves|C16
 1 Mind Stone|C18
 1 Mirrodin Besieged|MH1
-2 Mountain|THB|1
 8 Mountain|ZEN|3
 1 Mox Amber|DOM
 1 Muddle the Mixture|RAV
@@ -56,6 +58,7 @@ Name=Jhoira - Revamped
 1 Retrofitter Foundry|C18
 1 Reverse Engineer|C18
 1 Rings of Brighthearth|LRW
+1 Riverglide Pathway|ZNR|2
 1 Saheeli Rai|KLD
 1 Saheeli's Directive|C18
 1 Saheeli, Sublime Artificer|WAR|1
@@ -67,11 +70,9 @@ Name=Jhoira - Revamped
 1 Sol Ring|C18
 1 Solemn Simulacrum|C16
 1 Spellbook|M10
-1 Sprite Dragon|IKO|1
 1 Steam Vents|GRN
 1 Storm the Vault|RIX
 1 Sulfur Falls|DOM
-1 Swiftfoot Boots|C18
 1 Talisman of Creativity|MH1
 1 Teferi's Ageless Insight|M21|1
 1 Temple of Epiphany|DDU
@@ -83,11 +84,9 @@ Name=Jhoira - Revamped
 1 Urza, Lord High Artificer|MH1
 1 Vandalblast|C15
 1 Volcanic Island|VMA
+1 War Room|CMR|1
 1 Whir of Invention|AER
 1 Winter Orb|EMA
 1 Words of Wind|ONS
 [Sideboard]
-1 Hedron Archive|C18
-1 Myr Turbine|MBS
-1 Soul of New Phyrexia|C18
-1 Temple of the False God|C18
+1 Swiftfoot Boots|C18
