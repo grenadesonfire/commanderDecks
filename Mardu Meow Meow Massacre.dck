@@ -4,6 +4,7 @@ Name=Mardu Meow Meow Massacre
 1 Silvar, Devourer of the Free|C20
 1 Trynn, Champion of Freedom|C20
 [Main]
+1 Agadeem's Awakening|ZNR|1
 1 Alesha, Who Smiles at Death|C20
 1 Angel of Glory's Rise|AVR
 1 Anguished Unmaking|SOI
@@ -11,23 +12,26 @@ Name=Mardu Meow Meow Massacre
 1 Arcane Signet|C20
 1 Ashnod's Altar|MB1
 1 Bastion of Remembrance|IKO
+1 Blackbloom Rogue|ZNR
 1 Blasting Station|FMB1
 1 Blood Crypt|RNA
 1 Bloodsoaked Champion|KTK
 1 Bojuka Bog|C20
 1 Boros Charm|GK1
+1 Brightclimb Pathway|ZNR|2
 1 Call the Coppercoats|C20
-1 Captivating Crew|C20
 1 Cathars' Crusade|CM2
 1 Cavern of Souls|UMA
 1 Chainer, Nightmare Adept|C19
 1 Clifftop Retreat|DOM
 1 Command Tower|ELD
+1 Court of Grace|CMR|1
 1 Crackling Doom|C20
 1 Despark|C20
 1 Devout Chaplain|C20
 1 Dire Tactics|IKO
 1 Dragonskull Summit|XLN
+1 Drana, the Last Bloodchief|ZNR|1
 1 Drannith Magistrate|IKO|2
 1 Dusk // Dawn|C19
 1 Exotic Orchard|C20
@@ -45,6 +49,7 @@ Name=Mardu Meow Meow Massacre
 1 Isolated Chapel|DOM
 1 Jirina Kudro|C20
 1 Judith, the Scourge Diva|RNA
+1 Juri, Master of the Revue|CMR|1
 1 Kelsien, the Plague|C20
 1 Knight of the White Orchid|C20
 1 Massacre Girl|WAR
@@ -58,11 +63,10 @@ Name=Mardu Meow Meow Massacre
 1 Phyrexian Altar|UMA
 1 Pitiless Plunderer|RIX
 1 Plaguecrafter|MB1
-3 Plains|THB|1
+2 Plains|THB|1
 1 Priest of Forgotten Gods|RNA
 1 Rakdos Carnarium|C20
 1 Recruiter of the Guard|MB1
-1 Ruinous Ultimatum|IKO|2
 1 Sacred Foundry|GRN
 1 Savai Triome|IKO|2
 1 Shared Animosity|C20
@@ -73,7 +77,7 @@ Name=Mardu Meow Meow Massacre
 1 Smothering Tithe|RNA
 1 Sol Ring|C20
 1 Species Specialist|C20
-5 Swamp|THB|1
+2 Swamp|THB|1
 1 Terramorphic Expanse|C19
 1 Teysa Karlov|RNA
 1 Teysa, Orzhov Scion|GPT
@@ -86,6 +90,7 @@ Name=Mardu Meow Meow Massacre
 1 Unclaimed Territory|C20
 1 Unearth|MH1
 1 Vandalblast|C15
+1 Vault of Champions|CMR|1
 1 Verge Rangers|C20
 1 Victimize|CMA
 1 Wear // Tear|FMB1
@@ -96,10 +101,12 @@ Name=Mardu Meow Meow Massacre
 1 Yawgmoth, Thran Physician|MH1
 1 Zulaport Cutthroat|C20
 [Sideboard]
+1 Captivating Crew|C20
 1 Elesh Norn, Grand Cenobite|MB1
 1 Increasing Devotion|C20
 1 Lightning Greaves|C20
 1 Outlaws' Merriment|ELD|2
+1 Ruinous Ultimatum|IKO|2
 1 Sheoldred, Whispering One|IMA
 1 Swiftfoot Boots|C20
 1 Utter End|C18

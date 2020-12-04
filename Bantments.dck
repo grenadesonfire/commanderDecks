@@ -15,6 +15,7 @@ Name=Bantments
 1 Bear Umbra|C18
 1 Botanical Sanctum|KLD
 1 Bountiful Promenade|BBD
+1 Branchloft Pathway|ZNR|2
 1 Breeding Pool|RNA
 1 Canopy Vista|BFZ
 1 Cathars' Crusade|CM2
@@ -22,10 +23,11 @@ Name=Bantments
 1 Command Tower|ELD
 1 Counterbalance|MPS_AKH
 1 Courser of Kruphix|MB1
+1 Court of Bounty|CMR|2
+1 Court of Grace|CMR|2
 1 Cyclonic Rift|MM3
 1 Destiny Spinner|THB
 1 Dryad of the Ilysian Grove|THB|2
-1 Eidolon of Blossoms|C18
 1 Enchantress's Presence|C18
 1 Ephara, God of the Polis|SLD
 1 Estrid's Invocation|C18
@@ -36,6 +38,7 @@ Name=Bantments
 1 Fumigate|KLD
 1 Ghost Quarter|HA2
 1 Ghostly Prison|C19
+1 Gift of Paradise|CMR
 1 Glacial Fortress|M13
 1 God-Favored General|BNG
 1 Greater Auramancy|SHM
@@ -57,12 +60,10 @@ Name=Bantments
 1 Kruphix, God of Horizons|SLD
 1 Martyr's Bond|MB1
 1 Mirari's Wake|C17
-1 Mirrormade|ELD|2
 1 Nimbus Maze|IMA
 1 Nylea, God of the Hunt|SLD
-1 Nylea, Keen-Eyed|THB|1
 1 Opal Palace|CM2
-4 Plains|ZEN|3
+3 Plains|ZEN|3
 1 Prairie Stream|C19
 1 Propaganda|C16
 1 Quest for Ancient Secrets|ZEN
@@ -94,3 +95,8 @@ Name=Bantments
 1 Thriving Heath|JMP
 1 Thriving Isle|JMP
 1 Wild Growth|MB1
+[Sideboard]
+1 Court of Cunning|CMR|2
+1 Eidolon of Blossoms|C18
+1 Mirrormade|ELD|2
+1 Nylea, Keen-Eyed|THB|1
