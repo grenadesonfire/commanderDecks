@@ -15,7 +15,9 @@ Name=Muldrotha V3
 1 Buried Alive|CM2
 1 Caustic Caterpillar|ORI
 1 Chromatic Lantern|GRN
+1 Clearwater Pathway|ZNR|2
 1 Command Tower|C18
+1 Court of Bounty|CMR|1
 1 Cyclonic Rift|RTR
 1 Deathrite Shaman|GK1
 1 Dimir Aqueduct|C18
@@ -25,7 +27,7 @@ Name=Muldrotha V3
 1 Farseek|C17
 1 Fiend Artisan|IKO|1
 1 Forbid|MPS_AKH
-7 Forest|ZEN|2
+6 Forest|ZEN|2
 1 Geth, Lord of the Vault|SOM
 1 Glen Elendra Archmage|MMA
 1 Golgari Rot Farm|C18
@@ -36,7 +38,8 @@ Name=Muldrotha V3
 1 Growing Rites of Itlimoc|XLN
 1 Hinterland Harbor|DOM
 1 Hostage Taker|XLN
-6 Island|ZEN|3
+1 Hullbreacher|CMR|1
+5 Island|ZEN|3
 1 Jace, Wielder of Mysteries|WAR|2
 1 Journey to Eternity|RIX
 1 Kaya's Ghostform|WAR
@@ -58,7 +61,6 @@ Name=Muldrotha V3
 1 Sakura-Tribe Elder|C18
 1 Satyr Wayfinder|BNG
 1 Seal of Primordium|MM3
-1 Secrets of the Dead|DKA
 1 Sheoldred, Whispering One|IMA
 1 Sidisi, Undead Vizier|DTK
 1 Simic Growth Chamber|C18
@@ -74,8 +76,8 @@ Name=Muldrotha V3
 1 Taigam, Sidisi's Hand|C17
 1 Terramorphic Expanse|C18
 1 Triskelion|DDF
+1 Undergrowth Stadium|CMR|1
 1 Underrealm Lich|GRN
-1 Victimize|CMA
 1 Villainous Wealth|KTK
 1 Vorinclex, Voice of Hunger|IMA
 1 Watery Grave|GRN
@@ -87,4 +89,6 @@ Name=Muldrotha V3
 [Sideboard]
 1 Glowspore Shaman|GRN
 1 Rise from the Grave|M19
+1 Secrets of the Dead|DKA
 1 Sultai Charm|KTK
+1 Victimize|CMA

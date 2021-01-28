@@ -3,18 +3,21 @@ Name=Varina - V4
 [Commander]
 1 Varina, Lich Queen|C18
 [Main]
+1 Agadeem's Awakening|ZNR|1
 1 Altar of Dementia|MH1
 1 Altar of the Brood|KTK
+1 Arcane Signet|CMR|2
 1 Archfiend of Ifnir|AKH
 1 Ash Barrens|A25
 1 Ashnod's Altar|EMA
-1 Azorius Signet|C18
 1 Bojuka Bog|WWK
 1 Bone Miser|C19
+1 Brightclimb Pathway|ZNR|2
 1 Caves of Koilos|ORI
 1 Cemetery Reaper|M12
 1 Choked Estuary|SOI
 1 Chromatic Lantern|RTR
+1 Clearwater Pathway|ZNR|2
 1 Command the Dreadhorde|WAR
 1 Command Tower|COM
 1 Corpse Harvester|LGN
@@ -31,10 +34,10 @@ Name=Varina - V4
 1 Drowned Catacomb|XLN
 1 Elesh Norn, Grand Cenobite|NPH
 1 Etchings of the Chosen|MH1
-1 Faith of the Devoted|AKH
 1 Field of the Dead|M20
 1 Forbid|MPS_AKH
 1 Ghoulcaller Gisa|C14
+1 Gisa and Geralf|EMN
 1 Gleaming Overseer|WAR
 1 God-Eternal Oketra|WAR
 1 Godless Shrine|GTC
@@ -53,9 +56,9 @@ Name=Varina - V4
 1 Living Death|TMP
 1 Lord of the Accursed|AKH
 1 Lord of the Undead|10E
-1 Mausoleum Secrets|GRN
 1 Morphic Pool|BBD
 1 Murderous Rider|ELD|2
+1 Nevinyrral, Urborg Tyrant|CMR|2
 1 Noxious Ghoul|LGN
 1 Nykthos, Shrine to Nyx|THS
 1 Orzhov Basilica|IMA
@@ -81,25 +84,28 @@ Name=Varina - V4
 1 Sorin, Vengeful Bloodlord|WAR|2
 1 Sunken Hollow|BFZ
 1 Supreme Verdict|IMA
-5 Swamp|ZEN|4
+2 Swamp|ZEN|4
 1 Swords to Plowshares|A25
 1 The Scarab God|HOU
 1 Thriving Heath|JMP
 1 Thriving Isle|JMP
 1 Thriving Moor|JMP
-1 Unclaimed Territory|XLN
+1 Tormod, the Desecrator|CMR|1
 1 Undead Augur|MH1
 1 Undead Warchief|SCG
 1 Underground River|10E
 1 Unholy Grotto|ONS
+1 Vault of Champions|CMR|2
 1 Watery Grave|GRN
 1 Wayward Servant|AKH
-1 Wonder|EMA
 1 Wrath of God|BRB
 1 Zombie Apocalypse|DKA
 [Sideboard]
 1 Army of the Damned|ISD
+1 Azorius Signet|C18
 1 Blood Artist|C17
 1 Endless Ranks of the Dead|ISD
 1 Eternal Skylord|WAR
+1 Faith of the Devoted|AKH
+1 Mausoleum Secrets|GRN
 1 Necromancer's Covenant|ARB

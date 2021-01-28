@@ -5,6 +5,7 @@ Name=Atraxa infect
 [Main]
 1 Anguished Unmaking|SOI
 1 Animate Dead|EMA
+1 Arcane Signet|C20
 1 As Foretold|AKH
 1 Astral Cornucopia|BNG
 1 Blast Zone|WAR
@@ -12,7 +13,9 @@ Name=Atraxa infect
 1 Blighted Agent|NPH
 1 Bojuka Bog|C19
 1 Bountiful Promenade|BBD
+1 Branchloft Pathway|ZNR|2
 1 Breeding Pool|RNA
+1 Brightclimb Pathway|ZNR|1
 1 Canopy Vista|BFZ
 1 Chromatic Lantern|GRN
 1 Command Tower|ELD
@@ -29,7 +32,6 @@ Name=Atraxa infect
 1 Everflowing Chalice|MM2
 1 Evolution Sage|WAR
 1 Exotic Orchard|C19
-1 Fellwar Stone|9ED
 1 Finale of Devastation|WAR
 1 Flux Channeler|WAR
 2 Forest|ZEN|1
@@ -79,7 +81,7 @@ Name=Atraxa infect
 1 Spike Weaver|EXO
 1 Stonecoil Serpent|ELD|1
 1 Swamp|ZEN|3
-3 Swamp|ZEN|4
+1 Swamp|ZEN|4
 1 Swiftfoot Boots|C18
 1 Sword of Truth and Justice|MH1
 1 Sylvan Library|EMA
@@ -87,11 +89,11 @@ Name=Atraxa infect
 1 Tangle Wire|NMS
 1 Temple Garden|GRN
 1 Tezzeret's Gambit|MM2
-1 Thriving Grove|JMP
-1 Thriving Heath|JMP
 1 Thriving Isle|JMP
 1 Thriving Moor|JMP
 1 Thrummingbird|MM2
+1 Undergrowth Stadium|CMR|1
+1 Vault of Champions|CMR|1
 1 Vines of Vastwood|MM2
 1 Viral Drake|NPH
 1 Viridian Corrupter|MBS

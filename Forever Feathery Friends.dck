@@ -12,7 +12,6 @@ Name=Forever Feathery Friends
 1 Assault Strobe|SOM
 1 Aurelia's Fury|GTC
 1 Aurelia, Exemplar of Justice|GRN
-1 Aurelia, the Warleader|GK1
 1 Bathe in Light|COM
 1 Battlefield Forge|ORI
 1 Boros Charm|GK1
@@ -76,6 +75,7 @@ Name=Forever Feathery Friends
 1 Teferi's Protection|C17
 1 Temur Battle Rage|CMR|1
 1 Tethmos High Priest|UMA
+1 Underworld Breach|THB|2
 1 Vanguard of Brimaz|BNG
 1 War Room|CMR|1
 1 Wear // Tear|DGM
@@ -84,5 +84,6 @@ Name=Forever Feathery Friends
 1 Young Pyromancer|UMA
 1 Zada, Hedron Grinder|A25
 [Sideboard]
+1 Aurelia, the Warleader|GK1
 1 Gisela, Blade of Goldnight|CM2
 1 Psychotic Fury|DIS

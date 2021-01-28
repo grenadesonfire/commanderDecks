@@ -17,6 +17,7 @@ Name=Nico bolas, Nick's Schemer
 1 Command Tower|ELD
 1 Counterspell|A25
 1 Countersquall|UMA
+1 Court of Ambition|CMR|1
 1 Crosis's Catacombs|PLS
 1 Crosis's Charm|C17
 1 Crumbling Necropolis|MM3
@@ -36,6 +37,7 @@ Name=Nico bolas, Nick's Schemer
 1 Graven Cairns|IMA
 1 Grixis Panorama|ALA
 1 Hour of Devastation|HOU
+1 Hullbreacher|CMR|1
 2 Island|THB|1
 1 Kess, Dissident Mage|MH1
 1 Kroxa, Titan of Death's Hunger|THB|2
@@ -48,11 +50,9 @@ Name=Nico bolas, Nick's Schemer
 1 Morphic Pool|BBD
 1 Mountain|THB|1
 1 Murderous Rider|ELD|2
-1 Myriad Landscape|A25
 1 Nicol Bolas, Dragon-God|WAR|1
 1 Nicol Bolas, God-Pharaoh|HOU
 1 Nicol Bolas, Planeswalker|M13
-1 Nicol Bolas, the Deceiver|HOU
 1 Nightscape Familiar|PLS
 1 Notion Thief|A25
 1 Painful Quandary|SOM
@@ -62,6 +62,7 @@ Name=Nico bolas, Nick's Schemer
 1 Rakdos Signet|MM3
 1 Rankle, Master of Pranks|ELD|2
 1 Reliquary Tower|C19
+1 Riverglide Pathway|ZNR|2
 1 Rix Maadi, Dungeon Palace|DIS
 1 Sangromancer|MBS
 1 Sedraxis Specter|MM3
@@ -73,7 +74,7 @@ Name=Nico bolas, Nick's Schemer
 1 Steam Vents|GRN
 1 Stronghold Rats|FUT
 1 Sunken Hollow|C19
-7 Swamp|THB|1
+6 Swamp|THB|1
 1 Swan Song|THS
 1 Syphon Mind|ONS
 1 Talisman of Indulgence|E01
@@ -89,15 +90,18 @@ Name=Nico bolas, Nick's Schemer
 1 Thriving Moor|JMP
 1 Tinybones, Trinket Thief|JMP
 1 Torment of Hailfire|HOU
+1 Training Center|CMR|2
 1 Urborg, Tomb of Yawgmoth|UMA
 1 Vicious Rumors|GRN
-1 Visage of Bolas|HOU
 1 Waste Not|M15
 1 Watery Grave|GRN
 1 Words of Waste|ONS
 [Sideboard]
 1 Bad Deal|M21
 1 Baleful Strix|EMA
+1 Myriad Landscape|A25
+1 Nicol Bolas, the Deceiver|HOU
 1 Rhystic Study|PCY
 1 Storm World|LEG
+1 Visage of Bolas|HOU
 1 Wheel of Torture|ULG

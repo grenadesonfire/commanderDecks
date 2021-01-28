@@ -13,6 +13,7 @@ Name=The Gays
 1 Comeuppance|C14
 1 Command Tower|C19
 1 Counterflux|RTR
+1 Court of Bounty|CMR|2
 1 Crush Contraband|GRN
 1 Cyclonic Rift|MM3
 1 Deflecting Palm|KTK
@@ -27,6 +28,7 @@ Name=The Gays
 1 Eye of the Storm|RAV
 1 Faeburrow Elder|ELD|1
 1 Farseek|C19
+1 Felidar Retreat|ZNR|2
 1 Flooded Grove|A25
 1 Folio of Fancies|ELD|2
 1 Forbidden Orchard|CHK
@@ -35,6 +37,7 @@ Name=The Gays
 1 Gamble|UMA
 1 Geier Reach Sanitarium|EMN
 1 Glacial Fortress|XLN
+1 Gor Muldrak, Amphinologist|CMR|2
 1 Grove of the Burnwillows|IMA
 1 Hive Mind|M10
 1 Homeward Path|C16
@@ -44,14 +47,13 @@ Name=The Gays
 1 Hypergenesis|TSP
 1 Insurrection|ONS
 2 Island|ZEN|3
-1 Kami of the Crescent Moon|SOK
 1 Karplusan Forest|10E
 1 Ketria Triome|IKO|2
 1 Kodama's Reach|UMA
 1 Kozilek, the Great Distortion|OGW
 1 Kruphix, God of Horizons|JOU
+1 Kwain, Itinerant Meddler|CMR|2
 1 Laboratory Maniac|UMA
-1 Leyline of Anticipation|M20
 1 Magus of the Vineyard|COM
 1 Mangara, the Diplomat|M21|2
 1 Mistveil Plains|UMA
@@ -68,6 +70,7 @@ Name=The Gays
 1 Reliquary Tower|M19
 1 Rites of Flourishing|M12
 1 Rootbound Crag|XLN
+1 Rootweaver Druid|CMR|2
 1 Sea of Clouds|BBD
 1 Seaside Citadel|MM3
 1 Seedborn Muse|C19
@@ -95,3 +98,6 @@ Name=The Gays
 1 Wrath of God|EMA
 1 Xyris, the Writhing Storm|C20
 1 Yavimaya Coast|ORI
+[Sideboard]
+1 Kami of the Crescent Moon|SOK
+1 Leyline of Anticipation|M20

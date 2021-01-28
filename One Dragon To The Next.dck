@@ -8,7 +8,6 @@ Name=One Dragon To The Next
 1 Arcane Signet|ELD
 1 Assassin's Trophy|GRN
 1 Badlands|VMA
-1 Bastion of Remembrance|IKO
 1 Bayou|VMA
 1 Birds of Paradise|GK2
 1 Blood Crypt|EXP
@@ -26,7 +25,6 @@ Name=One Dragon To The Next
 1 Diabolic Tutor|KLD
 1 Dockside Extortionist|C19
 1 Dragonskull Summit|XLN
-1 Elves of Deep Shadow|GK1
 1 Eternal Witness|MMA
 1 Farseek|C19
 1 Fiend Artisan|IKO|2
@@ -40,8 +38,10 @@ Name=One Dragon To The Next
 1 Grave Pact|CM2
 1 Growing Rites of Itlimoc|XLN
 1 Impact Tremors|DTK
+1 Impulsive Pilferer|CMR
 1 Journey to Eternity|RIX
 1 Jund Panorama|C18
+1 Juri, Master of the Revue|CMR|2
 1 Kenrith's Transformation|ELD|2
 1 Kodama's Reach|MMA
 1 Krosan Grip|MMA
@@ -67,7 +67,7 @@ Name=One Dragon To The Next
 1 Rootbound Crag|XLN
 1 Sakura-Tribe Elder|CHK
 1 Savage Lands|C18
-1 Sensei's Divining Top|EMA
+1 Scute Swarm|ZNR|2
 1 Sheoldred, Whispering One|IMA
 1 Skullclamp|DST
 1 Smoldering Marsh|BFZ
@@ -78,12 +78,13 @@ Name=One Dragon To The Next
 1 Stomping Ground|EXP
 1 Strip Mine|EXP
 1 Swamp|ZEN|2
-4 Swamp|ZEN|3
+3 Swamp|ZEN|3
 1 Swiftfoot Boots|A25
 1 Sylvan Safekeeper|CMA
 1 Taiga|VMA
 1 Temur Sabertooth|C17
 1 Tireless Tracker|MB1
+1 Undergrowth Stadium|CMR|1
 1 Vampiric Tutor|EMA
 1 Veil of Summer|M20
 1 Verdant Catacombs|MM3
@@ -96,4 +97,5 @@ Name=One Dragon To The Next
 1 Wrenn and Six|MH1
 [Sideboard]
 1 Azra Oddsmaker|BBD
+1 Bastion of Remembrance|IKO
 1 Yavimaya Elder|C18

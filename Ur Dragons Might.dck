@@ -16,9 +16,9 @@ Name=Ur Dragons Might
 1 Chromatic Lantern|RTR
 1 Chromatic Orrery|M21|1
 1 Cinder Glade|BFZ
-1 Colossal Majesty|C19
 1 Command Tower|COM
 1 Commander's Sphere|C14
+1 Court of Bounty|CMR|1
 1 Crucible of the Spirit Dragon|FRF
 1 Crux of Fate|FRF
 1 Cyclonic Rift|RTR
@@ -31,6 +31,7 @@ Name=Ur Dragons Might
 1 Dragonmaster Outcast|WWK
 1 Dragonskull Summit|M10
 1 Dragonspeaker Shaman|C17
+1 Drakuseth, Maw of Flames|M20
 1 Drowned Catacomb|M10
 1 Dryad of the Ilysian Grove|THB|2
 1 Exotic Orchard|CFX
@@ -45,6 +46,7 @@ Name=Ur Dragons Might
 1 Goreclaw, Terror of Qal Sisma|M19
 1 Growing Rites of Itlimoc|XLN
 1 Haven of the Spirit Dragon|DTK
+1 Hellkite Courser|CMR|1
 1 Hellkite Tyrant|GTC
 1 Herald's Horn|C17
 1 Indatha Triome|IKO|2
@@ -68,7 +70,6 @@ Name=Ur Dragons Might
 1 Sacred Foundry|GRN
 1 Sarkhan Unbroken|DTK
 1 Savage Ventmaw|DTK
-1 Sheoldred, Whispering One|NPH
 1 Silumgar, the Drifting Death|C17
 1 Skyline Despot|CN2
 1 Skyshroud Claim|BBD
@@ -92,9 +93,11 @@ Name=Ur Dragons Might
 1 Unclaimed Territory|XLN
 1 Utvara Hellkite|RTR
 1 Victimize|EMA
-1 Vorinclex, Voice of Hunger|NPH
 1 World Shaper|RIX
 1 Zagoth Triome|IKO|2
 [Sideboard]
 1 Buried Alive|PD3
+1 Colossal Majesty|C19
 1 Patriarch's Bidding|ONS
+1 Sheoldred, Whispering One|NPH
+1 Vorinclex, Voice of Hunger|NPH
