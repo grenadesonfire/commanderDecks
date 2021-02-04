@@ -8,7 +8,6 @@ Name=Kykars Crouching Tokens Hidden Eldrazi
 1 Arcane Signet|C20
 1 Ashnod's Altar|MB1
 1 Azorius Chancery|C20
-1 Azorius Signet|C20
 1 Blasphemous Act|CMR|2
 1 Blightsteel Colossus|MBS
 1 Blue Sun's Zenith|A25
@@ -22,11 +21,13 @@ Name=Kykars Crouching Tokens Hidden Eldrazi
 1 Counterspell|CMR|2
 1 Cryptic Command|IMA
 1 Cyclonic Rift|2XM|2
-1 Distant Melody|ZNC
 1 Divergent Transformations|C16
 1 Dovin's Veto|WAR
 1 Faithless Looting|MB1
 1 Fierce Guardianship|C20
+1 Finale of Glory|WAR
+1 Finale of Promise|WAR
+1 Finale of Revelation|WAR
 1 Generous Gift|CMR|1
 1 Glacial Fortress|XLN
 1 Hallowed Fountain|RNA
@@ -78,7 +79,6 @@ Name=Kykars Crouching Tokens Hidden Eldrazi
 1 Synthetic Destiny|PZ1
 1 Talisman of Conviction|MH1
 1 Talisman of Creativity|MH1
-1 Talisman of Progress|MRD
 1 Thought Vessel|CMR|2
 1 Time Wipe|WAR
 1 Training Center|CMR|2
@@ -88,6 +88,7 @@ Name=Kykars Crouching Tokens Hidden Eldrazi
 1 Whirlwind of Thought|IKO|2
 1 White Sun's Zenith|CMR
 [Sideboard]
+1 Distant Melody|ZNC
 1 Dramatic Reversal|KLD
 1 Force of Will|2XM|2
 1 Isochron Scepter|2XM

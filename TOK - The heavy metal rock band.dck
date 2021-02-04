@@ -9,7 +9,6 @@ Name=TOK - The heavy metal rock band
 1 Basilisk Collar|2XM
 1 Beacon of Unrest|2XM
 1 Bedevil|RNA
-1 Blinkmoth Urn|C18
 1 Blood Crypt|RNA
 1 Brass's Bounty|RIX
 1 Buried Ruin|2XM
@@ -17,17 +16,19 @@ Name=TOK - The heavy metal rock band
 1 Call of the Death-Dweller|IKO
 1 Canyon Slough|AKR
 1 Captain Lannery Storm|XLN
-1 Chromatic Orrery|M21|1
 1 Command Tower|CC1
+1 Commander's Sphere|CMR|1
 1 Crucible of Worlds|M19
 1 Disciple of the Vault|2XM
 1 Dragonskull Summit|XLN
+1 Evolving Wilds|CMR
 1 Executioner's Capsule|MMA
 1 Expedition Map|2XM|2
 1 Faithless Looting|MB1
 1 Feldon of the Third Path|C19
 1 Field of Ruin|THB
 1 Foreboding Ruins|SOI
+1 Foulmire Knight|ELD|2
 1 Foundry Inspector|CMR
 1 Gadrak, the Crown-Scourge|M21|1
 1 Galvanic Blast|2XM
@@ -38,31 +39,32 @@ Name=TOK - The heavy metal rock band
 1 Great Furnace|MB1
 1 Heartless Hidetsugu|CNS
 1 Herald of Anguish|AER
-1 Hoarding Dragon|IMA
 1 Hope of Ghirapur|AER
 1 Impulsive Pilferer|CMR
 1 Inspiring Statuary|AER
 1 Inventors' Fair|PLIST
 1 Jeska's Will|CMR|2
 1 Junk Diver|CM2
+1 Kolaghan's Command|MB1
+1 Kuldotha Phoenix|SOM
 1 Last One Standing|BBD
+1 Lightning Phoenix|JMP
 1 Luxury Suite|ZNE
 1 Malakir Rebirth|ZNR
 1 Mayhem Devil|WAR
-1 Metalwork Colossus|KLD
-10 Mountain|2XM|2
+1 Meteor Golem|CMR|2
+9 Mountain|2XM|2
 1 Murderous Rider|ELD|2
 1 Myr Battlesphere|2XM
+1 Nadier's Nightblade|CMR
 1 Nesting Dragon|C18
 1 Pia's Revolution|AER
 1 Pyrite Spellbomb|2XM
 1 Quest for Pure Flame|ZEN
-1 Quicksmith Genius|KLD
 1 Quietus Spike|C17
 1 Rakdos Carnarium|C20
-1 Rakdos Cluestone|DGM
+1 Rakdos Keyrune|GK2
 1 Rakdos Locket|C19
-1 Rapacious Dragon|M20
 1 Read the Bones|MB1
 1 Reanimate|JMP
 1 Reliquary Tower|CMR|2
@@ -73,13 +75,13 @@ Name=TOK - The heavy metal rock band
 1 Sculpting Steel|2XM
 1 Sensei's Divining Top|EMA
 1 Skyclave Relic|ZNR|1
-1 Sly Requisitioner|AER
 1 Smoldering Marsh|C20
 1 Sol Ring|CMR|1
 1 Soul-Guide Lantern|THB
 1 Strip Mine|ZNE
-5 Swamp|2XM|1
+4 Swamp|2XM|1
 1 Tamiyo's Journal|PLIST
+1 Terramorphic Expanse|JMP
 1 Trash for Treasure|C16
 1 Treasure Nabber|C18
 1 Valakut, the Molten Pinnacle|ZNE
@@ -90,7 +92,5 @@ Name=TOK - The heavy metal rock band
 1 Wayfarer's Bauble|PLIST
 1 Workshop Assistant|CMR
 [Sideboard]
-1 Indomitable Creativity|AER
 1 Obosh, the Preypiercer|IKO|2
-1 Rakdos Keyrune|GK2
-1 Thopter Engineer|2XM
+1 Rapacious Dragon|M20
