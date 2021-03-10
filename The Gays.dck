@@ -22,7 +22,6 @@ Name=The Gays
 1 Disallow|AER
 1 Dovin's Veto|WAR
 1 Dryad of the Ilysian Grove|THB|1
-1 Eladamri's Call|A25
 1 Eternal Witness|UMA
 1 Exotic Orchard|CFX
 1 Eye of the Storm|RAV
@@ -49,7 +48,6 @@ Name=The Gays
 2 Island|ZEN|3
 1 Karplusan Forest|10E
 1 Ketria Triome|IKO|2
-1 Kodama's Reach|UMA
 1 Kozilek, the Great Distortion|OGW
 1 Kruphix, God of Horizons|JOU
 1 Kwain, Itinerant Meddler|CMR|2
@@ -79,7 +77,6 @@ Name=The Gays
 1 Shivan Reef|ORI
 1 Show and Tell|CN2
 1 Smothering Tithe|RNA
-1 Sol Ring|C19
 1 Spectral Searchlight|BBD
 1 Sphinx's Revelation|MM3
 1 Stomping Ground|RNA
@@ -99,5 +96,6 @@ Name=The Gays
 1 Xyris, the Writhing Storm|C20
 1 Yavimaya Coast|ORI
 [Sideboard]
-1 Kami of the Crescent Moon|SOK
-1 Leyline of Anticipation|M20
+1 Eladamri's Call|A25
+1 Kodama's Reach|UMA
+1 Sol Ring|C19

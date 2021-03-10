@@ -31,6 +31,7 @@ Name=Doran Big Butts
 1 Forest|ZEN|1
 9 Forest|ZEN|3
 1 Fortified Village|SOI
+1 Glowstone Recluse|IKO|2
 1 God-Eternal Oketra|WAR
 1 Godless Shrine|EXP
 1 Golgari Rot Farm|C18
@@ -38,7 +39,6 @@ Name=Doran Big Butts
 1 Indatha Triome|IKO|1
 1 Journey to Eternity|RIX
 1 Karametra, God of Harvests|BNG
-1 Kathril, Aspect Warper|C20
 1 Luminous Broodmoth|IKO|1
 1 Meekstone|MPS_KLD
 1 Merciless Eviction|CM2
@@ -46,8 +46,10 @@ Name=Doran Big Butts
 1 Murmuring Bosk|C16
 1 Mythos of Nethroi|IKO|1
 1 Nature's Lore|VMA
+1 Necropanther|IKO|1
 1 Necroskitter|MM2
 1 Netherborn Altar|C20
+1 Nethroi, Apex of Death|IKO|1
 1 Ohran Frostfang|C19
 1 Oketra the True|AKH
 1 Overgrown Tomb|GRN
@@ -55,13 +57,12 @@ Name=Doran Big Butts
 2 Plains|BFZ|3
 1 Putrefy|C18
 1 Reliquary Tower|M19
-1 Rhox Faithmender|JMP
 1 Rogue's Passage|C17
 1 Runic Armasaur|M19
 1 Sandsteppe Citadel|CM2
 1 Sapling of Colfenor|EVE
 1 Scattered Groves|AKH
-1 Sheoldred, Whispering One|IMA
+1 Scourge of the Skyclaves|ZNR|1
 1 Sidar Kondo of Jamuraa|C16
 1 Silklash Spider|C14
 1 Skinshifter|M12
@@ -70,14 +71,13 @@ Name=Doran Big Butts
 1 Slaughter the Strong|RIX
 1 Smothering Tithe|RNA
 1 Sol Ring|C18
-1 Sorin, Vengeful Bloodlord|WAR|1
 1 Spidersilk Armor|DDG
 1 Sun Titan|M11
 1 Sunpetal Grove|XLN
 4 Swamp|ZEN|4
 1 Sylvan Caryatid|THS
+1 Tayam, Luminous Enigma|C20
 1 Temple Garden|GRN
-1 Terminus|C18
 1 Thriving Grove|JMP
 1 Thriving Heath|JMP
 1 Thriving Moor|JMP
@@ -94,3 +94,8 @@ Name=Doran Big Butts
 1 Abzan Beastmaster|FRF
 1 Disowned Ancestor|KTK
 1 Indomitable Ancients|MOR
+1 Kathril, Aspect Warper|C20
+1 Rhox Faithmender|JMP
+1 Sheoldred, Whispering One|IMA
+1 Sorin, Vengeful Bloodlord|WAR|1
+1 Terminus|C18

@@ -30,6 +30,7 @@ Name=Muldrotha V3
 6 Forest|ZEN|2
 1 Geth, Lord of the Vault|SOM
 1 Glen Elendra Archmage|MMA
+1 Glowstone Recluse|IKO|1
 1 Golgari Rot Farm|C18
 1 Golgari Signet|CM2|1
 1 Grave Titan|C14
@@ -56,10 +57,10 @@ Name=Muldrotha V3
 1 Pernicious Deed|A25
 1 Plaguecrafter|GRN
 1 Protean Hulk|GK2
-1 Putrefy|C18
 1 Ramunap Excavator|HOU
 1 Sakura-Tribe Elder|C18
 1 Satyr Wayfinder|BNG
+1 Sea-Dasher Octopus|IKO|1
 1 Seal of Primordium|MM3
 1 Sheoldred, Whispering One|IMA
 1 Sidisi, Undead Vizier|DTK
@@ -73,7 +74,6 @@ Name=Muldrotha V3
 1 Sultai Ascendancy|KTK
 1 Sunken Hollow|EXP
 8 Swamp|ZEN|4
-1 Taigam, Sidisi's Hand|C17
 1 Terramorphic Expanse|C18
 1 Triskelion|DDF
 1 Undergrowth Stadium|CMR|1
@@ -88,7 +88,7 @@ Name=Muldrotha V3
 1 Zagoth Triome|IKO|2
 [Sideboard]
 1 Glowspore Shaman|GRN
+1 Putrefy|C18
 1 Rise from the Grave|M19
 1 Secrets of the Dead|DKA
-1 Sultai Charm|KTK
 1 Victimize|CMA
