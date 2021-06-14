@@ -14,12 +14,11 @@ Name=Ayara
 1 Bloodsoaked Champion|KTK
 1 Bojuka Bog|C20
 1 Bontu the Glorified|AKH
-1 Bontu's Monument|AKH
 1 Butcher Ghoul|DDQ
 1 Cabal Stronghold|DOM
 1 Call of the Death-Dweller|IKO
+1 Callous Bloodmage|STX|2
 1 Castle Locthwain|ELD|1
-1 Court of Ambition|CMR|1
 1 Deadly Rollick|C20
 1 Decree of Pain|C17
 1 Dictate of Erebos|MB1
@@ -27,7 +26,6 @@ Name=Ayara
 1 Dread Return|MB1
 1 Erebos's Intervention|THB|1
 1 Extraplanar Lens|MRD
-1 Falkenrath Noble|JMP
 1 Force of Despair|MH1
 1 Ghost Quarter|HA2
 1 Ghoulcaller Gisa|JMP
@@ -35,6 +33,7 @@ Name=Ayara
 1 Gray Merchant of Asphodel|THB|1
 1 Hagra Mauling|ZNR|2
 1 Heraldic Banner|ELD
+1 Infernal Offering|C21
 1 Lazotep Reaver|WAR
 1 Living Death|MB1
 1 Malakir Rebirth|ZNR
@@ -43,16 +42,17 @@ Name=Ayara
 1 Nether Traitor|TSP
 1 Nykthos, Shrine to Nyx|THS
 1 Oathsworn Vampire|RIX
-1 Ogre Slumlord|JMP
 1 Ophiomancer|C13
 1 Orzhov Enforcer|RNA
 1 Pawn of Ulamog|C17
+1 Pestilent Cauldron|STX|1
 1 Phyrexian Altar|UMA
 1 Phyrexian Reclamation|JMP
 1 Phyrexian Tower|JMP
 1 Pitiless Plunderer|RIX
 1 Plague Reaver|CMR|1
 1 Plaguecrafter|MB1
+1 Plumb the Forbidden|STX
 1 Priest of Forgotten Gods|RNA
 1 Razaketh, the Foulblooded|HOU
 1 Reassembling Skeleton|MB1
@@ -81,9 +81,4 @@ Name=Ayara
 1 Yawgmoth, Thran Physician|MH1
 1 Zulaport Cutthroat|C20
 [Sideboard]
-1 Bontu's Last Reckoning|HOU
-1 Caged Sun|MB1
-1 Endrek Sahr, Master Breeder|MM2
-1 Grave Titan|MB1
-1 In Garruk's Wake|C19
-1 Village Rites|M21
+1 Falkenrath Noble|JMP

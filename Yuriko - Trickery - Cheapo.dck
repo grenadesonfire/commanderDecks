@@ -4,9 +4,12 @@ Name=Yuriko - Trickery - Cheapo
 1 Yuriko, the Tiger's Shadow|CMR
 [Main]
 1 Abjure|WTH
+1 Access Tunnel|STX
+1 Alrund's Epiphany|KHM|1
 1 Arcane Adaptation|XLN
 1 Arcane Signet|C20
 1 Artificer's Assistant|DOM
+1 Baleful Mastery|STX|1
 1 Baleful Strix|E01
 1 Barrin, Tolarian Archmage|M21|1
 1 Bojuka Bog|C19
@@ -24,7 +27,6 @@ Name=Yuriko - Trickery - Cheapo
 1 Deadly Rollick|C20
 1 Devastation Tide|AVR
 1 Dimir Infiltrator|PCA
-1 Dimir Signet|GK1
 1 Esior, Wardwing Familiar|CMR|1
 1 Fallen Shinobi|MH1
 1 Fierce Guardianship|C20
@@ -40,7 +42,7 @@ Name=Yuriko - Trickery - Cheapo
 1 Ink-Eyes, Servant of Oni|PCA
 1 Insidious Dreams|TOR
 8 Island|ZEN|2
-2 Island|ZEN|4
+1 Island|ZEN|4
 1 Jace's Phantasm|IMA
 1 Jace, the Mind Sculptor|A25
 1 Jwari Disruption|ZNR
@@ -51,7 +53,6 @@ Name=Yuriko - Trickery - Cheapo
 1 Mist-Cloaked Herald|M19
 1 Mist-Syndicate Naga|MH1
 1 Mistblade Shinobi|BOK
-1 Moonblade Shinobi|MH1
 1 Morphic Pool|BBD
 1 Mothdust Changeling|MMA
 1 Mystic Sanctuary|ELD
@@ -67,7 +68,6 @@ Name=Yuriko - Trickery - Cheapo
 1 Siren Stormtamer|XLN
 1 Skullsnatcher|BOK
 1 Slither Blade|AKH
-1 Snuff Out|DDD
 1 Soaring Thought-Thief|ZNR
 1 Spellstutter Sprite|MMA
 1 Sunken Hollow|BFZ
@@ -88,7 +88,12 @@ Name=Yuriko - Trickery - Cheapo
 1 Underground Sea|VMA
 1 Unwind|DOM
 1 Urborg, Tomb of Yawgmoth|UMA
+1 Varragoth, Bloodsky Sire|KHM|2
 1 Venser, Shaper Savant|MM3
 1 Walk the Aeons|TSP
 1 Watery Grave|GRN
 1 Witch's Cottage|ELD
+[Sideboard]
+1 Dimir Signet|GK1
+1 Moonblade Shinobi|MH1
+1 Snuff Out|DDD
