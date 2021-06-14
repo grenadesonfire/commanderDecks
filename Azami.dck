@@ -11,13 +11,11 @@ Name=Azami
 1 Archaeomancer|UMA
 1 Baral, Chief of Compliance|AER
 1 Barrin, Tolarian Archmage|M21|1
-1 Blue Sun's Zenith|A25
+1 Blue Sun's Zenith|STA|1
 1 Body of Knowledge|CMR|2
 1 Capsize|TPR
 1 Cavern of Souls|UMA
-1 Coastal Wizard|PO2
 1 Counterspell|A25
-1 Court of Cunning|CMR|1
 1 Cryptic Command|IMA
 1 Cyclonic Rift|MM3
 1 Disallow|AER
@@ -27,6 +25,7 @@ Name=Azami
 1 Extraplanar Lens|MRD
 1 Fierce Guardianship|C20
 1 Forbid|EXO
+1 Frost Augur|KHM
 1 Gadwick, the Wizened|ELD|2
 1 Galecaster Colossus|C17
 1 Gauntlet of Power|TSP
@@ -43,6 +42,7 @@ Name=Azami
 1 Kefnet the Mindful|AKH
 1 Laboratory Maniac|UMA
 1 Lonely Sandbar|ONS
+1 Lose Focus|MH2
 1 Mana Drain|IMA
 1 Mana Leak|IMA
 1 Marit Lage's Slumber|MH1
@@ -62,12 +62,12 @@ Name=Azami
 1 Riptide Laboratory|ONS
 1 Sapphire Medallion|C14
 1 Sea Gate Restoration|ZNR|2
-1 Sensei's Divining Top|EMA
 1 Siren Stormtamer|CMR
 1 Snapcaster Mage|UMA
 25 Snow-Covered Island|CSP
 1 Sol Ring|C18
 1 Spellbook|M10
+1 Step Through|MH2|1
 1 Stonybrook Banneret|MOR
 1 Swan Song|THS
 1 Teferi's Ageless Insight|M21|2
@@ -81,7 +81,10 @@ Name=Azami
 [Sideboard]
 1 Back to Basics|UMA
 1 Caged Sun|NPH
+1 Coastal Wizard|PO2
+1 Court of Cunning|CMR|1
 1 Hedron Archive|BFZ
 1 Rewind|MM3
+1 Sensei's Divining Top|EMA
 1 Sinister Sabotage|GRN
 1 Teferi's Tutelage|M21|1
