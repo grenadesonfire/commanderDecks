@@ -13,12 +13,15 @@ Name=Ayara
 1 Blood Artist|JMP
 1 Bloodsoaked Champion|KTK
 1 Bojuka Bog|C20
+1 Bone Shards|MH2|2
 1 Bontu the Glorified|AKH
 1 Butcher Ghoul|DDQ
 1 Cabal Stronghold|DOM
 1 Call of the Death-Dweller|IKO
 1 Callous Bloodmage|STX|2
 1 Castle Locthwain|ELD|1
+1 Clattering Augur|MH2
+1 Dauthi Voidwalker|MH2|1
 1 Deadly Rollick|C20
 1 Decree of Pain|C17
 1 Dictate of Erebos|MB1
@@ -32,12 +35,10 @@ Name=Ayara
 1 Gravecrawler|MB1
 1 Gray Merchant of Asphodel|THB|1
 1 Hagra Mauling|ZNR|2
-1 Heraldic Banner|ELD
 1 Infernal Offering|C21
 1 Lazotep Reaver|WAR
 1 Living Death|MB1
 1 Malakir Rebirth|ZNR
-1 Murderous Compulsion|MB1
 1 Necrotic Hex|CMR|1
 1 Nether Traitor|TSP
 1 Nykthos, Shrine to Nyx|THS
@@ -45,20 +46,19 @@ Name=Ayara
 1 Ophiomancer|C13
 1 Orzhov Enforcer|RNA
 1 Pawn of Ulamog|C17
-1 Pestilent Cauldron|STX|1
 1 Phyrexian Altar|UMA
 1 Phyrexian Reclamation|JMP
 1 Phyrexian Tower|JMP
 1 Pitiless Plunderer|RIX
+1 Plague Engineer|H1R
 1 Plague Reaver|CMR|1
 1 Plaguecrafter|MB1
 1 Plumb the Forbidden|STX
 1 Priest of Forgotten Gods|RNA
+1 Profane Tutor|MH2|1
 1 Razaketh, the Foulblooded|HOU
 1 Reassembling Skeleton|MB1
-1 Sanitarium Skeleton|CMR
 1 Sifter of Skulls|OGW
-1 Sign in Blood|CM2
 1 Skirsdag High Priest|C14
 1 Skullclamp|C20
 23 Snow-Covered Swamp|MH1
@@ -81,4 +81,5 @@ Name=Ayara
 1 Yawgmoth, Thran Physician|MH1
 1 Zulaport Cutthroat|C20
 [Sideboard]
-1 Falkenrath Noble|JMP
+1 Heraldic Banner|ELD
+1 Sign in Blood|CM2

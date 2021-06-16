@@ -1,13 +1,15 @@
 [metadata]
-Name=Yorvo
+Name=Yorvo - Formula'd
 [Commander]
 1 Yorvo, Lord of Garenbrig|ELD|1
 [Main]
+1 Aeve, Progenitor Ooze|MH2|2
 1 Allosaurus Shepherd|JMP
 1 Ancient Animus|DOM
 1 Arasta of the Endless Web|THB|1
 1 Arch of Orazca|MB1
 1 Avenger of Zendikar|C18
+1 Back to Nature|M15
 1 Bala Ged Recovery|ZNR
 1 Biogenic Ooze|RNA
 1 Biowaste Blob|CMR|1
@@ -15,15 +17,15 @@ Name=Yorvo
 1 Champion of Lambholt|JMP
 1 Collector Ouphe|MH1
 1 Court of Bounty|CMR|2
+1 Deepwood Denizen|MH2
 1 Elder Gargaroth|M21|2
-1 Elvish Archdruid|JMP
 1 Evolution Sage|WAR
-1 Extraplanar Lens|MRD
+1 Ezuri's Predation|C21
 1 Fertilid|JMP
 1 Fists of Ironwood|MM3
 1 Forgotten Ancient|CM2
+1 Fractal Harness|C21|2
 1 Fungal Sprouting|M13
-1 Gargos, Vicious Watcher|M20
 1 Garruk's Harbinger|M21|2
 1 Garruk's Uprising|M21|2
 1 God-Eternal Rhonas|WAR
@@ -34,24 +36,24 @@ Name=Yorvo
 1 Hydra's Growth|THB
 1 Ilysian Caryatid|THB
 1 Incubation Druid|RNA
+1 Inscription of Abundance|ZNR|1
 1 Invigorating Surge|M21
 1 Karn's Bastion|WAR
 1 Khalni Ambush|ZNR
 1 Kogla, the Titan Ape|IKO|1
-1 Krosan Grip|C20
 1 Lifecrafter's Bestiary|C20
 1 Loyal Guardian|C18
 1 Mosswort Bridge|C20
-1 Mutant's Prey|DGM
+1 Nature's Claim|TSR
 1 Nykthos, Shrine to Nyx|THS
 1 Oblivion Stone|CM2
 1 Oran-Rief Ooze|ZNR|1
 1 Oran-Rief, the Vastwood|C20
-1 Pounce|XLN
 1 Predator Ooze|C20
 1 Primal Might|M21|1
 1 Ram Through|IKO
 1 Rampant Growth|MB1
+1 Reclamation Sage|CMR|2
 1 Renata, Called to the Hunt|THB|2
 1 Return to Nature|M21
 1 Rhonas the Indomitable|AKH
@@ -60,24 +62,26 @@ Name=Yorvo
 1 Rishkar, Peema Renegade|JMP
 1 Sakura-Tribe Elder|C19
 1 Scavenging Ooze|M21|1
-1 Scute Mob|C18
+1 Scurry Oak|MH2
 1 Scute Swarm|ZNR|2
-1 Selvala, Heart of the Wilds|JMP
-1 Shamanic Revelation|MB1
 24 Snow-Covered Forest|MH1
-1 Sol Ring|C20
+1 Steelbane Hydra|ELD
+1 Struggle for Skemfar|KHM
 1 Swarm Shambler|ZNR|2
 1 Tangled Florahedron|ZNR
 1 The Great Henge|ELD|1
 1 The Ozolith|IKO|2
 1 Ulvenwald Tracker|MM3
-1 Umbral Mantle|MB1
-1 Unnatural Aggression|BFZ
 1 War Room|CMR|1
+1 Wave of Vitriol|CMA
 1 Whisperer of the Wilds|FRF
 1 Wildborn Preserver|ELD|2
 1 Wildwood Scourge|M21
 1 World Breaker|OGW
 1 Wrap in Vigor|CNS
 [Sideboard]
-1 Reclamation Sage|CMR|2
+1 Beast Within|TSR
+1 Elvish Archdruid|JMP
+1 Krosan Grip|C20
+1 Selvala, Heart of the Wilds|JMP
+1 Shamanic Revelation|MB1
