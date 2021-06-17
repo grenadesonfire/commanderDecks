@@ -7,13 +7,14 @@ Name=Forever Feathery Friends
 1 Akroan Crusader|UMA
 1 Apostle's Blessing|MM2
 1 Arcane Signet|C20
+1 Archaeomancer's Map|C21|2
 1 Archangel Avacyn|SOI
 1 Aria of Flame|MH1
-1 Assault Strobe|SOM
 1 Aurelia's Fury|GTC
 1 Aurelia, Exemplar of Justice|GRN
 1 Bathe in Light|COM
 1 Battlefield Forge|ORI
+1 Blacksmith's Skill|MH2|1
 1 Boros Charm|GK1
 1 Boros Garrison|GK1
 1 Boros Signet|GK1
@@ -28,6 +29,7 @@ Name=Forever Feathery Friends
 1 Expedite|BBD
 1 Fell the Mighty|C17
 1 Fists of Flame|MH1
+1 Furycalm Snarl|STX|1
 1 Gird for Battle|GRN
 1 Gods Willing|UMA
 1 Guttersnipe|C19
@@ -41,6 +43,7 @@ Name=Forever Feathery Friends
 1 Launch the Fleet|JOU
 1 Light of Hope|IKO
 1 Magnetic Theft|5DN
+1 Mavinda, Students' Advocate|STX|1
 1 Mentor of the Meek|M19
 1 Mirrorwing Dragon|EMN
 1 Monastery Mentor|FRF
@@ -53,9 +56,8 @@ Name=Forever Feathery Friends
 1 Path to Exile|MM3
 1 Phalanx Leader|UMA
 1 Phalanx Tactics|THB
-15 Plains|ZEN|4
+14 Plains|ZEN|4
 1 Plateau|VMA
-1 Pyroceratops|IKO
 1 Reliquary Tower|M19
 1 Runaway Steam-Kin|GRN
 1 Sacred Foundry|GRN
@@ -66,9 +68,8 @@ Name=Forever Feathery Friends
 1 Sheltering Light|XLN
 1 Skullclamp|C17
 1 Smothering Tithe|RNA
-1 Sol Ring|C18
-1 Solemn Simulacrum|CM2|1
 1 Soul's Fire|CMR
+1 Sudden Breakthrough|STX
 1 Sun Titan|CM2
 1 Sunforger|C16
 1 Swords to Plowshares|BBD
@@ -84,6 +85,10 @@ Name=Forever Feathery Friends
 1 Young Pyromancer|UMA
 1 Zada, Hedron Grinder|A25
 [Sideboard]
+1 Assault Strobe|SOM
 1 Aurelia, the Warleader|GK1
 1 Gisela, Blade of Goldnight|CM2
 1 Psychotic Fury|DIS
+1 Pyroceratops|IKO
+1 Sol Ring|C18
+1 Solemn Simulacrum|CM2|1

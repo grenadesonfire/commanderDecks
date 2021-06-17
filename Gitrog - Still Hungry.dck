@@ -13,7 +13,6 @@ Name=Gitrog - Still Hungry
 1 Command Tower|ELD
 1 Crucible of Worlds|M19
 1 Crystal Vein|CMA
-1 Culling the Weak|EXO
 1 Dakmor Salvage|MMA
 1 Dark Ritual|A25
 1 Darkblast|GK1
@@ -46,6 +45,7 @@ Name=Gitrog - Still Hungry
 1 Life from the Loam|MMA
 1 Lotus Field|M20
 1 Maelstrom Pulse|UMA
+1 Necroblossom Snarl|STX|2
 1 Necromancy|VIS
 1 Nyx Weaver|JOU
 1 Oakhame Adversary|ELD
@@ -76,7 +76,6 @@ Name=Gitrog - Still Hungry
 1 Strip Mine|EXP
 1 Sudden Reclamation|FRF
 8 Swamp|ZEN|3
-1 Tainted Wood|CMA
 1 Terramorphic Expanse|C18
 1 Torment of Hailfire|HOU
 1 Tranquil Thicket|C18
@@ -87,6 +86,7 @@ Name=Gitrog - Still Hungry
 1 Victimize|CMA
 1 Wayward Swordtooth|RIX
 1 Wild Mongrel|VMA
+1 Witherbloom Command|STX|2
 1 World Shaper|RIX
 1 Worm Harvest|C18
 [Sideboard]

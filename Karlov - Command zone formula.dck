@@ -9,21 +9,21 @@ Name=Karlov - Command zone formula
 1 Arcane Signet|KHC
 1 Athreos, God of Passage|SLD
 1 Authority of the Consuls|KLR
-1 Ayli, Eternal Pilgrim|OGW
 1 Blind Obedience|C17
 1 Bloodchief Ascension|ZEN
 1 Bloodghast|PLIST
 1 Bojuka Bog|TSR
 1 Bonders' Enclave|IKO|1
+1 Breathless Knight|MH2
 1 Breena, the Demagogue|C21|2
 1 Brightclimb Pathway|ZNR|2
-1 Burnished Hart|KHC
 1 Call of the Death-Dweller|IKO
 1 Castle Locthwain|ELD|2
 1 Caves of Koilos|C20
 1 Command Tower|KHC
 1 Cosmos Elixir|KHM|2
 1 Court of Grace|CMR|2
+1 Damn|MH2|2
 1 Daxos, Blessed by the Sun|THB|2
 1 Despark|WAR
 1 Devastating Mastery|STX|1
@@ -34,6 +34,7 @@ Name=Karlov - Command zone formula
 1 Fracture|STX|2
 1 Fumigate|KLR
 1 Godless Shrine|EXP
+1 Graceful Restoration|MH2
 1 Hall of Heliod's Generosity|MH1
 1 Healer's Hawk|JMP
 1 Heliod's Intervention|THB|1
@@ -58,13 +59,11 @@ Name=Karlov - Command zone formula
 9 Plains|2XM|2
 1 Pristine Talisman|CM2
 1 Reassembling Skeleton|MB1
-1 Return to Dust|TSR
 1 Rogue's Passage|CMR
 1 Scrubland|VMA
 1 Serra Ascendant|IMA
 1 Shadowspear|THB|2
 1 Shambling Vent|BFZ
-1 Shineshadow Snarl|STX|1
 1 Shineshadow Snarl|STX|2
 1 Skullclamp|PLIST
 1 Smothering Tithe|RNA
@@ -92,6 +91,8 @@ Name=Karlov - Command zone formula
 1 Witch of the Moors|JMP
 1 Zof Consumption|ZNR
 [Sideboard]
+1 Burnished Hart|KHC
 1 Crush Contraband|ZNC
 1 Oversold Cemetery|ONS
+1 Return to Dust|TSR
 1 Solemn Simulacrum|M21|2

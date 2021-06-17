@@ -9,6 +9,7 @@ Name=Emmara, Tap Me Daddy
 1 Arcane Signet|CMR|2
 1 Aura Shards|COM
 1 Bala Ged Recovery|ZNR
+1 Battle for Bretagard|KHM
 1 Blighted Woodland|BFZ
 1 Bountiful Promenade|BBD
 1 Bramble Sovereign|BBD
@@ -30,15 +31,14 @@ Name=Emmara, Tap Me Daddy
 1 Elspeth, Sun's Champion|THS
 1 Emeria's Call|ZNR|1
 1 Entreat the Angels|MM3
+1 Esika's Chariot|KHM|1
 1 Farseek|C17
 1 Felidar Retreat|ZNR|2
-1 Finale of Glory|WAR
 4 Forest|ZEN|1
 1 Fortified Village|SOI
 1 Gavony Township|C20
 1 Giant Adephage|GTC
 1 Glare of Subdual|EMA
-1 God-Eternal Oketra|WAR
 1 Good-Fortune Unicorn|MH1
 1 Grove of the Guardian|RTR
 1 Growing Rites of Itlimoc|XLN
@@ -53,7 +53,7 @@ Name=Emmara, Tap Me Daddy
 1 Kabira Takedown|ZNR
 1 Krosan Grip|MMA
 1 Lathiel, the Bounteous Dawn|CMR|2
-1 March of the Multitudes|GRN
+1 Maja, Bretagard Protector|KHM|2
 1 Mentor of the Meek|M19
 1 Mimic Vat|C18
 1 Mosswort Bridge|LRW
@@ -64,11 +64,11 @@ Name=Emmara, Tap Me Daddy
 1 Ohran Frostfang|C19
 1 Paradise Mantle|MMA
 1 Parallel Lives|ISD
+1 Pest Infestation|C21|2
 2 Plains|ZEN|4
 1 Prava of the Steel Legion|CMR|2
 1 Quest for Renewal|WWK
 1 Reliquary Tower|M19
-1 Return to Dust|TSP
 1 Reveillark|C20
 1 Savannah|VMA
 1 Scattered Groves|AKH
@@ -99,11 +99,4 @@ Name=Emmara, Tap Me Daddy
 1 Wilt-Leaf Liege|MM2
 1 Windbrisk Heights|LRW
 [Sideboard]
-1 Advent of the Wurm|MM3
-1 Armada Wurm|RTR
-1 Commander's Insignia|C19
-1 Court of Bounty|CMR|1
-1 Emmara Tandris|DGM
-1 Odric, Master Tactician|C20
-1 Skyshroud Claim|BBD
-1 Tolsimir Wolfblood|RAV
+

@@ -19,13 +19,13 @@ Name=Arix the Leviathan God - 2
 1 Chasm Skulker|C16
 1 Coastal Breach|C16
 1 Coiling Oracle|DIS
-1 Colossal Whale|M14
 1 Command Tower|COM
 1 Court of Bounty|CMR|1
 1 Crush of Tentacles|OGW
 1 Cyclonic Rift|RTR
 1 Devastation Tide|AVR
 1 Displacement Wave|ORI
+1 Double Major|STX|2
 1 Eternal Witness|MB1
 1 Evacuation|C16
 1 Explore|DDO
@@ -34,7 +34,6 @@ Name=Arix the Leviathan God - 2
 1 Flood of Tears|M20
 1 Forbid|MPS_AKH
 3 Forest|ZEN|2
-1 Garruk Wildspeaker|COM
 1 Garruk's Harbinger|M21|1
 1 Garruk's Uprising|M21|2
 1 Ghostly Pilferer|M21|1
@@ -72,11 +71,11 @@ Name=Arix the Leviathan God - 2
 1 Simic Growth Chamber|DIS
 1 Simic Sky Swallower|DIS
 1 Sol Ring|C18
+1 Spawning Kraken|C21|2
 1 Stormsurge Kraken|C14
 1 Stormtide Leviathan|M11
 1 Temple of Mystery|THS
 1 The Great Henge|ELD|1
-1 Thornwood Falls|KTK
 1 Thryx, the Sudden Storm|THB|1
 1 Tidal Barracuda|C20
 1 Trench Behemoth|CMR
@@ -85,6 +84,7 @@ Name=Arix the Leviathan God - 2
 1 Trygon Predator|DIS
 1 Turntimber Symbiosis|ZNR|1
 1 Uro, Titan of Nature's Wrath|THB|2
+1 Vineglimmer Snarl|STX|1
 1 Vorinclex, Voice of Hunger|NPH
 1 Vortex Elemental|BNG
 1 Whelming Wave|BNG
@@ -93,6 +93,7 @@ Name=Arix the Leviathan God - 2
 1 Yavimaya Coast|APC
 [Sideboard]
 1 Cold-Eyed Selkie|C20
+1 Colossal Whale|M14
 1 Kiora, Master of the Depths|BFZ
 1 Kiora, the Crashing Wave|BNG
 1 Lightning Greaves|MRD

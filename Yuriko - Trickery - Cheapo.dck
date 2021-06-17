@@ -24,6 +24,7 @@ Name=Yuriko - Trickery - Cheapo
 1 Cover of Darkness|ONS
 1 Curtains' Call|C16
 1 Darkslick Shores|SOM
+1 Dauthi Voidwalker|MH2|2
 1 Deadly Rollick|C20
 1 Devastation Tide|AVR
 1 Dimir Infiltrator|PCA
@@ -63,7 +64,6 @@ Name=Yuriko - Trickery - Cheapo
 1 Oboro Breezecaller|SOK
 1 Ornithopter|AER
 1 Reliquary Tower|M19
-1 Sakashima the Impostor|SOK
 1 Sensei's Divining Top|EMA
 1 Siren Stormtamer|XLN
 1 Skullsnatcher|BOK
@@ -96,4 +96,5 @@ Name=Yuriko - Trickery - Cheapo
 [Sideboard]
 1 Dimir Signet|GK1
 1 Moonblade Shinobi|MH1
+1 Sakashima the Impostor|SOK
 1 Snuff Out|DDD

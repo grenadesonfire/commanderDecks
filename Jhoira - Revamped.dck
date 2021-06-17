@@ -27,13 +27,14 @@ Name=Jhoira - Revamped
 1 Fabricate|HOP
 1 Forbid|MPS_AKH
 1 Foundry Inspector|KLD
+1 Frostboil Snarl|STX|2
 1 Goblin Welder|C14
 1 Great Furnace|C18
 1 Helm of Awakening|VIS
 1 Herald of Kozilek|BFZ
 1 Inventors' Fair|KLD
 2 Island|THB|1
-7 Island|ZEN|3
+5 Island|ZEN|3
 1 Isochron Scepter|EMA
 1 Izzet Boilerworks|C18
 1 Izzet Signet|C18
@@ -43,7 +44,7 @@ Name=Jhoira - Revamped
 1 Lightning Greaves|C16
 1 Mind Stone|C18
 1 Mirrodin Besieged|MH1
-8 Mountain|ZEN|3
+7 Mountain|ZEN|3
 1 Mox Amber|DOM
 1 Muddle the Mixture|RAV
 1 Myr Retriever|CM2
@@ -51,9 +52,9 @@ Name=Jhoira - Revamped
 1 Narset, Parter of Veils|WAR|1
 1 Negate|BBD
 1 Padeem, Consul of Innovation|KLD
-1 Palladium Myr|IMA
 1 Paradoxical Outcome|KLD
 1 Phyrexian Revoker|M15
+1 Ragavan, Nimble Pilferer|MH2|1
 1 Reliquary Tower|M19
 1 Retrofitter Foundry|C18
 1 Reverse Engineer|C18
@@ -67,6 +68,7 @@ Name=Jhoira - Revamped
 1 Seat of the Synod|C18
 1 Sensei's Divining Top|CHK
 1 Shimmer Myr|C16
+1 Silverbluff Bridge|MH2
 1 Sol Ring|C18
 1 Solemn Simulacrum|C16
 1 Spellbook|M10
@@ -81,6 +83,7 @@ Name=Jhoira - Revamped
 1 Tidal Barracuda|C20
 1 Tormod's Crypt|C14
 1 Torpor Orb|NPH
+1 Urza's Saga|MH2|2
 1 Urza, Lord High Artificer|MH1
 1 Vandalblast|C15
 1 Volcanic Island|VMA
@@ -89,4 +92,5 @@ Name=Jhoira - Revamped
 1 Winter Orb|EMA
 1 Words of Wind|ONS
 [Sideboard]
+1 Palladium Myr|IMA
 1 Swiftfoot Boots|C18
