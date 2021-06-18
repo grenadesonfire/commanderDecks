@@ -65,6 +65,7 @@ Name=Atraxa infect
 1 Phyrexian Crusader|MBS
 1 Phyrexian Scriptures|DOM
 1 Phyrexian Swarmlord|NPH
+1 Pir's Whim|BBD
 1 Plague Myr|MBS
 1 Plague Stinger|SOM
 1 Plains|ZEN|3
@@ -75,7 +76,6 @@ Name=Atraxa infect
 1 Sheoldred, Whispering One|IMA
 1 Simic Manipulator|GTC
 1 Skithiryx, the Blight Dragon|SOM
-1 Skyshroud Claim|NMS
 1 Sol Ring|C19
 1 Sorin, Vengeful Bloodlord|WAR|1
 1 Spike Weaver|EXO
@@ -100,3 +100,5 @@ Name=Atraxa infect
 1 Watery Grave|GRN
 1 Winds of Abandon|MH1
 1 Zagoth Triome|IKO|2
+[Sideboard]
+

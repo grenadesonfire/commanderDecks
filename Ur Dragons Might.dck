@@ -11,7 +11,6 @@ Name=Ur Dragons Might
 1 Bojuka Bog|C19
 1 Bonders' Enclave|IKO|1
 1 Breeding Pool|EXP
-1 Broodmate Dragon|ALA
 1 Canopy Vista|BFZ
 1 Chromatic Lantern|RTR
 1 Chromatic Orrery|M21|1
@@ -59,9 +58,9 @@ Name=Ur Dragons Might
 1 Lightning Greaves|MRD
 1 Merciless Eviction|GTC
 1 Morophon, the Boundless|MH1
-1 Mortify|GPT
 2 Mountain|ZEN|2
 1 Overgrown Tomb|GRN
+1 Patriarch's Bidding|ONS
 2 Plains|ZEN|3
 1 Prairie Stream|BFZ
 1 Primevals' Glorious Rebirth|DOM
@@ -70,15 +69,16 @@ Name=Ur Dragons Might
 1 Sacred Foundry|GRN
 1 Sarkhan Unbroken|DTK
 1 Savage Ventmaw|DTK
+1 Scion of Draco|MH2|3
 1 Silumgar, the Drifting Death|C17
 1 Skyline Despot|CN2
-1 Skyshroud Claim|BBD
 1 Smoldering Marsh|BFZ
 1 Sol Ring|C18
 1 Somberwald Sage|AVR
 1 Spit Flame|M19
 1 Steam Vents|GRN
 1 Steel Hellkite|SOM
+1 Stinging Study|C21|2
 1 Stomping Ground|EXP
 1 Sunken Hollow|BFZ
 2 Swamp|ZEN|3
@@ -96,8 +96,4 @@ Name=Ur Dragons Might
 1 World Shaper|RIX
 1 Zagoth Triome|IKO|2
 [Sideboard]
-1 Buried Alive|PD3
-1 Colossal Majesty|C19
-1 Patriarch's Bidding|ONS
-1 Sheoldred, Whispering One|NPH
-1 Vorinclex, Voice of Hunger|NPH
+1 Skyshroud Claim|BBD
