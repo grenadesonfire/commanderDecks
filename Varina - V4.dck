@@ -25,6 +25,7 @@ Name=Varina - V4
 1 Crypt of Agadeem|ZEN
 1 Cryptbreaker|EMN
 1 Cyclonic Rift|MM3
+1 Damn|MH2|2
 1 Death Baron|M19
 1 Despark|WAR
 1 Dimir Aqueduct|IMA
@@ -35,7 +36,7 @@ Name=Varina - V4
 1 Elesh Norn, Grand Cenobite|NPH
 1 Etchings of the Chosen|MH1
 1 Field of the Dead|M20
-1 Forbid|MPS_AKH
+1 Fracture|STX|2
 1 Ghoulcaller Gisa|C14
 1 Gisa and Geralf|EMN
 1 Gleaming Overseer|WAR
@@ -50,6 +51,7 @@ Name=Varina - V4
 1 Icon of Ancestry|M20
 1 Island|ZEN|3
 1 Isolated Chapel|DOM
+1 Lazotep Chancellor|MH2|2
 1 Library of Leng|5ED
 1 Lich Lord of Unx|ARB
 1 Liliana, Untouched by Death|M19
@@ -58,7 +60,6 @@ Name=Varina - V4
 1 Lord of the Undead|10E
 1 Morphic Pool|BBD
 1 Murderous Rider|ELD|2
-1 Nevinyrral, Urborg Tyrant|CMR|2
 1 Noxious Ghoul|LGN
 1 Nykthos, Shrine to Nyx|THS
 1 Orzhov Basilica|IMA
@@ -74,7 +75,6 @@ Name=Varina - V4
 1 Relentless Dead|SOI
 1 Reliquary Tower|M19
 1 Rooftop Storm|ISD
-1 Rout|INV
 1 Sheoldred, Whispering One|NPH
 1 Shepherd of Rot|ONS
 1 Sidisi, Undead Vizier|DTK
@@ -90,22 +90,18 @@ Name=Varina - V4
 1 Thriving Heath|JMP
 1 Thriving Isle|JMP
 1 Thriving Moor|JMP
-1 Tormod, the Desecrator|CMR|1
 1 Undead Augur|MH1
 1 Undead Warchief|SCG
 1 Underground River|10E
 1 Unholy Grotto|ONS
 1 Vault of Champions|CMR|2
+1 Vile Entomber|MH2|1
 1 Watery Grave|GRN
 1 Wayward Servant|AKH
 1 Wrath of God|BRB
 1 Zombie Apocalypse|DKA
 [Sideboard]
-1 Army of the Damned|ISD
-1 Azorius Signet|C18
-1 Blood Artist|C17
-1 Endless Ranks of the Dead|ISD
-1 Eternal Skylord|WAR
-1 Faith of the Devoted|AKH
-1 Mausoleum Secrets|GRN
-1 Necromancer's Covenant|ARB
+1 Forbid|MPS_AKH
+1 Nevinyrral, Urborg Tyrant|CMR|2
+1 Rout|INV
+1 Tormod, the Desecrator|CMR|1

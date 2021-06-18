@@ -19,15 +19,15 @@ Name=Muldrotha V3
 1 Command Tower|C18
 1 Court of Bounty|CMR|1
 1 Cyclonic Rift|RTR
+1 Dauthi Voidwalker|MH2|1
 1 Deathrite Shaman|GK1
 1 Dimir Aqueduct|C18
 1 Dryad of the Ilysian Grove|THB|2
 1 Eternal Witness|CM2
 1 Evolving Wilds|ROE
-1 Farseek|C17
 1 Fiend Artisan|IKO|1
 1 Forbid|MPS_AKH
-6 Forest|ZEN|2
+5 Forest|ZEN|2
 1 Geth, Lord of the Vault|SOM
 1 Glen Elendra Archmage|MMA
 1 Glowstone Recluse|IKO|1
@@ -85,6 +85,7 @@ Name=Muldrotha V3
 1 Woodland Cemetery|DOM
 1 World Breaker|OGW
 1 World Shaper|RIX
+1 Yavimaya, Cradle of Growth|MH2|1
 1 Zagoth Triome|IKO|2
 [Sideboard]
 1 Glowspore Shaman|GRN
