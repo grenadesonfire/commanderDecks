@@ -8,59 +8,60 @@ Name=One Dragon To The Next
 1 Arcane Signet|ELD
 1 Assassin's Trophy|GRN
 1 Badlands|VMA
+1 Bastion of Remembrance|IKO
 1 Bayou|VMA
 1 Birds of Paradise|GK2
 1 Blood Crypt|EXP
 1 Bloodstained Mire|KTK
 1 Bojuka Bog|C18
-1 Buried Alive|UMA
 1 Chromatic Lantern|RTR
 1 Cinder Glade|EXP
 1 Command Tower|COM
+1 Craterhoof Behemoth|JMP
 1 Crop Rotation|DDR
 1 Crucible of Worlds|M19
+1 Daretti, Ingenious Iconoclast|PZ2
 1 Deathrite Shaman|GK1
 1 Demonic Tutor|UMA
 1 Diabolic Intent|BBD
-1 Diabolic Tutor|KLD
 1 Dockside Extortionist|C19
 1 Dragonskull Summit|XLN
+1 Endrek Sahr, Master Breeder|MM2
 1 Eternal Witness|MMA
 1 Farseek|C19
 1 Fiend Artisan|IKO|2
-1 Finale of Devastation|WAR
 1 Food Chain|MMQ
+1 Footsteps of the Goryo|SOK
 1 Forest|ZEN|2
 4 Forest|ZEN|3
-1 Gadrak, the Crown-Scourge|M21|2
 1 Goblin Bombardment|TPR
 1 Golgari Rot Farm|IMA
 1 Grave Pact|CM2
-1 Growing Rites of Itlimoc|XLN
 1 Ignoble Hierarch|MH2|3
 1 Impact Tremors|DTK
 1 Impulsive Pilferer|CMR
 1 Journey to Eternity|RIX
 1 Jund Panorama|C18
-1 Juri, Master of the Revue|CMR|2
 1 Kenrith's Transformation|ELD|2
+1 Krenko, Tin Street Kingpin|WAR
 1 Krosan Grip|MMA
+1 Life // Death|DDJ
 1 Lightning Greaves|MRD
-1 Mayhem Devil|WAR
+1 Maelstrom Pulse|MPS_AKH
 1 Meren of Clan Nel Toth|CMA
 3 Mountain|ZEN|3
 1 Nature's Claim|IMA
 1 Nature's Lore|VMA
-1 Necropotence|IMA
 1 Noxious Revival|NPH
-1 Oakhame Adversary|ELD
+1 Ordeal of Nylea|CMR
 1 Overgrown Tomb|GRN
-1 Plaguecrafter|MB1
-1 Praetor's Grasp|NPH
+1 Pitiless Plunderer|RIX
+1 Prossh, Skyraider of Kher|CMR
 1 Purphoros, God of the Forge|THS
 1 Putrefy|C18
 1 Pyroblast|EMA
 1 Ramunap Excavator|HOU
+1 Reanimate|JMP
 1 Red Elemental Blast|A25
 1 Reliquary Tower|M19
 1 Rhythm of the Wild|RNA
@@ -72,8 +73,8 @@ Name=One Dragon To The Next
 1 Skullclamp|DST
 1 Smoldering Marsh|BFZ
 1 Sol Ring|C18
-1 Solemn Simulacrum|C14
 1 Springbloom Druid|MH1
+1 Sprouting Thrinax|MM3
 1 Squee, the Immortal|DOM
 1 Stomping Ground|EXP
 1 Strip Mine|EXP
@@ -83,19 +84,20 @@ Name=One Dragon To The Next
 1 Sylvan Safekeeper|CMA
 1 Taiga|VMA
 1 Temur Sabertooth|C17
+1 The Gitrog Monster|J21
 1 Tireless Tracker|MB1
 1 Undergrowth Stadium|CMR|1
 1 Vampiric Tutor|EMA
 1 Veil of Summer|M20
 1 Verdant Catacombs|MM3
-1 Vexing Shusher|SHM
 1 Victimize|CMA
-1 Walking Ballista|AER
 1 Wayward Swordtooth|RIX
 1 Wooded Foothills|KTK
 1 Woodland Cemetery|DOM
-1 Wrenn and Six|MH1
+1 Wurmcoil Engine|2XM|1
 [Sideboard]
-1 Azra Oddsmaker|BBD
-1 Bastion of Remembrance|IKO
-1 Yavimaya Elder|C18
+1 Finale of Devastation|WAR
+1 Growing Rites of Itlimoc|XLN
+1 Necropotence|IMA
+1 Solemn Simulacrum|C14
+1 Wrenn and Six|MH1
