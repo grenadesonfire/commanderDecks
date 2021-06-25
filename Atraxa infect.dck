@@ -32,7 +32,6 @@ Name=Atraxa infect
 1 Everflowing Chalice|MM2
 1 Evolution Sage|WAR
 1 Exotic Orchard|C19
-1 Finale of Devastation|WAR
 1 Flux Channeler|WAR
 2 Forest|ZEN|1
 1 Generous Gift|MH1
@@ -70,6 +69,7 @@ Name=Atraxa infect
 1 Plague Stinger|SOM
 1 Plains|ZEN|3
 1 Priests of Norn|MBS
+1 Replicating Ring|KHM
 1 Rhystic Study|PCY
 1 Saltcrusted Steppe|TSP
 1 Scavenging Ooze|CM2
@@ -101,4 +101,4 @@ Name=Atraxa infect
 1 Winds of Abandon|MH1
 1 Zagoth Triome|IKO|2
 [Sideboard]
-
+1 Finale of Devastation|WAR

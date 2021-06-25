@@ -4,10 +4,12 @@ Name=Rakdos- Dragon Piper
 1 Rakdos, Lord of Riots|CMR
 [Main]
 1 Animate Dead|EMA
+1 Arcane Signet|C21
 1 Badlands|PRM
 1 Balefire Dragon|UMA
 1 Birgi, God of Storytelling|KHM|2
 1 Blasphemous Act|ISD
+1 Blightstep Pathway|KHM|2
 1 Blood Crypt|RNA
 1 Bogardan Hellkite|IMA
 1 Bojuka Bog|WWK
@@ -30,7 +32,7 @@ Name=Rakdos- Dragon Piper
 1 Kroxa, Titan of Death's Hunger|THB|1
 1 Leechridden Swamp|SHM
 1 Lightning Greaves|MRD
-14 Mountain|2XM|1
+13 Mountain|2XM|1
 1 Necropotence|IMA
 1 Neheb, the Eternal|HOU
 1 Nightscape Familiar|PLS
@@ -63,7 +65,6 @@ Name=Rakdos- Dragon Piper
 1 Unlicensed Disintegration|KLD
 1 Utvara Hellkite|RTR
 1 Wayfarer's Bauble|MM2
-1 Whip of Erebos|THS
 1 Witch's Cottage|ELD
 [Sideboard]
 1 Darksteel Ingot|M14

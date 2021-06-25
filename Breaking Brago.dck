@@ -3,6 +3,7 @@ Name=Breaking Brago
 [Commander]
 1 Brago, King Eternal|CMR
 [Main]
+1 Access Tunnel|STX
 1 Act of Authority|C13
 1 Adarkar Wastes|10E
 1 Agent of Treachery|M20
@@ -33,7 +34,6 @@ Name=Breaking Brago
 1 Ephara, God of the Polis|BNG
 1 Exclusion Ritual|NPH
 1 Fabricate|M10
-1 Felidar Guardian|MB1
 1 Fierce Guardianship|C20
 1 Ghost Quarter|C15
 1 Glacial Fortress|XLN
@@ -96,5 +96,3 @@ Name=Breaking Brago
 1 Venser, the Sojourner|SOM
 1 War Room|CMR|1
 1 Watcher for Tomorrow|MH1
-[Sideboard]
-

@@ -6,14 +6,14 @@ Name=Kykars Crouching Tokens Hidden Eldrazi
 1 Anointed Procession|AKR
 1 Arcane Denial|CMR|2
 1 Arcane Signet|C20
-1 Archaeomancer's Map|C21|1
 1 Ashnod's Altar|MB1
 1 Azorius Chancery|C20
+1 Azorius Signet|KHC
 1 Blasphemous Act|CMR|2
 1 Blightsteel Colossus|MBS
 1 Blue Sun's Zenith|A25
 1 Boros Garrison|ZNC
-1 Boros Signet|C20
+1 Brain in a Jar|SOI
 1 Brainstorm|2XM|1
 1 Castle Ardenvale|ELD|1
 1 Cathars' Crusade|JMP
@@ -21,29 +21,28 @@ Name=Kykars Crouching Tokens Hidden Eldrazi
 1 Command Tower|CMR|3
 1 Council's Judgment|2XM|1
 1 Counterspell|CMR|2
-1 Cryptic Command|IMA
 1 Cyclonic Rift|2XM|2
 1 Divergent Transformations|C16
 1 Dovin's Veto|WAR
 1 Faithless Looting|MB1
 1 Field of the Dead|M20
 1 Fierce Guardianship|C20
-1 Finale of Glory|WAR
-1 Finale of Promise|WAR
-1 Finale of Revelation|WAR
+1 Fire Prophecy|IKO
 1 Generous Gift|CMR|1
 1 Glacial Fortress|XLN
 1 Hallowed Fountain|RNA
-1 Invoke the Firemind|GK1
-10 Island|2XM|1
+9 Island|2XM|1
 1 It That Betrays|ROE
 1 Izzet Boilerworks|C20
 1 Izzet Signet|C20
+1 Jwari Disruption|ZNR
 1 Kher Keep|PLIST
 1 Kozilek, Butcher of Truth|UMA
 1 Lightning Greaves|2XM|1
+1 Lofty Denial|M21
 1 Mana Drain|CMR|2
 1 Mass Polymorph|M11
+1 Miscast|M21
 2 Mountain|2XM|1
 1 Myriad Landscape|CMR|2
 1 Mystic Monastery|C20
@@ -56,7 +55,6 @@ Name=Kykars Crouching Tokens Hidden Eldrazi
 1 Ponder|C18
 1 Prairie Stream|C20
 1 Preordain|CMR|2
-1 Primal Amulet|XLN
 1 Proteus Staff|MRD
 1 Pull from Eternity|FMB1
 1 Pull from Tomorrow|AKR
@@ -68,6 +66,7 @@ Name=Kykars Crouching Tokens Hidden Eldrazi
 1 Rhystic Study|JMP
 1 Sacred Foundry|GRN
 1 Saheeli, Sublime Artificer|SLD
+1 Saw It Coming|KHM
 1 Shifting Shadow|C17
 1 Skullclamp|PLIST
 1 Smothering Tithe|RNA
@@ -82,6 +81,7 @@ Name=Kykars Crouching Tokens Hidden Eldrazi
 1 Swiftfoot Boots|CMR|1
 1 Swords to Plowshares|CMR|1
 1 Synthetic Destiny|PZ1
+1 Tale's End|M20
 1 Talisman of Creativity|MH1
 1 Thought Vessel|CMR|2
 1 Time Wipe|WAR
@@ -91,13 +91,6 @@ Name=Kykars Crouching Tokens Hidden Eldrazi
 1 Wear // Tear|CMR
 1 Whirlwind of Thought|IKO|2
 1 White Sun's Zenith|CMR
+1 Wizard's Retort|JMP
 [Sideboard]
-1 Distant Melody|ZNC
-1 Dramatic Reversal|KLD
-1 Force of Will|2XM|2
-1 Indomitable Creativity|KLR
-1 Isochron Scepter|2XM
-1 Mission Briefing|GRN
-1 Phyrexian Altar|UMA
-1 Underworld Breach|THB|1
-1 Utvara Hellkite|RTR
+
