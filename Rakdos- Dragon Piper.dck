@@ -7,6 +7,7 @@ Name=Rakdos- Dragon Piper
 1 Arcane Signet|C21
 1 Badlands|PRM
 1 Balefire Dragon|UMA
+1 Bedevil|RNA
 1 Birgi, God of Storytelling|KHM|2
 1 Blasphemous Act|ISD
 1 Blightstep Pathway|KHM|2
@@ -18,16 +19,15 @@ Name=Rakdos- Dragon Piper
 1 Cathartic Reunion|IKO
 1 Command Tower|ELD
 1 Deadly Tempest|MB1
-1 Doom Blade|IMA
 1 Dragon Mage|M20
 20 Dragon's Approach|STX
 1 Dragon's Rage Channeler|MH2
+1 Dragonkin Berserker|KHM|1
 1 Dragonmaster Outcast|BFZ
 1 Dragonskull Summit|XLN
 1 Drakuseth, Maw of Flames|M20
 1 Foreboding Ruins|SOI
 1 Goldspan Dragon|KHM|1
-1 Guttersnipe|PLIST
 1 Immersturm Predator|KHM|1
 1 Kroxa, Titan of Death's Hunger|THB|1
 1 Leechridden Swamp|SHM
@@ -35,22 +35,23 @@ Name=Rakdos- Dragon Piper
 13 Mountain|2XM|1
 1 Necropotence|IMA
 1 Neheb, the Eternal|HOU
+1 Nesting Dragon|C18
 1 Nightscape Familiar|PLS
 1 Palace Siege|FRF
-1 Phyrexian Arena|9ED
-1 Pyromancer Ascension|SS3
 1 Rakdos Carnarium|IMA
 1 Rakdos Charm|RTR
 1 Rakdos Signet|MM3
 1 Reforge the Soul|AVR
-1 Runaway Steam-Kin|GRN
+1 Sarkhan the Masterless|SLD
+1 Scion of Draco|MH2|3
 1 Semblance Anvil|SOM
 1 Shenanigans|MB1
 1 Sin Prodder|SOI
 1 Smoldering Marsh|BFZ
 1 Sol Ring|C21
-1 Spellweaver Helix|MRD
+1 Spit Flame|M19
 1 Steel Hellkite|C21
+1 Stormfist Crusader|ELD|2
 1 Sulfurous Mire|KHM
 6 Swamp|2XM|1
 1 Swiftfoot Boots|A25
@@ -60,13 +61,10 @@ Name=Rakdos- Dragon Piper
 1 Terror of the Peaks|M21|1
 1 Thundermaw Hellkite|IMA
 1 Tibalt's Trickery|KHM|1
-1 Torbran, Thane of Red Fell|ELD|1
 1 Torrent of Souls|MM3
 1 Unlicensed Disintegration|KLD
 1 Utvara Hellkite|RTR
 1 Wayfarer's Bauble|MM2
 1 Witch's Cottage|ELD
 [Sideboard]
-1 Darksteel Ingot|M14
-1 Dockside Extortionist|C19
-1 Knollspine Dragon|SHM
+
