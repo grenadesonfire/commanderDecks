@@ -10,7 +10,7 @@ Name=Kykars Crouching Tokens Hidden Eldrazi
 1 Azorius Chancery|C20
 1 Azorius Signet|KHC
 1 Blasphemous Act|CMR|2
-1 Blightsteel Colossus|MBS
+1 Blightsteel Colossus|2XM|2
 1 Blue Sun's Zenith|A25
 1 Boros Garrison|ZNC
 1 Brain in a Jar|SOI
@@ -22,6 +22,7 @@ Name=Kykars Crouching Tokens Hidden Eldrazi
 1 Council's Judgment|2XM|1
 1 Counterspell|CMR|2
 1 Cyclonic Rift|2XM|2
+1 Dark Depths|2XM
 1 Divergent Transformations|C16
 1 Dovin's Veto|WAR
 1 Faithless Looting|MB1
@@ -31,7 +32,7 @@ Name=Kykars Crouching Tokens Hidden Eldrazi
 1 Generous Gift|CMR|1
 1 Glacial Fortress|XLN
 1 Hallowed Fountain|RNA
-9 Island|2XM|1
+8 Island|2XM|1
 1 It That Betrays|ROE
 1 Izzet Boilerworks|C20
 1 Izzet Signet|C20
@@ -44,7 +45,6 @@ Name=Kykars Crouching Tokens Hidden Eldrazi
 1 Mass Polymorph|M11
 1 Miscast|M21
 2 Mountain|2XM|1
-1 Myriad Landscape|CMR|2
 1 Mystic Monastery|C20
 1 Mystical Tutor|SS1
 1 Opt|M21
@@ -83,6 +83,7 @@ Name=Kykars Crouching Tokens Hidden Eldrazi
 1 Synthetic Destiny|PZ1
 1 Tale's End|M20
 1 Talisman of Creativity|MH1
+1 Thespian's Stage|2XM
 1 Thought Vessel|CMR|2
 1 Time Wipe|WAR
 1 Training Center|CMR|2
@@ -92,5 +93,3 @@ Name=Kykars Crouching Tokens Hidden Eldrazi
 1 Whirlwind of Thought|IKO|2
 1 White Sun's Zenith|CMR
 1 Wizard's Retort|JMP
-[Sideboard]
-
