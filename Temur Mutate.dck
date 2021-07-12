@@ -3,6 +3,7 @@ Name=Temur Mutate
 [Commander]
 1 Illuna, Apex of Wishes|IKO|2
 [Main]
+1 Abundant Harvest|MH2|1
 1 Animar, Soul of Elements|MB1
 1 Arcane Signet|KHC
 1 Auspicious Starrix|IKO|2
@@ -11,6 +12,7 @@ Name=Temur Mutate
 1 Beast Whisperer|TSR
 1 Beast Within|CN2
 1 Birds of Paradise|SLD
+1 Blasphemous Act|C21
 1 Bonders' Enclave|IKO|2
 1 Breeding Pool|RNA
 1 Chaos Warp|C14
@@ -26,7 +28,9 @@ Name=Temur Mutate
 1 Evacuation|C16
 1 Everquill Phoenix|IKO|2
 1 Farseek|TSR
-15 Forest|2XM|1
+1 Flooded Grove|2XM
+1 Force of Vigor|H1R
+8 Forest|2XM|1
 1 Frontier Bivouac|C20
 1 Gemrazer|IKO|3
 1 Gladecover Scout|M14
@@ -34,13 +38,14 @@ Name=Temur Mutate
 1 Glowstone Recluse|IKO|2
 1 Growth Spiral|CMR
 1 Gruul Turf|ZNC
+1 Hexdrinker|MH1
 1 Hinterland Harbor|DOM
-3 Island|2XM|1
+6 Island|2XM|1
+1 Izzet Boilerworks|C21
 1 Ketria Triome|IKO|2
 1 Kodama's Reach|CMR|2
 1 Leyline of Lifeforce|GPT
 1 Lifecrafter's Bestiary|KLR
-1 Lightning Greaves|2XM|2
 1 Littjara Mirrorlake|KHM
 1 Loaming Shaman|M20
 1 Lore Drakkis|IKO|2
@@ -49,22 +54,24 @@ Name=Temur Mutate
 1 Mythos of Illuna|IKO|2
 1 Paradise Druid|PWAR
 1 Parcelbeast|IKO|2
-1 Pollywog Symbiote|IKO|2
-1 Pongify|TSR
 1 Predator Ooze|C20
 1 Primal Empathy|IKO
 1 Progenitor Mimic|2XM
 1 Questing Beast|ELD|2
 1 Rampant Growth|CMR
+1 Reliquary Tower|C21
 1 Return to Nature|M21
+1 Rhythm of the Wild|RNA
 1 Rite of Replication|C15
 1 Rogue's Passage|CMR
 1 Rootbound Crag|XLN
 1 Sakashima of a Thousand Faces|CMR|1
 1 Sawtusk Demolisher|C20
+1 Scavenging Ooze|M21|2
 1 Scute Swarm|ZNR|2
 1 Sea-Dasher Octopus|IKO|2
 1 Seasons Past|SOI
+1 Sheltered Thicket|AKR
 1 Silhana Ledgewalker|MB1
 1 Simic Growth Chamber|CMR
 1 Simic Signet|CMR
@@ -73,23 +80,16 @@ Name=Temur Mutate
 1 Souvenir Snatcher|C20
 1 Spark Double|WAR
 1 Spire Garden|ZNE
-1 Spitting Image|CMR
 1 Stomping Ground|RNA
+1 Stonecoil Serpent|ELD|2
 1 Sublime Epiphany|M21|2
 1 Sulfur Falls|DOM
 1 Swiftfoot Boots|KHC
 1 The Great Henge|ELD|2
-1 Titanoth Rex|IKO|2
 1 Toski, Bearer of Secrets|KHM|2
 1 Troll Ascetic|CM2
 1 Trumpeting Gnarr|IKO|1
 1 Uro, Titan of Nature's Wrath|SLD
-1 Wilt|IKO
-1 Yidaro, Wandering Monster|IKO|3
 [Sideboard]
-1 Clever Impersonator|C19
-1 Hydra Omnivore|C18
-1 Izzet Signet|C20
-1 Ketria Crystal|IKO
-1 Phyrexian Metamorph|2XM|1
-1 Strionic Resonator|C19
+1 Lightning Greaves|2XM|2
+1 Spitting Image|CMR
