@@ -9,6 +9,7 @@ Name=Kykars Crouching Tokens Hidden Eldrazi
 1 Ashnod's Altar|MB1
 1 Azorius Chancery|C20
 1 Azorius Signet|KHC
+1 Batterbone|MH2
 1 Blasphemous Act|CMR|2
 1 Blightsteel Colossus|2XM|2
 1 Blue Sun's Zenith|A25
@@ -32,8 +33,8 @@ Name=Kykars Crouching Tokens Hidden Eldrazi
 1 Generous Gift|CMR|1
 1 Glacial Fortress|XLN
 1 Hallowed Fountain|RNA
+1 Heliod's Intervention|THB|2
 8 Island|2XM|1
-1 It That Betrays|ROE
 1 Izzet Boilerworks|C20
 1 Izzet Signet|C20
 1 Jwari Disruption|ZNR
@@ -43,6 +44,7 @@ Name=Kykars Crouching Tokens Hidden Eldrazi
 1 Lofty Denial|M21
 1 Mana Drain|CMR|2
 1 Mass Polymorph|M11
+1 Metallurgic Summonings|C21
 1 Miscast|M21
 2 Mountain|2XM|1
 1 Mystic Monastery|C20
@@ -57,7 +59,6 @@ Name=Kykars Crouching Tokens Hidden Eldrazi
 1 Preordain|CMR|2
 1 Proteus Staff|MRD
 1 Pull from Eternity|FMB1
-1 Pull from Tomorrow|AKR
 1 Raugrin Triome|IKO|2
 1 Reality Scramble|MB1
 1 Red Sun's Zenith|MBS
@@ -65,15 +66,14 @@ Name=Kykars Crouching Tokens Hidden Eldrazi
 1 Reweave|CHK
 1 Rhystic Study|JMP
 1 Sacred Foundry|GRN
-1 Saheeli, Sublime Artificer|SLD
 1 Saw It Coming|KHM
 1 Shifting Shadow|C17
 1 Skullclamp|PLIST
 1 Smothering Tithe|RNA
 1 Sol Ring|CC1
 1 Solve the Equation|STX
-1 Spear of Heliod|THS
 1 Spectator Seating|CMR|1
+1 Sphinx's Revelation|GK2
 1 Springjack Pasture|C13
 1 Steam Vents|GRN
 1 Sulfur Falls|DOM
@@ -93,3 +93,8 @@ Name=Kykars Crouching Tokens Hidden Eldrazi
 1 Whirlwind of Thought|IKO|2
 1 White Sun's Zenith|CMR
 1 Wizard's Retort|JMP
+[Sideboard]
+1 Elixir of Immortality|C21
+1 It That Betrays|ROE
+1 Saheeli, Sublime Artificer|SLD
+1 Spear of Heliod|THS
