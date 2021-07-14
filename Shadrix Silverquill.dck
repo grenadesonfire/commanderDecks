@@ -5,12 +5,12 @@ Name=Shadrix Silverquill
 [Main]
 1 Anointed Procession|AKR
 1 Arcane Signet|C21
-1 Ashnod's Altar|MB1
 1 Attrition|MPS_AKH
 1 Author of Shadows|C21|2
 1 Basri's Lieutenant|M21|2
 1 Bastion Protector|PZ1
 1 Blot Out the Sky|STX|2
+1 Bojuka Bog|C21
 1 Bold Plagiarist|C21|2
 1 Breena, the Demagogue|C21|2
 1 Brightclimb Pathway|ZNR|2
@@ -52,6 +52,7 @@ Name=Shadrix Silverquill
 1 Knight of the White Orchid|C21
 1 Lightning Greaves|2XM|2
 1 Mikaeus, the Lunarch|JMP
+1 Mind Stone|C21
 1 Monologue Tax|C21|2
 1 Myriad Landscape|C21
 1 Nikara, Lair Scavenger|C20
@@ -59,7 +60,7 @@ Name=Shadrix Silverquill
 1 Ondu Inversion|ZNR|2
 1 Orzhov Advokist|C21
 1 Orzhov Basilica|C21
-1 Phyrexian Altar|UMA
+1 Orzhov Signet|C21
 1 Plague Engineer|MH1
 13 Plains|2XM|2
 1 Scholarship Sponsor|C21|1
@@ -71,9 +72,9 @@ Name=Shadrix Silverquill
 1 Sol Ring|C21
 1 Stoic Farmer|KHC
 1 Sun Titan|C21
-8 Swamp|2XM|2
+1 Sunscorch Regent|C21
+7 Swamp|2XM|2
 1 Swiftfoot Boots|C15
-1 Sword of Truth and Justice|H1R
 1 Temple of Silence|C21
 1 Tempting Contract|C21|2
 1 Tevesh Szat, Doom of Fools|CMR|1
@@ -82,4 +83,4 @@ Name=Shadrix Silverquill
 1 Twilight Drover|DDK
 1 Village Rites|STA|1
 1 Westvale Abbey|SOI
-1 Yawgmoth, Thran Physician|MH1
+1 Windborn Muse|C21
