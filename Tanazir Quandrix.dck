@@ -13,12 +13,13 @@ Name=Tanazir Quandrix
 1 Coiling Oracle|C21
 1 Command Tower|C21
 1 Cultivate|STA|1
+1 Curse of the Swine|C21
 1 Decisive Denial|STX|2
 1 Evolution Sage|ZNC
 1 Farseek|MB1
 1 Fathom Mage|CMR
 1 Fertilid|CMR
-12 Forest|2XM|1
+9 Forest|2XM|1
 1 Forgotten Ancient|C21
 1 Garruk's Uprising|M21|2
 1 Growing Rites of Itlimoc|PXTC
@@ -37,20 +38,24 @@ Name=Tanazir Quandrix
 1 Krosan Grip|STA|1
 1 Lazotep Plating|WAR
 1 Littjara Mirrorlake|KHM
+1 Llanowar Reborn|C21
 1 Loyal Guardian|C18
 1 Managorger Hydra|C21
 1 Master Biomancer|C21
 1 Merfolk Skydiver|WAR
 1 Mistcutter Hydra|THS
+1 Mosswort Bridge|C21
 1 Murkfiend Liege|CMR
 1 Nature's Claim|MB1
 1 Opal Palace|C21
+1 Oran-Rief, the Vastwood|C21
 1 Ordeal of Nylea|CMR
 1 Path of Discovery|RIX
 1 Perplexing Test|C21|2
 1 Pir's Whim|BBD
 1 Pir, Imaginative Rascal|BBD
 1 Plaxcaster Frogling|C21
+1 Primal Empathy|C21
 1 Prime Speaker Zegana|C15
 1 Primordial Hydra|M13
 1 Protean Hydra|M11
@@ -65,7 +70,6 @@ Name=Tanazir Quandrix
 1 Simic Ascendancy|PRNA
 1 Simic Charm|CMR
 1 Simic Growth Chamber|C21
-1 Simic Signet|C21
 1 Snakeskin Veil|STA|1
 1 Sol Ring|C21
 1 Solidarity of Heroes|CM2
@@ -73,7 +77,6 @@ Name=Tanazir Quandrix
 1 Steelbane Hydra|ELD
 1 Temple of Mystery|C21
 1 Tezzeret's Gambit|STA|1
-1 The Ozolith|IKO|2
 1 Thrummingbird|MB1
 1 Toothy, Imaginary Friend|BBD
 1 Trygon Predator|C20
@@ -84,3 +87,6 @@ Name=Tanazir Quandrix
 1 Whiptongue Hydra|C18
 1 Yavimaya Coast|C21
 1 Zegana, Utopian Speaker|RNA
+[Sideboard]
+1 Simic Signet|C21
+1 The Ozolith|IKO|2
